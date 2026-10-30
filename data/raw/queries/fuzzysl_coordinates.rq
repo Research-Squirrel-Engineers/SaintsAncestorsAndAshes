@@ -1,0 +1,20 @@
+#endpoint: https://fuzzy-sl.wikibase.cloud/query/sparql
+# Every coordinate statement in the fuzzy-sl Wikibase with all its qualifiers
+# (certainty level, method, location type, point type, source ...), read
+# generically through the statement node. One row per qualifier value.
+# Step S5 uses it to count how many coordinates, and of which certainty, the
+# fuzzy-sl hub adds to a CI findspot.
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+SELECT ?item ?itemLabel ?statement ?coord ?qual ?qualLabel ?qualValue ?qualValueLabel WHERE {
+  ?prop wikibase:propertyType wikibase:GlobeCoordinate ;
+        wikibase:claim ?claim ;
+        wikibase:statementProperty ?ps .
+  ?item ?claim ?statement .
+  ?statement ?ps ?coord .
+  OPTIONAL {
+    ?qual wikibase:qualifier ?pq .
+    ?statement ?pq ?qualValue .
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

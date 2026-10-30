@@ -1,0 +1,22 @@
+# Campanian Ignimbrite findspots that are recorded in the fuzzy-sl Wikibase
+# but not in data/raw/ci/ci_findspots.csv. Step S5 adds them to both layers
+# (decision of 2026-10-20, PRIMER A4). Everything else about them --
+# label, coordinate, certainty, links, literature, spatial type -- is read
+# from the fuzzy-sl snapshots under data/raw/wikidata/, not typed here.
+#
+# The list itself is curated: fuzzy-sl also holds Ogham stones, Samian ware
+# and coin-hoard findspots, and nothing in the harvested statements marks an
+# item as belonging to the CI project. Found by comparing the fuzzy-sl
+# snapshot of 2026-10-20 with the CSV; to be confirmed by Florian Thiery.
+source: "fuzzy-sl.wikibase.cloud, snapshot in data/raw/wikidata/ (harvest of 2026-10-20)"
+items:
+  - qid: Q134
+    note: Dead Sea Deep Drilling Project 5017-1A (Kearney et al. 2024)
+  - qid: Q136
+    note: Pompeii, Casa della Fontana Piccola (Rovella et al. 2018)
+  - qid: Q137
+    note: Pompeii, Via dell'Abbondanza (Rovella et al. 2018)
+  - qid: Q138
+    note: Pompeii, Casa della Caccia Antica (Rovella et al. 2018)
+  - qid: Q139
+    note: Fumane Cave

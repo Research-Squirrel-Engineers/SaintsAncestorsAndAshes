@@ -1,0 +1,14 @@
+# Every external identifier (GND, VIAF, Library of Congress, ...) of the
+# namesakes (P138) of the holy wells in Ireland and the United Kingdom.
+# Generic over the property type, so no identifier property is hard-coded.
+# Feeds layer (b) of S4.
+SELECT DISTINCT ?namesake ?prop ?propLabel ?value WHERE {
+  VALUES ?country { wd:Q27 wd:Q145 }
+  ?well wdt:P31 wd:Q1371047 ;
+        wdt:P17 ?country ;
+        wdt:P138 ?namesake .
+  ?namesake ?direct ?value .
+  ?prop wikibase:directClaim ?direct ;
+        wikibase:propertyType wikibase:ExternalId .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

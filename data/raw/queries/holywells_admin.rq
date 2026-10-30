@@ -1,0 +1,12 @@
+# Holy wells in Ireland and the United Kingdom, the administrative unit they
+# are located in (P131), its type and the unit above it. Feeds the
+# geographic part of the LOD layer of the Saints case (S4).
+SELECT ?well ?adm ?admLabel ?admType ?admTypeLabel ?parent ?parentLabel WHERE {
+  VALUES ?country { wd:Q27 wd:Q145 }
+  ?well wdt:P31 wd:Q1371047 ;
+        wdt:P17 ?country ;
+        wdt:P131 ?adm .
+  OPTIONAL { ?adm wdt:P31 ?admType . }
+  OPTIONAL { ?adm wdt:P131 ?parent . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

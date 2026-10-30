@@ -1,0 +1,110 @@
+node,qid,label,gender,person,types,wells,reach,spread_km,mst_km,authorities,other_identifier_types
+wd_Q106982086,Q106982086,Berchert,male,True,human,2,2–4 wells,29.9,59.7,,1
+wd_Q1110134,Q1110134,Colmán of Lindisfarne,male,True,human,1,1 well,0.0,0.0,,7
+wd_Q1133742,Q1133742,Cainnech of Aghaboe,male,True,human,5,5–19 wells,35.8,136.8,Library of Congress;VIAF,12
+wd_Q120132,Q120132,Adomnán,male,True,human,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,87
+wd_Q120999994,Q120999994,Darbiled,female,True,human,2,2–4 wells,3.5,7.0,,0
+wd_Q121010274,Q121010274,Cóelfhind,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q1277655,Q1277655,Dallán Forgaill,male,True,human,1,1 well,0.0,0.0,,9
+wd_Q128267,Q128267,Saint Joseph,male,True,human biblical figure,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,93
+wd_Q1288349,Q1288349,Íte of Killeedy,female,True,human,5,5–19 wells,61.7,181.6,GND;VIAF,9
+wd_Q1291152,Q1291152,Werburgh,female,True,human,2,2–4 wells,0.3,0.5,Library of Congress;VIAF,13
+wd_Q130531018,Q130531018,Mochuille of Dresnaidh,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q130531057,Q130531057,Modhomhnóg Oilthir,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q130535426,Q130535426,Ríoghnach of Kilrainy,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q130535583,Q130535583,Cuán of Kilcoan,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q130535684,Q130535684,Senán of Laraghbryan,male,True,human,2,2–4 wells,1.6,3.3,,0
+wd_Q130535806,Q130535806,Bearchán of Drumlohan,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q130535826,Q130535826,Náile of Kinawley,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q130549605,Q130549605,Colmán of Connahy,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q133704,Q133704,Martin of Tours,male,True,human,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,134
+wd_Q139078212,Q139078212,Saint Olan,male,True,human whose existence is disputed,1,1 well,0.0,0.0,,0
+wd_Q139256990,Q139256990,Caoimheall,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q139257038,Q139257038,Caomhán Santleathan,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q139257128,Q139257128,Cuan of Airbhre,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q139265301,Q139265301,Saint Oncho,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q139285626,Q139285626,Buonia,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q139328382,Q139328382,Eilibh,female,True,human,2,2–4 wells,19.4,38.7,,0
+wd_Q139377606,Q139377606,Seven Sisters,female,True,human,5,5–19 wells,17.5,71.9,,0
+wd_Q139380063,Q139380063,Aithneann of Killannin,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q139380386,Q139380386,Conall of Drumcliff,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q139384793,Q139384793,Inghne Bhuidhe,female,True,human,16,5–19 wells,25.1,166.1,,0
+wd_Q139489394,Q139489394,Branait,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q139495962,Q139495962,Coneela,female,True,human,2,2–4 wells,46.6,93.1,,0
+wd_Q139497765,Q139497765,Lasair of Donaghmoyne,female,True,human,2,2–4 wells,39.1,78.1,,0
+wd_Q139497934,Q139497934,Bearchán of Castlehaven,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q139502948,Q139502948,Sínech,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q139551084,Q139551084,Saint Coca,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q139552386,Q139552386,Saint Eaumas,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q139552530,Q139552530,Saint Bigseach,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q139566550,Q139566550,Aedhnat,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q139567016,Q139567016,Damhnad of Tedavnet,female,True,human,5,5–19 wells,87.7,331.3,,1
+wd_Q139568491,Q139568491,Crone of Templecrone,female,True,human,1,1 well,0.0,0.0,,0
+wd_Q139980476,Q139980476,Sárán of Tisaran,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q164294,Q164294,Saint Anne,female,True,human,20,≥ 20 wells,123.4,975.5,GND;Library of Congress;VIAF,48
+wd_Q165479,Q165479,Saint Patrick,male,True,human,25,≥ 20 wells,75.1,557.5,GND;Library of Congress;VIAF,133
+wd_Q16933730,Q16933730,Scuithin,male,True,human,1,1 well,0.0,0.0,,1
+wd_Q16976546,Q16976546,Saint Munn,male,True,human,1,1 well,0.0,0.0,,0
+wd_Q170164,Q170164,Helena Augusta,female,True,human,3,2–4 wells,17.2,43.6,GND;Library of Congress;VIAF,92
+wd_Q177232,Q177232,son,male,False,kinship,2,2–4 wells,99.6,199.3,,22
+wd_Q179718,Q179718,Catherine of Alexandria,female,True,human;human whose existence is disputed,23,≥ 20 wells,92.1,630.3,GND;Library of Congress;VIAF,94
+wd_Q18530405,Q18530405,Mo Laga mac Duib Dligid,male,True,human,1,1 well,0.0,0.0,,1
+wd_Q18535665,Q18535665,Gwenfaen,female,True,human,1,1 well,0.0,0.0,,1
+wd_Q18674069,Q18674069,Lachtín mac Tarbín,male,True,human,1,1 well,0.0,0.0,,3
+wd_Q188411,Q188411,Bernard of Clairvaux,male,True,human,3,2–4 wells,102.2,226.0,GND;Library of Congress;VIAF,219
+wd_Q192816,Q192816,Saint Barbara,female,True,human;human whose existence is disputed,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,62
+wd_Q19871498,Q19871498,Saint Brecan,male,True,human,1,1 well,0.0,0.0,,1
+wd_Q200895,Q200895,Agatha of Sicily,female,True,human,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,57
+wd_Q208961,Q208961,Brendan the Navigator,male,True,human,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,74
+wd_Q210096,Q210096,Agnes of Rome,female,True,human,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,62
+wd_Q2280421,Q2280421,Ciarán of Saigir,male,True,human,10,5–19 wells,29.5,119.9,Library of Congress;VIAF,10
+wd_Q236326,Q236326,Columba,male,True,human,8,5–19 wells,63.8,258.4,GND;Library of Congress;VIAF,89
+wd_Q2459547,Q2459547,Ruadán of Lorrha,male,True,human,1,1 well,0.0,0.0,GND;VIAF,10
+wd_Q250370,Q250370,Brendan of Birr,male,True,human,2,2–4 wells,12.4,24.8,GND;VIAF,13
+wd_Q2575112,Q2575112,Winifred,female,True,human,3,2–4 wells,91.8,243.8,GND;Library of Congress;VIAF,22
+wd_Q2697141,Q2697141,Saint Colman,male,True,human,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,14
+wd_Q297742,Q297742,Margaret the Virgin,female,True,human,12,5–19 wells,96.5,500.0,GND;Library of Congress;VIAF,59
+wd_Q302,Q302,Jesus Christ,male,True,human;human biblical figure,2,2–4 wells,168.1,336.1,GND;Library of Congress;VIAF,190
+wd_Q3053971,Q3053971,Enda of Aran,male,True,human,2,2–4 wells,79.5,159.0,,5
+wd_Q305843,Q305843,Abbán,male,True,human,3,2–4 wells,85.3,232.6,,7
+wd_Q3066480,Q3066480,Molaise of Leighlin,male,True,human,1,1 well,0.0,0.0,Library of Congress;VIAF,5
+wd_Q3072671,Q3072671,Fintan,male,True,human,3,2–4 wells,34.3,75.7,,5
+wd_Q3274265,Q3274265,Manchán of Lemanaghan,male,True,human,1,1 well,0.0,0.0,,3
+wd_Q331697,Q331697,Saint David,male,True,human,3,2–4 wells,24.2,56.9,GND;VIAF,24
+wd_Q33923,Q33923,Saint Peter,male,True,human,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,136
+wd_Q345,Q345,Mary,female,True,human biblical figure,210,≥ 20 wells,107.8,2436.3,GND;Library of Congress;VIAF,138
+wd_Q4003116,Q4003116,Ultan of Ardbraccan,male,True,human,1,1 well,0.0,0.0,GND;VIAF,9
+wd_Q404099,Q404099,Máedóc of Ferns,male,True,human,3,2–4 wells,26.2,77.0,Library of Congress;VIAF,10
+wd_Q40662,Q40662,John the Baptist,male,True,human biblical figure,5,5–19 wells,81.9,254.9,GND;Library of Congress;VIAF,127
+wd_Q4072290,Q4072290,Athracht,female,True,human,6,5–19 wells,13.5,56.1,,7
+wd_Q4085252,Q4085252,Berchán,male,True,human,1,1 well,0.0,0.0,,2
+wd_Q4096911,Q4096911,Brónach,female,True,human,1,1 well,0.0,0.0,,2
+wd_Q4246968,Q4246968,Cuimín of Kilcummin,male,True,human,2,2–4 wells,47.6,95.2,,2
+wd_Q4300418,Q4300418,Mo Ling,male,True,human,7,5–19 wells,65.5,273.2,Library of Congress;VIAF,8
+wd_Q4301754,Q4301754,Moninne,female,True,human,4,2–4 wells,142.8,466.3,,5
+wd_Q43999,Q43999,St. James the Elder,male,True,human;human biblical figure,3,2–4 wells,14.3,38.2,GND;Library of Congress;VIAF,81
+wd_Q44091,Q44091,Saint Dominic,male,True,human,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,135
+wd_Q44269,Q44269,Saint Nicholas,male,True,human,5,5–19 wells,14.8,57.8,GND;Library of Congress;VIAF,117
+wd_Q4482461,Q4482461,Saint Felim,male,True,human,1,1 well,0.0,0.0,,2
+wd_Q4483352,Q4483352,Féchín of Fore,male,True,human,2,2–4 wells,40.5,80.9,,5
+wd_Q4484931,Q4484931,Fintán of Taghmon,male,True,human,1,1 well,0.0,0.0,,4
+wd_Q4531465,Q4531465,Ailbe of Emly,male,True,human,1,1 well,0.0,0.0,Library of Congress;VIAF,12
+wd_Q466428,Q466428,Philomena,female,True,human,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,21
+wd_Q5147732,Q5147732,Colman mac Duagh,male,True,human,1,1 well,0.0,0.0,,7
+wd_Q5202799,Q5202799,Cúan,male,True,human,1,1 well,0.0,0.0,,1
+wd_Q5575577,Q5575577,Gobnait,female,True,human,12,5–19 wells,64.2,302.8,,4
+wd_Q558148,Q558148,Leonard of Noblac,male,True,human,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,28
+wd_Q622095,Q622095,Finnian of Clonard,male,True,human,1,1 well,0.0,0.0,GND;VIAF,17
+wd_Q622223,Q622223,Finan of Lindisfarne,male,True,human,2,2–4 wells,1.6,3.1,,12
+wd_Q63070,Q63070,Mary Magdalene,female,True,human biblical figure,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,107
+wd_Q64786428,Q64786428,Eithne,female,True,human,1,1 well,0.0,0.0,,1
+wd_Q676555,Q676555,Francis of Assisi,male,True,human,2,2–4 wells,59.3,118.5,GND;Library of Congress;VIAF,238
+wd_Q7386467,Q7386467,Ríoch,male,True,human,1,1 well,0.0,0.0,,1
+wd_Q738988,Q738988,Ciarán of Clonmacnoise,male,True,human,2,2–4 wells,55.3,110.6,Library of Congress;VIAF,9
+wd_Q7401223,Q7401223,Saint Fachanan,male,True,human,1,1 well,0.0,0.0,,1
+wd_Q7401926,Q7401926,Moluag,male,True,human,1,1 well,0.0,0.0,,6
+wd_Q7665324,Q7665324,Sárnait,female,True,human,3,2–4 wells,24.2,54.1,,1
+wd_Q8018,Q8018,Augustine of Hippo,male,True,human,1,1 well,0.0,0.0,GND;Library of Congress;VIAF,309
+wd_Q80979,Q80979,Brigid of Kildare,female,True,human,157,≥ 20 wells,108.8,2160.1,GND;Library of Congress;VIAF,65
+wd_Q923854,Q923854,Declán of Ardmore,male,True,human,3,2–4 wells,34.0,78.5,,5
+wd_Q953927,Q953927,Fiacre,male,True,human,5,5–19 wells,14.2,42.6,GND;VIAF,18

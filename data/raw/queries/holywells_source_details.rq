@@ -1,0 +1,21 @@
+# Sources of holy wells (P1343) that have neither a label in English, the
+# language-neutral or Irish nor a title (P1476): any label in another
+# language, the English description, the type, where it was published, and
+# -- if the item is a redirect -- the item it now points to (owl:sameAs in
+# the query service) with that item's label.
+# The source network of the Saints case (S4) names them from this when the
+# main query returns a bare QID, and merges redirects into their target.
+SELECT DISTINCT ?source ?redirect ?redirectLabel ?anyLabel ?description ?type ?typeLabel ?publishedIn ?publishedInLabel WHERE {
+  VALUES ?country { wd:Q27 wd:Q145 }
+  ?well wdt:P31 wd:Q1371047 ;
+        wdt:P17 ?country ;
+        p:P1343/ps:P1343 ?source .
+  FILTER NOT EXISTS { ?source rdfs:label ?l . FILTER(LANG(?l) IN ("en", "mul", "ga")) }
+  FILTER NOT EXISTS { ?source wdt:P1476 ?t . }
+  OPTIONAL { ?source owl:sameAs ?redirect . }
+  OPTIONAL { ?source rdfs:label ?anyLabel . }
+  OPTIONAL { ?source schema:description ?description . FILTER(LANG(?description) = "en") }
+  OPTIONAL { ?source wdt:P31 ?type . }
+  OPTIONAL { ?source wdt:P1433 ?publishedIn . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul,ga". }
+}

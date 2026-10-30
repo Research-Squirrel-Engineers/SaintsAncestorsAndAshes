@@ -1,0 +1,15 @@
+#endpoint: https://fuzzy-sl.wikibase.cloud/query/sparql
+# Every item of the fuzzy-sl Wikibase with its label and every statement whose
+# value points outside the Wikibase (URL or external identifier: Wikidata,
+# OpenStreetMap, GeoNames, ...). Generic over the property type, so no fuzzy-sl
+# property number is hard-coded. Matched to the CI findspots in step S5 through
+# the shared Wikidata / OSM / GeoNames identifiers, then through the label.
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+SELECT ?item ?itemLabel ?prop ?propLabel ?value WHERE {
+  VALUES ?ptype { wikibase:Url wikibase:ExternalId }
+  ?prop wikibase:directClaim ?direct ;
+        wikibase:propertyType ?ptype .
+  ?item ?direct ?value .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

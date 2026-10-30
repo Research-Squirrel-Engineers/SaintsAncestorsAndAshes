@@ -1,0 +1,937 @@
+node,qid,label,lat,lon,country,concept,namesakes,hubs,records,sources
+wd_Q112134458,Q112134458,Saint Patrick's Well,54.085022,-7.87239,Ireland,False,Q165479,OpenStreetMap;SMR (Ireland),2,0
+wd_Q114439798,Q114439798,Kenny's Well,52.65325,-7.26219,Ireland,True,Q1133742,OpenStreetMap;SMR (Ireland);Wikimedia Commons,4,33
+wd_Q117187732,Q117187732,St Winifred’s Well,53.345305,-6.264862,Ireland,False,Q2575112,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,0
+wd_Q117187764,Q117187764,Q117187764,,,,False,,,0,0
+wd_Q117187843,Q117187843,St Patrick's Well,53.3891562,-6.303637,Ireland,False,Q165479,SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,3,0
+wd_Q117312713,Q117312713,"St. Patrick's Well, Clonmel",52.357606,-7.752318,Ireland,False,Q165479,SMR (Ireland);Wikimedia Commons,2,0
+wd_Q117456079,Q117456079,St Patrick's Well,53.342991,-6.257708,Ireland,False,Q165479,SMR (Ireland);Wikimedia Commons,2,1
+wd_Q121840779,Q121840779,St. Lachtain's Well,52.7316,-7.38951,Ireland,True,Q18674069,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,21
+wd_Q121842432,Q121842432,Saint Fiachra's Well,52.6216672,-7.1978959,Ireland,True,Q953927,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,20
+wd_Q122114442,Q122114442,Church Well,52.8730601,-7.1820207,,True,,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,12
+wd_Q122169828,Q122169828,Toberpatrick,52.7059608,-7.1628414,Ireland,True,Q165479,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,9
+wd_Q122189562,Q122189562,Saint Augustine's Well,52.54522,-7.38765,Ireland,True,Q8018,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,5,16
+wd_Q122217439,Q122217439,"St George's Well, Abergele",,,,False,,heritage lists (UK),1,0
+wd_Q122217441,Q122217441,"Ffynnon Fair (Well), Cefn",,,,False,,heritage lists (UK),1,0
+wd_Q122220052,Q122220052,"St Ffraed's Well, Cynhawdre",,,,False,,heritage lists (UK),1,0
+wd_Q122220937,Q122220937,Glasffrwd Holy Well,,,,False,,heritage lists (UK),1,0
+wd_Q122221768,Q122221768,Ffynnon Angoeron Holy Well,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q122222699,Q122222699,Toberbride,52.5214964,-7.2674769,Ireland,True,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,16
+wd_Q122258856,Q122258856,Saint Columbkille's Well,52.53101,-7.12371,Ireland,True,Q236326,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,5,14
+wd_Q122258894,Q122258894,Saint Fiacre's Well,52.5808431,-6.9330162,Ireland,True,Q953927,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,20
+wd_Q122258906,Q122258906,Lady's Well,52.6293381,-7.0093773,Ireland,True,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,7,10
+wd_Q122258940,Q122258940,Toberbride,52.5295948,-7.4123852,Ireland,True,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,5,11
+wd_Q122258994,Q122258994,Saint Scoheen's Well,52.6823464,-7.1177989,Ireland,True,Q16933730,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,11
+wd_Q122302328,Q122302328,Tober Muire,52.373694,-7.3914627,Ireland,True,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,10
+wd_Q122302608,Q122302608,St. Kieran’s Well,52.3975027,-7.3800887,Ireland,True,Q2280421;Q738988,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,13
+wd_Q122302960,Q122302960,Tubbernamuchthee,52.388403,-7.3404778,,True,,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,13
+wd_Q122303248,Q122303248,Church Well,52.4419089,-7.4021043,Ireland,True,Q43999,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,5,9
+wd_Q122303936,Q122303936,Saint Luke's Well,52.396613,-7.1857032,,True,,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,10
+wd_Q122304309,Q122304309,Saint Molin's Well (Mullennakill),52.4307541,-7.11584,Ireland,True,Q4300418,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,18
+wd_Q122304728,Q122304728,Toberkyle,52.5918795,-6.9935724,,True,,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,9
+wd_Q122306022,Q122306022,Tobermolua,52.5837967,-7.41438,Ireland,True,Q7401926,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,14
+wd_Q122306366,Q122306366,Lady's Well,52.6592494,-7.4339556,Ireland,True,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,13
+wd_Q122307282,Q122307282,Angel's Well,52.6542782,-7.2569636,,True,,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,11
+wd_Q122307310,Q122307310,Tobar na súl,52.77438,-7.5009061,,True,,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,6,12
+wd_Q122307327,Q122307327,St. Monchin’s Well,52.7712689,-7.4661385,,True,,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,7
+wd_Q122307353,Q122307353,Saint Kieran's Well,52.524191,-7.2376,Ireland,True,Q2280421,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,5,9
+wd_Q122309441,Q122309441,Saint Brigid's Well,53.1355989,-7.4074593,Ireland,False,Q80979,NIAH (Ireland);OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,6,0
+wd_Q122309455,Q122309455,Coole Upper Holy Well,,,,False,,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122309468,Q122309468,Saint Benjamin's Well,52.3169562,-8.9408782,Ireland,False,Q106982086,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,0
+wd_Q122309479,Q122309479,Toberbrecan,53.1455895,-9.7774619,Ireland,False,Q19871498,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122309490,Q122309490,The Bullaun of the Four Beauties,53.1296443,-9.7158318,,True,,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122309499,Q122309499,Saint Kieran's Well,,,,False,,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122309515,Q122309515,St. Soorney's Well,53.1342029,-9.6965396,Ireland,True,Q7665324,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122309534,Q122309534,Tobermacduagh,53.0466481,-8.8853256,Ireland,False,Q5147732,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,4,0
+wd_Q122309613,Q122309613,Holy well,53.2808308,-8.6782551,Ireland,False,Q44091,SMR (Ireland);Wiki Loves Monuments,2,1
+wd_Q122309770,Q122309770,Lanfera's Well,,,,False,,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122309962,Q122309962,Lanfera's Well,,,,False,,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122310018,Q122310018,Saint Bernard's Well,53.7028993,-6.4485079,Ireland,False,Q188411,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122310124,Q122310124,Saint Patrick's Well,53.7172692,-6.5432123,Ireland,False,Q165479,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,0
+wd_Q122331680,Q122331680,St Nicholas' Well,52.4465432,-7.7796507,Ireland,False,Q44269,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122331692,Q122331692,Saint Berrihert's Holy Well,52.4096078,-8.0747344,Ireland,False,Q106982086,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122331699,Q122331699,Tobernaglory,,,,False,,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122331714,Q122331714,Tober Altan,53.8816216,-7.075941,Ireland,False,Q4003116,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q122331727,Q122331727,St. Felimp's Well,53.9790724,-7.4146396,Ireland,False,Q4482461,SMR (Ireland);Wiki Loves Monuments,2,1
+wd_Q123519729,Q123519729,Ffynnon Ddygfael,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q123519730,Q123519730,Ffynnon Deilo,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q123519732,Q123519732,Ffynnon Dogfan,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q123519734,Q123519734,Ffynnon Armon,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q123520817,Q123520817,Tydfil's Well,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q124664351,Q124664351,Ffynnon Cawdraf,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q124664352,Q124664352,St Peters Well,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q124664353,Q124664353,St Michaels Well,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q126002299,Q126002299,Toberaheena,,,,False,,SMR (Ireland);other identifiers,2,2
+wd_Q126203841,Q126203841,St. Michael's Well,,,,False,,SMR (Ireland),1,2
+wd_Q126374490,Q126374490,Trinity Well,52.7262158,-7.2710769,,True,,OpenStreetMap;Wikimedia Commons;other identifiers,3,11
+wd_Q126380347,Q126380347,Cruckny Well,52.80658,-7.199663888,,True,,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,10
+wd_Q126385950,Q126385950,Lady's Well,52.56623,-7.24782,Ireland,True,Q345,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,11
+wd_Q126388499,Q126388499,Our Lady's Well,52.859687,-7.3237367,Ireland,True,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,6,17
+wd_Q126435825,Q126435825,Saint Brendan's Well,52.4669135,-7.2707298,Ireland,True,Q250370,OpenStreetMap;SMR (Ireland);Wikimedia Commons;other identifiers,4,10
+wd_Q126436485,Q126436485,Saint Brigid's Well (site of),52.7903396,-7.3632748,Ireland,True,Q80979,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,8
+wd_Q126438084,Q126438084,Holy Trinity Well,52.6860666,-7.3757517,,True,,OpenStreetMap;SMR (Ireland),2,14
+wd_Q126442215,Q126442215,Well of the Virgin,52.5205383,-7.337388,Ireland,True,Q345,OpenStreetMap;SMR (Ireland),2,6
+wd_Q126443543,Q126443543,Toberpatrick,52.7225113,-7.5555955,Ireland,True,Q165479,OpenStreetMap;SMR (Ireland),2,12
+wd_Q126445800,Q126445800,Saint Dallan's Well,52.5844902,-7.2930503,Ireland,True,Q1277655,OpenStreetMap;SMR (Ireland),2,14
+wd_Q126447016,Q126447016,Bastionfort Well,52.6274085,-7.0747843,,True,,NIAH (Ireland);OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,5,11
+wd_Q126448411,Q126448411,Saint Colman's Well,52.6560583,-7.1468339,Ireland,True,Q2697141,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,13
+wd_Q126448724,Q126448724,Our Lady's Well,52.7209032,-7.4730101,Ireland,True,Q345,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,11
+wd_Q126449613,Q126449613,Tobercanice,52.3058113,-7.286839,Ireland,True,Q1133742,OpenStreetMap;SMR (Ireland),2,12
+wd_Q126454380,Q126454380,St Mary's Well,52.501843,-7.384327,Ireland,True,Q345,SMR (Ireland);Wikimedia Commons,3,5
+wd_Q126454393,Q126454393,Monastery Well,52.795375,-7.308869,Ireland,True,Q622223,SMR (Ireland),1,10
+wd_Q126454405,Q126454405,St. Finan's Well,52.8193781,-7.3331526,Ireland,True,Q622223,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,10
+wd_Q126454422,Q126454422,St Leonard's Well,52.5006254,-7.2955635,Ireland,True,Q130535426;Q558148,OpenStreetMap;SMR (Ireland);Wikimedia Commons;other identifiers,6,14
+wd_Q126454436,Q126454436,Cáit Ryder's Well,52.4035959,-7.0188188,,True,,Wikimedia Commons,1,4
+wd_Q126454444,Q126454444,Well of the Rags,52.5417788,-7.3356296,,True,,OpenStreetMap;SMR (Ireland),2,15
+wd_Q126454471,Q126454471,St. Bridget's Well,52.5426666,-7.3038835,Ireland,True,Q80979,OpenStreetMap;SMR (Ireland),2,14
+wd_Q126454486,Q126454486,Well of the head,52.5532153,-7.3114049,,True,,OpenStreetMap;SMR (Ireland),2,14
+wd_Q126454603,Q126454603,St. Mogue's Well,52.5462408,-7.230081,Ireland,True,Q130531057;Q404099,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,11
+wd_Q126454685,Q126454685,Priest's Well,52.788088,-7.587655,,True,,SMR (Ireland),1,5
+wd_Q126454692,Q126454692,St Michael's Well,52.7784911,-7.6178959,Ireland,True,Q345,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,13
+wd_Q126454720,Q126454720,Tubber a' Teampuill,52.382451,-7.322077,,True,,SMR (Ireland),1,9
+wd_Q126454730,Q126454730,Tree well,52.405097,-7.264163,,True,,SMR (Ireland),1,7
+wd_Q126454746,Q126454746,Tobernabrone,52.3488449,-7.2786871,,True,,OpenStreetMap;SMR (Ireland),2,9
+wd_Q126454785,Q126454785,Tobernapeastia,52.7358354,-7.420264,,True,,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,12
+wd_Q126454804,Q126454804,Saint Elakan's Well,52.7742288,-7.4985966,,True,,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,10
+wd_Q126454823,Q126454823,St Patrick's Well,52.6272302,-7.0723801,Ireland,True,Q165479,OpenStreetMap;SMR (Ireland),2,6
+wd_Q126454844,Q126454844,Lady's Well,52.5411618,-6.9566958,Ireland,True,Q345,OpenStreetMap;SMR (Ireland);Wikimedia Commons;other identifiers,4,9
+wd_Q126454857,Q126454857,Toberelleen,52.5506574,-7.0118633,Ireland,True,Q953927,OpenStreetMap;SMR (Ireland),2,13
+wd_Q126454878,Q126454878,Patron Well,52.600809,-7.305647,,True,,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,10
+wd_Q126454901,Q126454901,St Paul's Well,52.7611516,-7.2906733,,True,,OpenStreetMap;SMR (Ireland),2,7
+wd_Q126454954,Q126454954,St. Michael's Well,52.5104802,-7.0698108,,True,,OpenStreetMap;SMR (Ireland),2,10
+wd_Q126456399,Q126456399,St. Kieran's Well,52.507721,-7.0504285,Ireland,True,Q2280421,OpenStreetMap;SMR (Ireland),2,11
+wd_Q126456441,Q126456441,Columbkille's Well,52.4892388,-7.0681791,Ireland,True,Q236326,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,7,16
+wd_Q126456468,Q126456468,Holy Cross well,52.4878257,-7.0437511,,True,,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,12
+wd_Q126456487,Q126456487,Well of the Festival,52.4660232,-7.1257749,,True,,OpenStreetMap;SMR (Ireland);Wikimedia Commons,4,9
+wd_Q126456561,Q126456561,St. John's Well,52.5398448,-7.1986981,Ireland,True,Q40662,OpenStreetMap;SMR (Ireland),2,10
+wd_Q126456648,Q126456648,Tobernagolumb,52.3277874,-7.0324988,Ireland,True,Q236326,OpenStreetMap;SMR (Ireland),2,11
+wd_Q126456660,Q126456660,Toberatoo,52.5672147,-7.1011717,,True,,OpenStreetMap;SMR (Ireland),2,8
+wd_Q126456893,Q126456893,St Kieran's Well,52.512066,-7.047064,Ireland,True,Q2280421,OpenStreetMap;SMR (Ireland),2,10
+wd_Q126456933,Q126456933,Easter Well,52.3921566,-7.2049487,,True,,OpenStreetMap;SMR (Ireland),2,11
+wd_Q126458702,Q126458702,St. Nicholas's Well (Killamery),52.4752746,-7.4459883,Ireland,True,Q44269,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,14
+wd_Q126459109,Q126459109,Tobernagloghlin,52.4410859,-7.408839,,True,,OpenStreetMap;SMR (Ireland),2,9
+wd_Q126459695,Q126459695,Tobermurry,52.3693873,-7.0412334,Ireland,True,Q345,OpenStreetMap;SMR (Ireland),2,13
+wd_Q126460137,Q126460137,St. Cuan's Well,52.369158,-7.0419389,Ireland,True,Q130535583,OpenStreetMap;SMR (Ireland),2,11
+wd_Q126460326,Q126460326,Toberenan,52.3039766,-7.167368,Ireland,True,Q130535684,OpenStreetMap;SMR (Ireland),2,12
+wd_Q126461036,Q126461036,St. James's Well,52.3475564,-7.0256207,Ireland,True,Q43999,OpenStreetMap;SMR (Ireland),2,11
+wd_Q126472816,Q126472816,St. Berchan's Well,52.594875,-7.45858,Ireland,True,Q130535806,SMR (Ireland),1,6
+wd_Q126472909,Q126472909,Trinity Well,52.482866,-7.216696,,True,,SMR (Ireland),1,14
+wd_Q126472933,Q126472933,St. James's Well,52.5342542,-7.3639912,Ireland,True,Q43999,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,14
+wd_Q126472950,Q126472950,Well of the Tree,52.3893989,-7.2321166,Ireland,True,Q1133742,OpenStreetMap;SMR (Ireland),2,12
+wd_Q126472968,Q126472968,Toberacluggeen,52.3958311,-7.2510033,,True,,OpenStreetMap;SMR (Ireland),2,11
+wd_Q126472997,Q126472997,Tobernakill,52.2695346,-7.2451643,,True,,OpenStreetMap;SMR (Ireland),2,13
+wd_Q126473028,Q126473028,Tobernakill,52.2763108,-7.2406982,,True,,OpenStreetMap;SMR (Ireland),2,5
+wd_Q126473043,Q126473043,Tobernadaun,52.619884,-7.4356623,Ireland,True,Q130535826;Q3053971,OpenStreetMap;SMR (Ireland),2,12
+wd_Q126473306,Q126473306,Aughkiletaun Holy Well,52.579222,-6.986868,Ireland,True,Q953927,OpenStreetMap;SMR (Ireland),2,6
+wd_Q126473935,Q126473935,Toberboy,52.5958102,-6.9785474,,True,,OpenStreetMap;SMR (Ireland),2,7
+wd_Q126474220,Q126474220,Tobernadean,52.601909,-6.972305,,True,,OpenStreetMap;SMR (Ireland),2,8
+wd_Q126474430,Q126474430,Cody's Well,52.600542,-6.971132,,True,,OpenStreetMap,1,4
+wd_Q126474583,Q126474583,St. Catherine's Well,52.7536764,-7.3454855,Ireland,True,Q179718,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,13
+wd_Q126474774,Q126474774,St John's Well,52.7028688,-7.169588,Ireland,True,Q40662,NIAH (Ireland);OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,5,24
+wd_Q126475983,Q126475983,Spa Well,52.8047061,-7.1991669,,True,,OpenStreetMap;Wikimedia Commons,2,4
+wd_Q126476470,Q126476470,Tobermurry,52.2757005,-7.0740663,Ireland,True,Q345,OpenStreetMap;SMR (Ireland),2,14
+wd_Q126476487,Q126476487,St Rioch's Well,52.6491293,-7.2573876,Ireland,True,Q7386467,OpenStreetMap;SMR (Ireland),2,15
+wd_Q126476500,Q126476500,St. Brendan's Well,52.6897792,-7.2904568,Ireland,True,Q250370,OpenStreetMap;SMR (Ireland),2,11
+wd_Q126476510,Q126476510,Mary's Well,52.651964,-7.251557,Ireland,True,Q345,SMR (Ireland),1,10
+wd_Q126476522,Q126476522,St. Martin's Well,52.6540968,-7.1867466,Ireland,True,Q133704,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,13
+wd_Q126476536,Q126476536,St. Francis's Well,52.6559448,-7.2529393,Ireland,True,Q676555,OpenStreetMap;SMR (Ireland),2,18
+wd_Q126478162,Q126478162,St. Fintan's Well,52.38751,-6.9847,Ireland,True,Q3072671,OpenStreetMap;SMR (Ireland),2,9
+wd_Q126478185,Q126478185,Hermit's Well,52.7578515,-7.4031571,Ireland,True,Q953927,OpenStreetMap;SMR (Ireland);Wikimedia Commons;other identifiers,4,20
+wd_Q126478219,Q126478219,Lady's Well,52.5283924,-7.1419103,Ireland,True,Q345,OpenStreetMap;SMR (Ireland);Wikimedia Commons;other identifiers,4,12
+wd_Q126478257,Q126478257,St. Faghtna's Well,52.3431182,-7.354,Ireland,True,Q7401223,OpenStreetMap;SMR (Ireland),2,14
+wd_Q126478330,Q126478330,Tobar Neaska,52.6601663,-7.1259568,,True,,OpenStreetMap;SMR (Ireland),2,10
+wd_Q126478389,Q126478389,Lady's Well,52.685886,-7.492627,Ireland,True,Q345,SMR (Ireland),1,9
+wd_Q126478427,Q126478427,Tubbrid Holy Well,52.3392014,-7.2425353,,True,,OpenStreetMap;SMR (Ireland),2,12
+wd_Q126478438,Q126478438,Toberpatrick,52.7132149,-7.4804056,Ireland,True,Q165479,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,15
+wd_Q126478455,Q126478455,Felix's Well,52.5784233,-7.3553363,Ireland,True,Q4483352,OpenStreetMap;SMR (Ireland),2,5
+wd_Q126478471,Q126478471,St. David's Well,52.5801749,-7.1019041,Ireland,True,Q331697,NIAH (Ireland);OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,4,10
+wd_Q126478483,Q126478483,Tobernamonine,52.4041519,-7.3551267,Ireland,True,Q4301754,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,11
+wd_Q126478503,Q126478503,St. Mocuille's Well,52.4053673,-7.3517775,Ireland,True,Q130531018,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,11
+wd_Q126478549,Q126478549,Well of the Virgin,52.417549,-7.366242,Ireland,True,Q345,SMR (Ireland);Wikimedia Commons,3,11
+wd_Q126478564,Q126478564,Tobernaraha,52.4338757,-7.4011848,,True,,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,7
+wd_Q126485841,Q126485841,Knockroe holy well,52.4325557,-7.3932147,,True,,SMR (Ireland),1,3
+wd_Q126485854,Q126485854,St. Bridget’s Well,52.446827,-7.366059,Ireland,True,Q80979,OpenStreetMap;SMR (Ireland),2,6
+wd_Q126485868,Q126485868,Maon's Well,52.5633242,-7.3568852,Ireland,True,Q179718,OpenStreetMap;SMR (Ireland),2,14
+wd_Q126485951,Q126485951,St. Margaret's Well,52.6582721,-7.3980944,Ireland,True,Q297742,OpenStreetMap;SMR (Ireland),2,17
+wd_Q126486012,Q126486012,St. Nicholas's Well,52.4673,-7.3787,Ireland,True,Q44269,,0,3
+wd_Q126486052,Q126486052,Thibberawling,52.3212394,-7.2739122,,True,,OpenStreetMap,1,8
+wd_Q126486113,Q126486113,Tobernaskeagh,52.527483,-7.402995,,True,,OpenStreetMap;SMR (Ireland),2,11
+wd_Q126486229,Q126486229,Wart Well,,,,True,,,0,1
+wd_Q126486274,Q126486274,John's Well,52.3538849,-7.3193448,Ireland,True,Q40662,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,7
+wd_Q126486300,Q126486300,St Thomas' Well,52.32063,-7.26833,Ireland,True,Q80979,SMR (Ireland),1,4
+wd_Q126486539,Q126486539,St Rosentha's well,52.46853,-7.397803,,True,,,0,3
+wd_Q126486675,Q126486675,Holy Cross Well,52.6522946,-7.5059687,,True,,OpenStreetMap,1,7
+wd_Q126487120,Q126487120,St Coleman's Well,52.7352502,-7.2869104,Ireland,True,Q1110134;Q130549605,OpenStreetMap;Wikimedia Commons;other identifiers,3,1
+wd_Q126487167,Q126487167,Saint Molagga's Well,52.64815,-7.2187,Ireland,True,Q18530405,OpenStreetMap;Wikimedia Commons;other identifiers,3,0
+wd_Q126487303,Q126487303,Saint Andrew's Well,,,,True,,OpenStreetMap;SMR (Ireland),2,5
+wd_Q126487358,Q126487358,St Brigid's Well,52.6115585,-7.3565632,Ireland,True,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,5,9
+wd_Q126487395,Q126487395,Saint Brigid's Well,52.3184829,-7.2600183,Ireland,True,Q80979,OpenStreetMap;SMR (Ireland),2,9
+wd_Q126487405,Q126487405,Saint Patrick's Well,52.3211064,-7.2534771,Ireland,True,Q165479,OpenStreetMap;SMR (Ireland),2,7
+wd_Q126487430,Q126487430,Saint Moling’s Well,52.4072876,-7.0564867,Ireland,True,Q4300418,OpenStreetMap;SMR (Ireland);Wikimedia Commons;other identifiers,4,15
+wd_Q126489046,Q126489046,Saint Moling's Well,52.4894269,-6.9438284,Ireland,True,Q4300418,OpenStreetMap;Wikimedia Commons;other identifiers,3,3
+wd_Q126489560,Q126489560,St. Kieran's Well,52.6533144,-7.2531512,Ireland,True,Q2280421,OpenStreetMap;Wikimedia Commons,2,16
+wd_Q126491081,Q126491081,Well of the Rags,52.5503076,-7.4100819,,True,,,0,2
+wd_Q126491170,Q126491170,Q126491170,52.5508176,-7.4110115,,True,,,0,1
+wd_Q126499565,Q126499565,Tobar Muire,52.7692731,-7.2678369,Ireland,True,Q345,OpenStreetMap;SMR (Ireland),2,8
+wd_Q126527039,Q126527039,Mary's Well,,,,True,,,0,3
+wd_Q126617074,Q126617074,Our Lady's Well,52.673289,-7.515021,Ireland,True,Q345,,0,1
+wd_Q126640856,Q126640856,Tobar Philib,52.817848,-7.21792,,True,,SMR (Ireland),1,9
+wd_Q126643252,Q126643252,Q126643252,52.749493,-7.306327,,True,,OpenStreetMap,1,8
+wd_Q126644654,Q126644654,St. Patrick’s well,52.7822629,-7.3151103,Ireland,True,Q165479,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,11
+wd_Q126645328,Q126645328,Q126645328,52.787228,-7.1165071,Ireland,True,Q345,,0,3
+wd_Q126646306,Q126646306,Lady’s Well,52.712537,-7.5844502,Ireland,True,Q345,SMR (Ireland),1,6
+wd_Q126647640,Q126647640,Well of the rags,,,,True,,,0,3
+wd_Q126648035,Q126648035,St. Synan’s Well,52.278003,-7.144154,Ireland,True,Q130535684,SMR (Ireland),1,5
+wd_Q126649228,Q126649228,Lacken Well,52.5438145,-7.2775479,,True,,OpenStreetMap;Wikimedia Commons;other identifiers,3,4
+wd_Q126655791,Q126655791,Caereeachth Well,52.813868,-7.1313489,,True,,SMR (Ireland),1,8
+wd_Q126657210,Q126657210,St. David's Well,52.6195581,-7.2979334,Ireland,True,Q331697,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,10
+wd_Q126661717,Q126661717,Tubberafauna,52.345053,-7.275597,,True,,SMR (Ireland),1,5
+wd_Q126662780,Q126662780,St Broondhawn's Well,52.465051,-7.036788,,True,,SMR (Ireland),1,5
+wd_Q126664812,Q126664812,St. Kieran's holy well,52.484994,-7.244749,Ireland,True,Q2280421,,0,1
+wd_Q126665980,Q126665980,St. Kieran's holy well,52.2905247,-7.2299875,Ireland,True,Q2280421,OpenStreetMap;SMR (Ireland),2,8
+wd_Q126678913,Q126678913,Tubbernacruchnee,,,,True,,SMR (Ireland),1,3
+wd_Q126678959,Q126678959,Tubbernacrusha,,,,True,,SMR (Ireland),1,5
+wd_Q126680965,Q126680965,St. Nicholas's Well,52.6031725,-7.3795768,Ireland,True,Q44269,SMR (Ireland),1,7
+wd_Q126681001,Q126681001,Tubberphawdhrig,52.3178311,-7.0683171,Ireland,True,Q165479,OpenStreetMap;Wikimedia Commons,2,10
+wd_Q126681256,Q126681256,St Briget's Well,52.3689138,-7.0589943,Ireland,True,Q80979,SMR (Ireland),1,9
+wd_Q126685062,Q126685062,Lacken Well,52.65153,-7.23905,,True,,OpenStreetMap;Wikimedia Commons;other identifiers,3,7
+wd_Q126685172,Q126685172,St. Kieran's well,,,,True,,SMR (Ireland),1,9
+wd_Q126876178,Q126876178,Broochgarrig,52.881009,-7.2109428,,True,,,0,6
+wd_Q126878516,Q126878516,St. Michael's Well,52.566101,-7.243734,,True,,SMR (Ireland),1,3
+wd_Q126879339,Q126879339,Ballyda Holy Well,,,,True,,Wikimedia Commons,1,1
+wd_Q126880147,Q126880147,Ballyneale Holy Well,52.425781,-7.012619,,True,,SMR (Ireland),1,3
+wd_Q126880801,Q126880801,St. Lawrence’s Well,52.5211,-6.93508,,True,,,0,3
+wd_Q126881319,Q126881319,Ballyreddy Holy Well,52.411366,-7.0201831,,True,,SMR (Ireland);Wikimedia Commons,2,3
+wd_Q126888497,Q126888497,St. Patrick’s Well,52.65539,-7.5209252,Ireland,True,Q165479,,0,3
+wd_Q126888518,Q126888518,Tubber na Cruchthanee,,,,True,,SMR (Ireland),1,4
+wd_Q126888633,Q126888633,Q126888633,52.53738,-6.96051,Ireland,True,Q80979,SMR (Ireland),1,6
+wd_Q126888828,Q126888828,Lady’s Well,52.584445,-7.2929779,Ireland,True,Q345,SMR (Ireland),2,3
+wd_Q126889963,Q126889963,Clogharinka Holy Well,,,,True,,SMR (Ireland),1,1
+wd_Q126890019,Q126890019,Clonmore Holy Well,52.302896,-7.2887152,,True,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q126890179,Q126890179,St. Mary’s Well,,,,True,,,0,2
+wd_Q126891080,Q126891080,Derrynahinch Holy Well,52.473324,-7.185629,,True,,,0,4
+wd_Q126891133,Q126891133,Donaguile Well,,,,True,,,0,2
+wd_Q126891207,Q126891207,St. Patrick’s Well,,,,True,,,0,4
+wd_Q126891250,Q126891250,Nanny’s Well,,,,True,,SMR (Ireland),1,6
+wd_Q126903155,Q126903155,Garryduff Holy Well,52.403244,-7.3078692,,True,,OpenStreetMap,1,4
+wd_Q126908400,Q126908400,Tubberathoggarth,52.377109118,-7.020493501,,True,,SMR (Ireland),1,7
+wd_Q126908675,Q126908675,St. Berchan's Well,52.5948937,-7.458609,Ireland,True,Q4085252,SMR (Ireland),1,7
+wd_Q126908814,Q126908814,Q126908814,52.481487,-6.930207,,True,,,0,3
+wd_Q126910577,Q126910577,Kildalton Holy Well,,,,True,,SMR (Ireland),1,2
+wd_Q126917635,Q126917635,Briagoyne,52.6894079,-7.5044923,,True,,OpenStreetMap;SMR (Ireland),2,5
+wd_Q126918872,Q126918872,Kilfane Holy Well,52.547041,-7.1191416,,True,,,0,6
+wd_Q126918993,Q126918993,Kilkeasy Holy Well,52.441104263,-7.224659265,,True,,OpenStreetMap;Wikimedia Commons,2,3
+wd_Q126919152,Q126919152,Tubberkilkierawn,52.5149676,-7.0451819,Ireland,True,Q2280421,OpenStreetMap;SMR (Ireland),2,3
+wd_Q126919273,Q126919273,Friar's Well,52.367945,-7.395456,,True,,,0,7
+wd_Q126919343,Q126919343,Tobar Brigid,52.414575,-7.371152,Ireland,True,Q80979,OpenStreetMap,1,4
+wd_Q126919511,Q126919511,Toberachreen,,,,True,,,0,4
+wd_Q126919579,Q126919579,St. Mogarra’s Well,52.6724766,-7.149174,,True,,OpenStreetMap;Wikimedia Commons,3,5
+wd_Q126923120,Q126923120,Kilmog Holy Well,52.60868,-7.265683,,True,,SMR (Ireland),1,4
+wd_Q126923187,Q126923187,Kilmogue Holy Well,,,,True,,SMR (Ireland),1,5
+wd_Q126923572,Q126923572,Maudlin Holy Well,52.7734159,-7.2543803,,True,,SMR (Ireland),1,3
+wd_Q126923720,Q126923720,Muckalee Holy Well,,,,True,,SMR (Ireland),1,5
+wd_Q126928234,Q126928234,Templeorum Well,52.3815366,-7.2967513,,True,,OpenStreetMap;SMR (Ireland),2,8
+wd_Q126946350,Q126946350,Lady's Well,52.388542,-7.340568,Ireland,True,Q345,OpenStreetMap;SMR (Ireland),2,8
+wd_Q126946514,Q126946514,Cloghvickree,52.598915,-6.984672,Ireland,True,Q177232,SMR (Ireland),1,6
+wd_Q126946657,Q126946657,St. Philomena’s Well,52.641325,-7.1356135,Ireland,True,Q466428,,0,5
+wd_Q126949259,Q126949259,Rathlogan Holy Well,,,,True,,,0,2
+wd_Q126949628,Q126949628,Riesk Holy Well,52.5784119,-7.3553108,,True,,SMR (Ireland),1,3
+wd_Q126949787,Q126949787,Rossdama holy well,52.62132,-7.344272,,True,,SMR (Ireland),1,7
+wd_Q126949808,Q126949808,Loughman’s Well,52.38687,-6.98617,,True,,SMR (Ireland),1,5
+wd_Q127043273,Q127043273,Saint Fintan's Well,52.9574758,-7.4148001,Ireland,False,Q3072671,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,2
+wd_Q127047665,Q127047665,Carranroe holy well,52.453135,-6.950603,,True,,,0,3
+wd_Q127048193,Q127048193,Saint Laurence's Well,,,,True,,,0,3
+wd_Q127433772,Q127433772,Graigue holy well,52.4791178,-7.3666737,,True,,OpenStreetMap,1,2
+wd_Q128144530,Q128144530,St Thomas' Well,,,,True,,,0,1
+wd_Q129263926,Q129263926,Holy Well,52.5134682,-7.1637296,Ireland,True,Q44269,OpenStreetMap;Wiki Loves Monuments;Wikimedia Commons;other identifiers,4,4
+wd_Q129348459,Q129348459,Spa Well,52.486141,-7.317274,,True,,OpenStreetMap;SMR (Ireland),2,2
+wd_Q129906303,Q129906303,St. Canice's Well,52.921361,-7.514728,Ireland,True,Q1133742,SMR (Ireland),1,3
+wd_Q130252086,Q130252086,St Moling's Well,52.490063,-6.927455,Ireland,False,Q4300418,SMR (Ireland);Wikimedia Commons,2,8
+wd_Q130266414,Q130266414,St Fintan's Well,53.011028,-7.419903,Ireland,True,Q3072671,SMR (Ireland),1,2
+wd_Q130266495,Q130266495,Clonenagh Holy Tree,,,,False,,SMR (Ireland);Wiki Loves Monuments,2,2
+wd_Q130266513,Q130266513,St Kieran's Well,53.066093,-7.790414,Ireland,True,Q2280421,SMR (Ireland),1,0
+wd_Q130313770,Q130313770,Friday Well,52.8322578,-7.3464415,,True,,OpenStreetMap,1,2
+wd_Q130313951,Q130313951,Dowlings Spring,,,,True,,,0,1
+wd_Q130313956,Q130313956,Lodge Well,52.850463,-7.329571,,True,,,0,3
+wd_Q130314047,Q130314047,Tubberkillen,,,,True,,,0,4
+wd_Q130361231,Q130361231,Tullaherin Holy Well,,,,True,,,0,1
+wd_Q130479429,Q130479429,Saint Declan's Well,51.948073,-7.712605,Ireland,True,Q923854,SMR (Ireland);Wikimedia Commons,2,1
+wd_Q131387526,Q131387526,St. Mannan’s Well,52.278431,-6.57551,Ireland,False,Q4301754,SMR (Ireland),1,0
+wd_Q131396044,Q131396044,St. Moling's Well,52.3102686,-9.2661977,Ireland,True,Q4300418,OpenStreetMap;SMR (Ireland),2,1
+wd_Q131625906,Q131625906,St Lowry's Well,55.0429992,-6.8406725,,True,,,0,0
+wd_Q131758630,Q131758630,St. Elian's Well,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q132818175,Q132818175,Little Church Well,,,,False,,SMR (Ireland),1,4
+wd_Q132819215,Q132819215,Tober Keeran,,,,True,,SMR (Ireland),1,6
+wd_Q132853265,Q132853265,Grove holy well,,,,True,,SMR (Ireland),1,2
+wd_Q132889275,Q132889275,Kellymount Holy Well,52.6885911,-7.058623291,,True,,OpenStreetMap,1,2
+wd_Q132889388,Q132889388,Fr. Cloney's Well,,,,True,,OpenStreetMap,1,1
+wd_Q132891725,Q132891725,Glencoum Holy Well,52.568537027,-7.032253851,,True,,OpenStreetMap,1,1
+wd_Q132891751,Q132891751,St. Sylvester's Well,,,,True,,OpenStreetMap,1,2
+wd_Q132891782,Q132891782,Q132891782,,,,True,,,0,1
+wd_Q133258302,Q133258302,St. Dallan's Well,52.584394,-7.293038,,True,,SMR (Ireland),1,4
+wd_Q133260965,Q133260965,Canal Walk Well,52.6496987,-7.2388642,,True,,OpenStreetMap;Wikimedia Commons,2,4
+wd_Q133455066,Q133455066,St. Luke's Well (Mullenbeg),,,,True,,,0,2
+wd_Q133567306,Q133567306,Tobernaleibe,52.6484644,-7.1579263,,True,,OpenStreetMap,1,5
+wd_Q133806076,Q133806076,St Longory's Well,52.8285683,-7.1190579,,True,,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,2
+wd_Q135300974,Q135300974,St Brigid's Well,52.9842674,-7.0864664,Ireland,False,Q80979,SMR (Ireland);Wikimedia Commons,2,0
+wd_Q136308882,Q136308882,Doon Well,,,,False,,OpenStreetMap;SMR (Ireland),2,0
+wd_Q136312255,Q136312255,St Olan's Well,51.9557211,-8.8113985,Ireland,False,Q139078212,SMR (Ireland);Wikimedia Commons,2,0
+wd_Q137177937,Q137177937,Tober Paluck,54.401369,-8.409181,,True,,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,0
+wd_Q138765932,Q138765932,Saint Abbán's Well,51.935195,-9.152687,Ireland,True,Q305843,OpenStreetMap;SMR (Ireland);other identifiers,3,1
+wd_Q138767843,Q138767843,Saint Gobnait's Well,51.937622,-9.166232,Ireland,True,Q5575577,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,1
+wd_Q138767857,Q138767857,Q138767857,51.938287,-9.168067,,True,,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,2
+wd_Q138822463,Q138822463,Saint Ite's Well,52.38199,-9.0716702,Ireland,True,Q1288349,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,0
+wd_Q139096540,Q139096540,St Eany's Well,53.103349,-9.664015,Ireland,False,Q3053971,SMR (Ireland),1,2
+wd_Q139099857,Q139099857,Tobermadalowan,52.6006757,-6.8599078,,True,,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139099977,Q139099977,Lady Well,52.6103138,-6.9186474,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139100006,Q139100006,Toberanvallagh,,,,False,,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139100299,Q139100299,St. Fortchern's Well,,,,False,,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139100924,Q139100924,St Bridget's Well,52.641199,-6.7376778,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139101272,Q139101272,St. Bridget's Well,52.6782618,-6.9587573,Ireland,False,Q80979,SMR (Ireland),1,2
+wd_Q139102353,Q139102353,St Patrick's Well,52.7259155,-6.977823,Ireland,True,Q165479,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139102808,Q139102808,St Bridget's Well,52.7682925,-6.978127,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139103994,Q139103994,St Bridget's Well,52.7007412,-6.6482402,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139104473,Q139104473,Q139104473,,,,False,,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139104823,Q139104823,Q139104823,,,,False,,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139105905,Q139105905,St Patrick's Well,52.7912356,-6.8270418,Ireland,False,Q165479,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139106049,Q139106049,St Kathleen's Well,,,,False,,SMR (Ireland),1,0
+wd_Q139107331,Q139107331,Sunday Well,,,,False,,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139107869,Q139107869,St Patrick's Well,52.8870446,-6.6843635,Ireland,False,Q165479,SMR (Ireland),1,0
+wd_Q139108276,Q139108276,St Patrick's Well,52.8520081,-6.6469538,Ireland,False,Q165479,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139108547,Q139108547,St Mogue's Well,52.8276232,-6.5707255,Ireland,False,Q404099,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139167835,Q139167835,St Patrick's Well,52.8746229,-7.6017344,Ireland,False,Q165479,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139168933,Q139168933,St Kieran's Well,52.9255203,-7.6006578,Ireland,False,Q2280421,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139169591,Q139169591,St Bridget's Well,52.7990047,-7.4076444,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,0
+wd_Q139170035,Q139170035,St John's Well,52.8229095,-7.4406463,Ireland,False,Q40662,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139170753,Q139170753,St Abban's Well,52.890118,-7.0254773,Ireland,False,Q305843,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139171245,Q139171245,St Patrick's Well,52.9094569,-7.1049812,Ireland,False,Q165479,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139171810,Q139171810,St Bridget's Well,,,,False,,SMR (Ireland),1,0
+wd_Q139172748,Q139172748,St Finian's Wells,53.161367,-7.468995,Ireland,False,Q622095,SMR (Ireland),1,0
+wd_Q139173029,Q139173029,St Manman's Well,,,,False,,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139254211,Q139254211,St Helen's Well,52.1656599,-6.8821601,Ireland,True,Q170164,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139254234,Q139254234,Lady Well,52.183943,-6.864553,Ireland,False,Q345,SMR (Ireland),1,0
+wd_Q139254248,Q139254248,Mary's Well,52.208703,-6.8663397,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139254275,Q139254275,Lady's Well,52.2101849,-6.7912609,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139254300,Q139254300,Lady Well,52.2352617,-6.835492,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,1
+wd_Q139254325,Q139254325,St Agatha's Well,52.2548763,-6.8737239,Ireland,False,Q200895;Q210096,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139254352,Q139254352,St Margaret's well,52.2725036,-6.9569863,Ireland,False,Q297742,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139254390,Q139254390,Lady's Well,52.2746049,-6.9578913,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139254420,Q139254420,St Anne's Well,52.2151433,-6.4937847,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139254789,Q139254789,St Vauk's Well,52.1767851,-6.3609335,Ireland,False,Q4483352,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139254807,Q139254807,St. Margaret's Well,52.2034,-6.353008,Ireland,False,Q297742,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139254831,Q139254831,Lady's Well,52.2072946,-6.3752523,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139254845,Q139254845,St Helen's Well,52.2283004,-6.3260291,Ireland,False,Q170164,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139254871,Q139254871,St Mary's Well,52.2444473,-6.3895181,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139254895,Q139254895,St Catherine's Well,52.2183385,-6.3970296,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139254943,Q139254943,St Catherine's Well,52.2029132,-6.4361631,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139254992,Q139254992,St Bridget's Well,52.2434573,-6.4303725,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139255031,Q139255031,St Catherine's Well,52.2292589,-6.5199807,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139256477,Q139256477,St. Bridget's Well,52.3103497,-6.9372734,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139256548,Q139256548,St Margaret's Well,52.2962217,-6.8757302,Ireland,False,Q297742,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139256584,Q139256584,Lady's Well,52.2983739,-6.8290088,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139256625,Q139256625,St Man's Well,52.2128312,-6.4569399,Ireland,False,Q16976546,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139256731,Q139256731,St. Braagh's Well,52.2942573,-6.3983747,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139256809,Q139256809,St. Michael's Well,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139256864,Q139256864,St. Keevil's Well,52.2590035,-6.4360944,Ireland,False,Q139256990,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139256890,Q139256890,St. Helen's Well,52.2916179,-6.4479103,Ireland,False,Q170164,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139256906,Q139256906,St Catherine's Well,52.2476264,-6.486441,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139256924,Q139256924,St Fintan's Well,52.2466505,-6.5136669,Ireland,False,Q4484931,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139257022,Q139257022,St Cavan's Well,52.2565731,-6.7137347,Ireland,False,Q139257038,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257071,Q139257071,St Margaret's Well,52.2497696,-6.660102,Ireland,False,Q297742,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257113,Q139257113,St. Mochoaun's Well,52.2456803,-6.5827414,Ireland,False,Q139257128,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257178,Q139257178,Bride's Well,52.2506306,-6.5736492,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257243,Q139257243,St Catherine's Well,52.2797803,-6.5200071,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257280,Q139257280,Lady's Well,52.279764,-6.737186,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257296,Q139257296,St Catherine's Well,52.2886409,-6.7850688,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257322,Q139257322,St Winifred's Well,52.704977,-6.21755,Ireland,False,Q2575112,SMR (Ireland),1,0
+wd_Q139257358,Q139257358,Tobermurry,52.6810363,-6.3006426,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257384,Q139257384,Lady's Well,52.5806682,-6.2086197,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257446,Q139257446,Tobermurry,52.6711868,-6.5553114,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257485,Q139257485,St Mary's Well,52.6305635,-6.6400551,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139257549,Q139257549,Lady's Well,52.57788,-6.5127888,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257648,Q139257648,Bride's Well,52.5010386,-6.295445,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139257698,Q139257698,St Moling's Well,52.55341,-6.351487,Ireland,False,Q4300418,SMR (Ireland),1,0
+wd_Q139258305,Q139258305,St. Bridget's Well,52.4508033,-6.3576239,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139258751,Q139258751,St. Bridget's Well,52.4646867,-6.4451753,Ireland,False,Q80979,SMR (Ireland),1,0
+wd_Q139260628,Q139260628,St Margaret's Well,52.3909492,-6.3687484,Ireland,False,Q297742,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139261066,Q139261066,Toberbaun,52.385927,-6.7257075,Ireland,False,Q305843,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139262988,Q139262988,St Mary's Well,52.4298805,-6.4854674,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139263475,Q139263475,St Bridget's Well,52.3779959,-6.4792995,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139263927,Q139263927,St Margaret's Well,52.3365166,-6.4688592,Ireland,False,Q297742,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139264489,Q139264489,Lady's Well,52.3230721,-6.6069025,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139265039,Q139265039,Nunnery Well,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139265058,Q139265058,Tobershivaun,,,,False,,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139265121,Q139265121,Lady Well,52.3618949,-6.6385786,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139265148,Q139265148,St Anne's Well,52.5205444,-6.7497763,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139265177,Q139265177,Lady's Well,52.454276,-6.765376,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139265200,Q139265200,Tobernacally,,,,False,,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139265225,Q139265225,Lady Well,52.4287672,-6.9020111,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139265240,Q139265240,Lady's Well,52.4070783,-6.8007497,Ireland,False,Q345,SMR (Ireland),1,0
+wd_Q139265296,Q139265296,Toberwonaghan,52.4335836,-6.7359307,Ireland,False,Q139265301,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139268096,Q139268096,Lady Well,52.3393444,-6.9201717,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139268112,Q139268112,Lady Well,52.3403892,-6.8907841,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139268129,Q139268129,Tobermurry,52.3763156,-6.7982116,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139268147,Q139268147,Lady's Well,52.3093593,-6.8223596,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139268167,Q139268167,Lady's Well,52.3153773,-6.8374524,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139284833,Q139284833,Tobarín Mhuire,51.807845,-9.76444,Ireland,False,Q345,SMR (Ireland),1,1
+wd_Q139285111,Q139285111,Tobermurry,51.8810956,-9.587666,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139285461,Q139285461,St. Buonia's Well,51.8583206,-10.3188068,Ireland,False,Q139285626,SMR (Ireland),1,3
+wd_Q139286821,Q139286821,Toberreendoney,51.914772,-10.3157222,Ireland,False,Q302;Q4301754,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139287663,Q139287663,Tobergobnet,51.9473674,-10.1345216,Ireland,False,Q5575577,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139288407,Q139288407,Q139288407,52.063428,-9.719801,Ireland,False,Q5575577,SMR (Ireland),1,1
+wd_Q139290499,Q139290499,Tobermurry,52.0936289,-9.6174413,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139291207,Q139291207,St Margaret's Well,52.0620081,-9.514423,Ireland,False,Q297742,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139291904,Q139291904,Q139291904,52.1534495,-9.9437857,Ireland,False,Q5575577,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139292781,Q139292781,Toberiney,52.25286,-10.0416595,Ireland,False,Q64786428,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139293534,Q139293534,Tobermurry,52.244669,-10.0635919,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139294097,Q139294097,Q139294097,52.136193,-10.4672349,Ireland,False,Q5575577,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139294961,Q139294961,Tobermurry,52.1202556,-10.1994512,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139295646,Q139295646,Tobermurry,52.106917,-10.4131722,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139296625,Q139296625,Toberbreeda,52.1511965,-10.3318664,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139296948,Q139296948,Toberaroon,52.1429934,-10.2333784,Ireland,False,Q5575577,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139297343,Q139297343,St Macadaw's Well,52.3976492,-9.9100663,Ireland,False,Q177232;Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139297397,Q139297397,Tobermurry,52.4188703,-9.3802428,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139297417,Q139297417,Lady's Well,52.3924429,-9.8264153,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139297452,Q139297452,Tobernasool,52.4245119,-9.8601598,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139297478,Q139297478,Tobereleesh,52.4778297,-9.6672419,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139297515,Q139297515,Q139297515,52.4065393,-9.492445,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139297904,Q139297904,Q139297904,52.4315328,-9.5075278,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139298606,Q139298606,Tobernawahnee,,,,False,,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139326081,Q139326081,St Bridget's Well,54.4302837,-8.4581208,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139326136,Q139326136,Lady's Well,54.3530393,-8.5595378,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139326197,Q139326197,St Bridget's Well,,,,False,,SMR (Ireland),1,0
+wd_Q139326322,Q139326322,St Brigid's Well,54.210046,-8.6581412,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139326973,Q139326973,Tobermurro,54.1987493,-8.5483155,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139327356,Q139327356,Toberbride,54.1755326,-8.4843877,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139327717,Q139327717,St Barbara's Well,54.0692651,-8.9015079,Ireland,False,Q192816,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139327824,Q139327824,Toberaraght,54.0679224,-8.8994975,Ireland,False,Q4072290,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139327900,Q139327900,Toberaraght,54.0556989,-8.7087865,Ireland,False,Q4072290,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139327946,Q139327946,Toberaraght,54.0269437,-8.6043272,Ireland,False,Q4072290,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139327998,Q139327998,Toberaraght,53.9275245,-8.3556899,Ireland,False,Q4072290,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139328185,Q139328185,Tober Bride,54.0582718,-8.4960808,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139328226,Q139328226,Lady's Well,54.150119,-8.3610743,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139328357,Q139328357,Toberelva,54.0979897,-8.1936621,Ireland,False,Q139328382,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139328444,Q139328444,Tobermurry,54.0560967,-8.2469412,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139328468,Q139328468,Tobermurry,54.0678034,-8.254097,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139328497,Q139328497,Tobernagrania,,,,False,,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139328521,Q139328521,Tober Murry,54.0770551,-8.3735705,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139328546,Q139328546,Tober Bride,54.0771201,-8.373616,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139328572,Q139328572,Tobermurry,54.2141088,-8.0051494,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,3
+wd_Q139328584,Q139328584,Toberbride,54.2888994,-7.9121582,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139328602,Q139328602,Saint Anne's Well,53.966439,-6.948646,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139370137,Q139370137,Tober Maura,53.8000306,-6.3945968,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139370771,Q139370771,Tober Muire,53.8210681,-6.414476,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139371275,Q139371275,Tober Muire,53.8531935,-6.401639,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139371901,Q139371901,St. Mairead's well,53.8511879,-6.468361,Ireland,False,Q297742;Q302,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139372505,Q139372505,Lady's Well,53.9935761,-6.402281,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139372589,Q139372589,Lady Well,53.9873904,-6.1530788,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139372633,Q139372633,St Brigid's Well,54.0517285,-6.3839002,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139373006,Q139373006,St Brigid's Well,53.5797107,-8.5739265,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139373048,Q139373048,St Brigid's Well,53.4780541,-8.4723553,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139373061,Q139373061,Lady Well,53.396317,-8.3340117,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139373074,Q139373074,St Catherine's Well,53.3035416,-8.3187827,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139373242,Q139373242,Tobermurry,53.2326365,-8.1772655,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139373262,Q139373262,St Bridget's Well,53.2026556,-8.2588434,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139373302,Q139373302,Our Lady's Well,53.1920646,-8.3727302,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139373319,Q139373319,St Anne's Well,53.026185,-8.349112,Ireland,False,Q164294,SMR (Ireland),1,1
+wd_Q139373335,Q139373335,Our Lady's Well,53.0460134,-8.3919959,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139373427,Q139373427,Lady's Well,53.0861729,-8.4276214,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139373447,Q139373447,Lady's Well,53.1047941,-8.3934917,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139373469,Q139373469,Toberbreeda,53.1344132,-8.3992567,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139373539,Q139373539,Lady's Well,53.2165633,-8.5210079,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139373608,Q139373608,St Bridget's Well,53.1998544,-8.560541,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139373669,Q139373669,Creevaghbaun Well,,,,False,,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139373710,Q139373710,Our Lady's Well,53.2937817,-8.7311,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139373746,Q139373746,St Sorney's Well,53.1984284,-8.9054549,Ireland,False,Q7665324,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,4
+wd_Q139373890,Q139373890,Tobernasorney,53.216993,-8.9694592,Ireland,False,Q7665324,OpenStreetMap;SMR (Ireland),2,5
+wd_Q139373945,Q139373945,St Anne's Well,,,,False,,SMR (Ireland),1,0
+wd_Q139373987,Q139373987,Tobar Suivne,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139374005,Q139374005,Toberbreedia,53.3709289,-9.1590882,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139374045,Q139374045,Tober Murry,53.5197955,-9.4751819,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139374100,Q139374100,Tobairín Naomh Anna,53.2565409,-9.6553349,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139374153,Q139374153,Tobar Mhuire,53.2864954,-9.5657938,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139377040,Q139377040,Well of the Seven Daughters,53.6053371,-10.03287,Ireland,False,Q139377606,OpenStreetMap;SMR (Ireland),2,5
+wd_Q139377172,Q139377172,Tobar Ann,,,,False,,SMR (Ireland),1,1
+wd_Q139377301,Q139377301,Tobar Muire,53.313851,-9.739701,Ireland,False,Q345,SMR (Ireland),1,1
+wd_Q139377338,Q139377338,Tobar Muire,53.306913,-9.793681,Ireland,False,Q345,SMR (Ireland),1,0
+wd_Q139377446,Q139377446,Well of the Seven Daughters,53.2994335,-9.842864,Ireland,False,Q139377606,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139377497,Q139377497,Tobar Muire,53.329255,-9.856672,Ireland,False,Q345,SMR (Ireland),1,1
+wd_Q139377540,Q139377540,Tobar Muire,53.507698,-10.117708,Ireland,False,Q345,SMR (Ireland),1,3
+wd_Q139377566,Q139377566,Tobernaseachtinyean,53.5732525,-10.1168736,Ireland,False,Q139377606,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,2
+wd_Q139377654,Q139377654,Well of the Seven Daughters,53.4151451,-10.1187013,Ireland,False,Q139377606,OpenStreetMap;SMR (Ireland),2,5
+wd_Q139377671,Q139377671,Tobernashaghtninneen,53.5615515,-9.6554641,Ireland,False,Q139377606,OpenStreetMap;SMR (Ireland),2,5
+wd_Q139377693,Q139377693,Tobermurry,53.5966434,-9.6935829,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139380046,Q139380046,St. Annin's Holy Well,53.3783878,-9.2132861,Ireland,False,Q139380063,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139380174,Q139380174,St Cummin's Well,53.4236904,-9.3090704,Ireland,False,Q4246968,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139380237,Q139380237,Tobernagleedah,,,,False,,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139380382,Q139380382,Toberconnell,53.4239414,-9.7943437,Ireland,False,Q139380386,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,4
+wd_Q139380995,Q139380995,St Mary's Well,54.2276909,-8.2050061,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139381015,Q139381015,Q139381015,54.1743312,-8.0886009,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139381081,Q139381081,St Bridget’s Well,53.950944,-8.002575,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139381114,Q139381114,Tober Murray,53.9707888,-7.8802121,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139381145,Q139381145,Tober Patrick,53.9709403,-7.8804374,Ireland,False,Q165479,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139381160,Q139381160,St. Bridget's Well,54.0688102,-7.8004319,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139381176,Q139381176,St Bridget's Well,54.064403,-7.804469,Ireland,False,Q80979,SMR (Ireland),1,2
+wd_Q139381294,Q139381294,Lady Well,53.5673365,-7.9578432,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,4
+wd_Q139381410,Q139381410,Lady Well,53.6235413,-7.6449502,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139381465,Q139381465,St Brigid's Well,53.6616044,-7.6970896,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139381581,Q139381581,St. Mary's Well,53.6914244,-7.6238063,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139381648,Q139381648,Well of the Holy Woman,,,,False,,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139384409,Q139384409,Tobermurry,52.8031084,-9.4557792,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139384465,Q139384465,Toberbreedia,52.7969575,-9.419733,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139384499,Q139384499,Tobermurry,52.7164179,-9.4061959,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139384530,Q139384530,St Margaret's Well,52.7353481,-9.424113,Ireland,False,Q297742,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139384571,Q139384571,Tobermurry,52.7291348,-9.452637,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,2
+wd_Q139384612,Q139384612,Tobermurry,52.7314615,-9.4577211,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139384653,Q139384653,Tobermurry,52.6790979,-9.0969801,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139384691,Q139384691,Toberbreedy,52.7117342,-8.9987509,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139384715,Q139384715,Lady's Well,52.763609,-9.084218,Ireland,False,Q345,SMR (Ireland),1,1
+wd_Q139384741,Q139384741,Toberbreeda,52.7961884,-9.0751512,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139384784,Q139384784,Toberinneenboy,52.8662707,-9.06994,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139384840,Q139384840,Toberinneenboy,52.8611755,-9.0608657,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139384876,Q139384876,Toberinneenboy,52.8863582,-9.0507444,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139385039,Q139385039,Toberinneenboy,52.8497693,-8.9119157,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139385079,Q139385079,Toberinneenboy,52.861759,-8.9767849,Ireland,False,Q128267;Q139384793,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139385176,Q139385176,Toberinneenboy,52.8201313,-8.8639525,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139385201,Q139385201,Toberinneen,52.8189383,-8.7843418,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139385230,Q139385230,Lady Well,52.9141419,-8.4486686,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,3
+wd_Q139410468,Q139410468,Tobergrania Holy Well,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139410531,Q139410531,Toberbreedia,52.8797399,-8.7914068,Ireland,False,Q80979,SMR (Ireland),1,3
+wd_Q139410603,Q139410603,Toberbreeda,52.9166302,-8.8915712,Ireland,False,Q80979,,0,3
+wd_Q139410654,Q139410654,Toberinneenboy,52.9533001,-8.8830391,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139410723,Q139410723,Toberinneenboy,53.0483605,-8.9307301,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139414593,Q139414593,Tobersheela,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139414651,Q139414651,Toberinneenboy,53.0401051,-8.956655,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139414759,Q139414759,Toberinneenboy,53.0514022,-9.1533145,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139414799,Q139414799,Toberinneenboy,52.9547496,-9.0712041,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139415157,Q139415157,Toberinneenboy,52.9713819,-9.0767992,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139415600,Q139415600,Toberinneenboy,52.9832945,-9.2975691,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139419483,Q139419483,Toberinneenboy,52.9072286,-9.3279163,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139420391,Q139420391,Tober Grania,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139421113,Q139421113,Tober Grania,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139489030,Q139489030,St Brendans Well,52.1289273,-8.4002767,Ireland,False,Q188411;Q208961,OpenStreetMap,1,3
+wd_Q139489119,Q139489119,Lady's Well,51.9157101,-8.7111631,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139489154,Q139489154,Tobernamnafinne,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139489200,Q139489200,Aunia's Well,52.1099234,-8.6798497,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139489360,Q139489360,Lady's Well,52.2280064,-8.7517503,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139489383,Q139489383,St Bernard's Well,52.2133443,-8.4898782,Ireland,False,Q139489394;Q188411,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139491517,Q139491517,Lady's Well,51.6699226,-9.4900817,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139491697,Q139491697,St Brigid's Well,51.705387,-9.373673,Ireland,False,Q80979,SMR (Ireland),1,2
+wd_Q139491846,Q139491846,Tobermurry,51.7414051,-9.4005096,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139491991,Q139491991,Lady's Well,51.9430521,-7.8692814,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,2
+wd_Q139492607,Q139492607,Toberbreedy,51.4984251,-9.2976455,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139492703,Q139492703,Toberbreedy,51.498951,-9.297454,Ireland,False,Q80979,SMR (Ireland),1,2
+wd_Q139492708,Q139492708,Lady's Well,51.5225814,-9.3358308,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139492737,Q139492737,St Bridget's Well,51.533924,-9.1306993,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139492764,Q139492764,Toberbreedy,51.5557267,-9.0605369,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139492793,Q139492793,Lady's Well,51.5425351,-8.9207348,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139492833,Q139492833,St Anne's Well,51.5886779,-8.7613338,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139492876,Q139492876,Tobermary,51.6394957,-8.7752207,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139493431,Q139493431,Q139493431,,,,False,,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139493518,Q139493518,Tobernabrid,52.156322,-9.051731,Ireland,False,Q80979,SMR (Ireland),1,1
+wd_Q139493602,Q139493602,Inghean Bhuidhe's Well,52.1227505,-8.9594284,Ireland,False,Q139384793,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,4
+wd_Q139493659,Q139493659,Our Lady's Well,52.257972,-9.050472,Ireland,False,Q345,SMR (Ireland),1,1
+wd_Q139493688,Q139493688,St Bridget's Well,52.205031,-9.014051,Ireland,False,Q80979,SMR (Ireland),1,1
+wd_Q139493720,Q139493720,St Mary's Well,52.3174153,-8.9399314,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139493769,Q139493769,Tobermuire,52.2674986,-8.8110416,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139493787,Q139493787,Our Lady's Well,52.3452912,-8.7723121,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,5
+wd_Q139493945,Q139493945,Lady's Well,52.3255466,-8.6654511,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139493969,Q139493969,St Decla's Well,52.2815133,-8.6805135,Ireland,False,Q923854,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494033,Q139494033,St Bridget's Well,52.2492354,-8.7269909,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,4
+wd_Q139494074,Q139494074,Lady's Well,52.2290365,-8.6663568,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494100,Q139494100,St Winifred's Well,52.2254303,-8.6399585,Ireland,False,Q2575112,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139494130,Q139494130,Tobberconeela,52.2202381,-8.5888249,Ireland,False,Q139495962,OpenStreetMap,1,7
+wd_Q139494198,Q139494198,Tobershivaun,,,,False,,OpenStreetMap;SMR (Ireland),2,5
+wd_Q139494221,Q139494221,Lady's Well,52.1379596,-8.638598,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,6
+wd_Q139494239,Q139494239,Tobermurry,51.846275,-8.8654867,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494270,Q139494270,Brigid's Well,51.75159,-8.7420179,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494292,Q139494292,Lady's Well,51.7515875,-8.7422271,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494299,Q139494299,Lady's Well,51.7999306,-8.6678374,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494317,Q139494317,Lady's Well,51.6909834,-8.5251412,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494338,Q139494338,Mary's Well,51.8978555,-8.6860261,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,4
+wd_Q139494356,Q139494356,St Ann's Well,51.9345485,-8.5996288,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139494365,Q139494365,St Brigid's Well,51.7681835,-8.3878443,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494391,Q139494391,Lady's Well,51.8267439,-8.4323716,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494413,Q139494413,St Mary's Well,51.795155,-8.2911077,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494451,Q139494451,St. Bridget's Well,51.7949642,-8.2909924,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494505,Q139494505,Lady's Well,51.8018323,-8.1746556,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494570,Q139494570,Lady's Well,51.83489,-8.1672835,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,5
+wd_Q139494614,Q139494614,Lady's Well,51.9498001,-8.2380509,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494645,Q139494645,Lady's Well,51.9336555,-8.1108539,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494664,Q139494664,Tobereenkilgrania,,,,False,,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494676,Q139494676,St Bridget's Well,52.0466743,-8.1747749,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494694,Q139494694,Lady's Well,51.9933833,-8.4922922,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494708,Q139494708,Lady's Well,51.9806214,-8.4214067,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494732,Q139494732,Tobairin Muire,51.9995973,-8.430596,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494741,Q139494741,St Bridget's Well,52.0856591,-8.1675974,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139494753,Q139494753,Lady Well,52.109533,-8.243815,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139494768,Q139494768,Q139494768,52.139375,-8.216151,Ireland,False,Q179718,SMR (Ireland),1,1
+wd_Q139494774,Q139494774,St Catherine's Well,52.233931,-8.361383,Ireland,False,Q179718,SMR (Ireland),1,1
+wd_Q139494777,Q139494777,Lady's Well,52.2704996,-8.2862414,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139497792,Q139497792,Tober Lasair,54.0024254,-6.7080503,Ireland,False,Q139497765,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139497828,Q139497828,Tobervanaha,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139497867,Q139497867,Toberulla,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139497891,Q139497891,Toberconnell,51.5303805,-9.3582749,Ireland,False,Q139495962,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139497919,Q139497919,Toberbarahane,51.517172,-9.1905905,Ireland,False,Q139497934,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139497974,Q139497974,Toberruane,51.5940383,-8.9715699,Ireland,False,Q2459547,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139498022,Q139498022,St Dympna's Well,54.3278967,-7.0540588,Ireland,False,Q139567016,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139498043,Q139498043,Tober Bridget,54.0063075,-6.6901991,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139499673,Q139499673,Kenny's Well,52.5901505,-8.2762295,Ireland,False,Q1133742,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139499761,Q139499761,Our Lady's Well,52.293388,-8.204923,Ireland,False,Q345,SMR (Ireland),1,2
+wd_Q139499862,Q139499862,Lady's Well,52.3766807,-8.3465946,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139499940,Q139499940,Toberbreedia,52.3573232,-8.4099507,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139500019,Q139500019,Lady's Well,52.3528683,-8.4515316,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139500086,Q139500086,St Ann's Well,52.338697,-8.5190181,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139500174,Q139500174,Lady's Well,52.329247,-8.6015189,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139500195,Q139500195,Lady's Well,52.3627535,-8.618573,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139500204,Q139500204,Lady's Well,52.3768727,-8.5658146,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139500214,Q139500214,St Bridget's Well,52.376174,-8.5669801,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502498,Q139502498,Lady's Well,52.9630819,-7.8291482,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139502517,Q139502517,Lady's Well,52.7692552,-7.7950037,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502532,Q139502532,Lady's Well,52.6651391,-7.8003775,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502543,Q139502543,Killanna Well,52.7085809,-7.9467389,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502551,Q139502551,Tobergal,52.6970812,-8.3614996,Ireland,False,Q5575577,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502564,Q139502564,St Bridget's Well,52.7208183,-8.3966687,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502584,Q139502584,Lady's Well,52.7992814,-8.4361374,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502608,Q139502608,Toberbreeda,52.8609478,-8.2752129,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502784,Q139502784,Tobernacally,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502807,Q139502807,St. Bridget's Well,52.2830918,-7.8179902,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502834,Q139502834,Lady's Well,52.378779,-7.927368,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502896,Q139502896,Lady's Well,52.4178659,-7.6370242,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502909,Q139502909,Lady's Well,52.4976353,-7.6762057,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502926,Q139502926,Toberone,52.5615446,-7.5916739,Ireland,False,Q139502948,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502976,Q139502976,Lady's Well,52.5908707,-7.6690149,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139502998,Q139502998,Lady's Well,52.5201552,-7.8865032,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503019,Q139503019,Lady's Well,52.5232307,-7.9722735,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503040,Q139503040,St Bridget's Well,52.474314,-8.1549722,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139503060,Q139503060,St. Ailbe's Well,52.462903,-8.3511516,Ireland,False,Q4531465,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503112,Q139503112,Lady's Well,52.4653869,-8.2777423,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503155,Q139503155,St. Patrick's Well,52.5124862,-8.2735956,Ireland,False,Q165479;Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503228,Q139503228,Lady's Well,52.5126951,-8.2754543,Ireland,False,Q165479;Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503256,Q139503256,St. Bridget's Well,52.5357281,-8.1201491,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503274,Q139503274,Lady's Well,52.5804394,-8.1593469,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503455,Q139503455,Tobermurry,52.4707424,-9.2739509,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503497,Q139503497,Tobermurry,52.3642977,-9.2306078,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503516,Q139503516,St Ita's Well,52.329041,-9.185126,Ireland,False,Q1288349,SMR (Ireland),1,1
+wd_Q139503540,Q139503540,Lady's Well,52.410984,-9.10491,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503559,Q139503559,St. Bridget's Well,52.4410041,-9.0807635,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503587,Q139503587,Tobermurry,52.3939167,-8.9831901,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503618,Q139503618,Toberbreedia,52.4026954,-8.9377052,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503650,Q139503650,Tobermeedy,52.4506121,-8.9994818,Ireland,False,Q1288349,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503695,Q139503695,St. Bridget's Well,52.5581359,-9.0359759,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,2
+wd_Q139503764,Q139503764,Lady's Well,52.454277,-8.9203547,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139503811,Q139503811,Lady's Well,52.4176161,-8.818747,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139504896,Q139504896,St. Bridget's Well,52.6594591,-8.8332734,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139504915,Q139504915,St Bridget's Well,52.6560978,-8.8332492,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139504946,Q139504946,Tobermurry,52.6319673,-8.8600901,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139504958,Q139504958,St. Bridget's Well,52.6030292,-8.8600961,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139504984,Q139504984,St Anne's Well,52.5810343,-8.8102037,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139505091,Q139505091,Mary Magdalene's Well,52.6545814,-8.5716695,Ireland,False,Q63070,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139505104,Q139505104,St Brigid's Well,52.616855,-8.443193,Ireland,False,Q80979,SMR (Ireland),1,3
+wd_Q139505113,Q139505113,Toberbreedia,52.5943299,-8.3482978,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139505120,Q139505120,Lady's Well,52.5123806,-8.2468751,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139525670,Q139525670,Lady Well,52.5223005,-8.7200466,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139526536,Q139526536,St. Bridget's Well,52.392036,-8.621607,Ireland,False,Q80979,SMR (Ireland),1,1
+wd_Q139527107,Q139527107,Lady's Well,52.386664,-8.541768,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139527532,Q139527532,St. Margaret's Well,52.4536121,-8.5585863,Ireland,False,Q297742,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139528749,Q139528749,Lady's Well,52.4023943,-8.5250607,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139547901,Q139547901,Toberbreedy,52.4056752,-8.4994352,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139547961,Q139547961,Deborah's Well,52.4175816,-8.445298,Ireland,False,Q5575577,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139547980,Q139547980,Lady's Well,52.426313,-8.4688402,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139548117,Q139548117,St. Mary's Well,52.4737609,-8.467412,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139548131,Q139548131,Tobergobinet,52.4352636,-8.335989,Ireland,False,Q5575577,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139550310,Q139550310,St Bridget's Well,52.4563199,-8.4219298,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139550351,Q139550351,St Bridget's Well,52.5183427,-8.4188506,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139550390,Q139550390,St Bridget's Well,52.523689,-8.406387,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139550548,Q139550548,Lady's Well,53.1564375,-7.9613838,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139550586,Q139550586,Lady's Well,53.1947873,-7.6445237,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139550616,Q139550616,Bridget's Well,53.2792832,-7.8852895,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139550641,Q139550641,Toberneeva,53.3210881,-7.7310303,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139550653,Q139550653,Lady's Well,53.2669744,-7.3690367,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139550668,Q139550668,Anne's Well,53.3749573,-7.146408,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139550969,Q139550969,Mary's Well,52.900626,-6.785855,Ireland,False,Q345,SMR (Ireland),1,2
+wd_Q139551001,Q139551001,St. Bridget's Well,53.1014653,-7.0515821,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139551030,Q139551030,St. Bridget's Well,53.14391,-6.9024114,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139551049,Q139551049,Lady Well,53.4069736,-7.0390338,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139551061,Q139551061,St Brigid's Well,53.4149995,-6.7709926,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139551074,Q139551074,Tubbermohocca,53.400842,-6.666317,Ireland,False,Q139551084,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139551103,Q139551103,Lady's Well,53.348899,-6.65262,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139551119,Q139551119,Nuns Well,,,,False,,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139551128,Q139551128,Bride's Well,53.3812325,-6.5512151,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139551136,Q139551136,Lady Well,53.2877874,-6.6043888,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551161,Q139551161,St Bridget's Well,53.2385643,-6.5757036,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551178,Q139551178,Bride's Well,53.1801709,-6.5914039,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wikimedia Commons,3,4
+wd_Q139551191,Q139551191,Tubber-molin,53.129393,-6.741856,Ireland,False,Q4300418;Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551244,Q139551244,St Anne's Well,52.2378694,-6.9751918,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551266,Q139551266,Tobershonock,52.25827,-7.0147678,Ireland,False,Q1288349,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551282,Q139551282,Q139551282,52.17482,-7.401879,Ireland,False,Q164294,SMR (Ireland),1,1
+wd_Q139551298,Q139551298,Our Lady's Well,52.1534298,-7.8490958,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551319,Q139551319,Lady Well,52.1404691,-7.7457543,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551332,Q139551332,Toberaphoona,52.1213734,-7.6438185,Ireland,False,Q5575577,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551345,Q139551345,St. Brigid's Well,52.092098,-7.628522,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139551367,Q139551367,St. Catherine's Well,52.0881387,-7.6117216,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551437,Q139551437,Tobernamnarialta,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551479,Q139551479,St Declan's Well,52.0412055,-7.774584,Ireland,False,Q345;Q923854,OpenStreetMap;SMR (Ireland),2,1
+wd_Q139551508,Q139551508,Toberughta,51.9478823,-7.7960712,Ireland,False,Q1288349,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551543,Q139551543,St Bridget's Well,51.9870653,-7.860721,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551587,Q139551587,St Dympna's Well,53.5764397,-6.9051553,Ireland,False,Q139567016,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139551609,Q139551609,Bride's Well,53.4251553,-6.657513,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551629,Q139551629,Lady Well,53.5374709,-6.5934411,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551654,Q139551654,Lady's Well,53.5901136,-6.4881992,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551683,Q139551683,Tobermurry,53.6424552,-6.5908541,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551709,Q139551709,St. Bridget's Well,53.6967843,-6.8065339,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551727,Q139551727,St. Anne's Well,53.6857688,-6.7281893,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551740,Q139551740,Lady Well,53.7097428,-6.5545586,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139551752,Q139551752,Lady's Well,53.8203231,-6.6346197,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139552312,Q139552312,St Bridget's Well,53.4993485,-7.1415607,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139552350,Q139552350,St Brigid's Well,53.73506,-7.3116,Ireland,False,Q80979,SMR (Ireland),1,1
+wd_Q139552366,Q139552366,Lady Well,53.7115075,-7.3200864,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139552375,Q139552375,St Eaumas's Well,53.5136662,-7.1455523,Ireland,False,Q139552386,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139552407,Q139552407,St. Bridget's Well,53.446513,-7.2265148,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139552430,Q139552430,Toberbreedia,53.4486439,-7.3367322,Ireland,False,Q80979,SMR (Ireland),1,3
+wd_Q139552462,Q139552462,St Brigid's Well,53.5914207,-7.5965953,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139552501,Q139552501,Bridget's Well,,,,False,,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139552524,Q139552524,St. Bigseach's Well,53.5983612,-7.5091875,Ireland,False,Q139552530,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139552564,Q139552564,Bride's Well,53.3993236,-7.5918853,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139552572,Q139552572,Brides Well,53.4200222,-7.9241057,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139552769,Q139552769,Lady Well,53.4720038,-7.8890258,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139552795,Q139552795,Lady Well,53.463845,-7.7706385,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139556131,Q139556131,St. Bridget's Well,53.2015518,-6.4713952,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139556170,Q139556170,Bride's Well,53.1419504,-6.1413923,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139556243,Q139556243,St. Catherine's Well,53.0782833,-6.0943383,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139556262,Q139556262,Bridget's Well,53.0106667,-6.1219972,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139556276,Q139556276,Bride's Well,52.9721092,-6.0105763,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139556358,Q139556358,Lady's Well,52.9814301,-6.1792409,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139556384,Q139556384,Lady Well,52.9024749,-6.114817,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139556423,Q139556423,Virgin's Well,52.9102398,-6.2102593,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139556451,Q139556451,Brides Well,52.8349488,-6.2593854,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139556463,Q139556463,Lady's Well,52.9059701,-6.2842803,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139556482,Q139556482,Lady's Well,52.7784896,-6.1462927,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139556503,Q139556503,St. Bridget's Well,52.9455929,-6.6322543,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139556538,Q139556538,St. Bridget's Well,52.9529915,-6.6253486,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139556573,Q139556573,Tobermurry,52.9960008,-6.6656056,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139557844,Q139557844,St Bridget's Well,53.5826272,-9.4180942,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139558057,Q139558057,Tobermurry,53.5815666,-9.4190812,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139558207,Q139558207,Tobermurry,53.6143591,-9.2374957,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139558239,Q139558239,St. Bridget's Wells,53.706537,-8.829419,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),3,3
+wd_Q139558245,Q139558245,Tobermurry,53.8053249,-9.1324309,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,4
+wd_Q139558258,Q139558258,Toberarraght,53.9359307,-8.789212,Ireland,False,Q4072290,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,4
+wd_Q139558355,Q139558355,Toberbride,53.9375846,-8.9430535,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139558374,Q139558374,Tobermurry,54.1688109,-9.144529,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139558391,Q139558391,Toberbride,54.0321976,-9.1626954,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139558408,Q139558408,Bride's Well,54.2048916,-9.3557033,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139558607,Q139558607,Tobermurry,54.0371046,-9.2906865,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,4
+wd_Q139558985,Q139558985,St Anne's Well,54.037057,-9.290762,Ireland,False,Q164294,,0,1
+wd_Q139559057,Q139559057,St Anne's Well,53.7862782,-9.4459429,Ireland,False,Q164294,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139559090,Q139559090,Toberbride,53.8742564,-9.5326352,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139559155,Q139559155,Toberbride,53.760821,-9.8563738,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139559313,Q139559313,Tobermurry,53.7193789,-10.0365982,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139559352,Q139559352,Toberfelamurry,53.7938853,-9.9903155,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139559370,Q139559370,Toberfelabride,53.8080026,-9.945921,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139559393,Q139559393,Toberdavnet,53.8831221,-9.9441185,Ireland,False,Q139567016,Logainm;OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,4,5
+wd_Q139559413,Q139559413,St. Derivla's Well,54.0987687,-10.1107103,Ireland,False,Q120999994,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,5
+wd_Q139559473,Q139559473,St Derivla's Well,54.1153689,-10.2140236,Ireland,False,Q120999994,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139564295,Q139564295,St Davnet's Well,53.9641513,-7.2505384,Ireland,False,Q139567016,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139564516,Q139564516,St Bride's Well,53.4527589,-8.0885755,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139564540,Q139564540,Bride's Well,53.8960667,-8.0984178,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139564564,Q139564564,Tobermurry,53.8340399,-8.206244,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139564584,Q139564584,St Bridget's Well,53.8241595,-8.5585676,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139564594,Q139564594,Toberbreedia,53.8325167,-8.4759813,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139564606,Q139564606,Tober Caelainn,53.7828739,-8.4740236,Ireland,False,Q121010274,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139564634,Q139564634,Toberbreda,53.7198502,-8.4138677,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,2
+wd_Q139564643,Q139564643,Toberelva,53.7588392,-8.3280764,Ireland,False,Q139328382,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,4
+wd_Q139564659,Q139564659,Tober Mary,54.0683495,-8.2142785,Ireland,False,Q345;Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139564670,Q139564670,Tobar Bride,54.0497205,-8.1974584,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139564719,Q139564719,St Patrick's Well,53.7390851,-8.1909681,Ireland,False,Q165479;Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139564740,Q139564740,St Catherine's Well,53.5917566,-8.1706041,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139564765,Q139564765,St Bridget's Well,53.6435029,-8.1212319,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139564789,Q139564789,Tobernagreaghta,53.6436476,-8.1222775,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139564809,Q139564809,Kilbegly Well,,,,False,,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139567604,Q139567604,St. Bridget's Well,53.430684,-8.019923,Ireland,False,Q80979,SMR (Ireland),1,1
+wd_Q139567618,Q139567618,St Bridget's Well,53.3988646,-8.0291712,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139567660,Q139567660,St. Bridget's Well,53.3690715,-7.9385899,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139568109,Q139568109,St. Adamnan's Well,55.2874383,-7.2114019,Ireland,False,Q120132,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139568137,Q139568137,St. Bridget's Well,55.291406,-7.336892,Ireland,False,Q80979,SMR (Ireland),1,1
+wd_Q139568148,Q139568148,Toberbride,54.8665006,-7.754277,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139568163,Q139568163,St. Bridget's Well,54.8116822,-7.7541322,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139568189,Q139568189,Toberbride,54.7549769,-7.727809,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139568221,Q139568221,Tetunny Well,,,,False,,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139568248,Q139568248,St Catherine's Well,54.6281559,-8.4429704,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139568350,Q139568350,Tobermurry,54.6330653,-8.5976652,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139568410,Q139568410,Tobernamanna,,,,False,,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139568449,Q139568449,St. Faned's Well,54.7061798,-8.7335067,Ireland,False,Q139566550,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139568470,Q139568470,Priest Boyle's Well,54.8490925,-8.4524681,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,5
+wd_Q139568486,Q139568486,Tobercrone,54.9381877,-8.44429,Ireland,False,Q139568491,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139568512,Q139568512,St Bridget's Wells,55.027763,-8.414337,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,7,0
+wd_Q139572700,Q139572700,St Catherine's Well,53.4917478,-6.3179246,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139572767,Q139572767,St. Catherine's Well,53.2695065,-6.4831446,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139572859,Q139572859,St. Bridget's Well,53.2819457,-6.4729066,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139572913,Q139572913,St. Bridget's Well,53.315491,-6.3953969,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,4
+wd_Q139573079,Q139573079,St. Brigid's Well,53.309945,-6.286616,Ireland,False,Q80979,SMR (Ireland),1,2
+wd_Q139573107,Q139573107,Lady Well,53.318805,-6.220816,Ireland,False,Q345,SMR (Ireland),1,2
+wd_Q139573192,Q139573192,St. Catherine's Well,53.3702744,-6.2600259,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139574516,Q139574516,Our Lady's Spout,53.387662,-6.066394,Ireland,False,Q345,SMR (Ireland),1,2
+wd_Q139574613,Q139574613,St. Bridget's Well,53.3727693,-6.3627818,Ireland,False,Q80979,NIAH (Ireland);SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139575311,Q139575311,St Doolagh's Well,,,,False,,NIAH (Ireland);OpenStreetMap;SMR (Ireland),3,4
+wd_Q139575419,Q139575419,St Brigid's Well,53.4412993,-6.3514159,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,0
+wd_Q139575434,Q139575434,St. Margaret's Well,53.4308694,-6.3030222,Ireland,False,Q297742,OpenStreetMap;SMR (Ireland),2,6
+wd_Q139575468,Q139575468,Lady Well,53.4310367,-6.2238769,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139575652,Q139575652,Lady Well,53.437982,-6.191666,Ireland,False,Q345,SMR (Ireland),1,3
+wd_Q139575670,Q139575670,St. Werburgh's Well,53.450963,-6.209725,Ireland,False,Q1291152,SMR (Ireland),1,1
+wd_Q139575689,Q139575689,St. Werburgh's Well,53.449103,-6.2170557,Ireland,False,Q1291152,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139575721,Q139575721,St. Bridget's Well,53.5027045,-6.2502794,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,5
+wd_Q139575736,Q139575736,Lady Well,53.5085861,-6.2220603,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139575762,Q139575762,St Bridget's Well,53.5093175,-6.2184856,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139575779,Q139575779,Bridetree Well,53.5143751,-6.173825,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139575800,Q139575800,St. Catherine's Well,53.5150388,-6.1751336,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139575848,Q139575848,Lady Well,53.5613395,-6.1457831,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139575905,Q139575905,Lady Well,53.587833,-6.287175,Ireland,False,Q345,SMR (Ireland),1,3
+wd_Q139575942,Q139575942,Lady Well,53.5976004,-6.1976114,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,3
+wd_Q139576041,Q139576041,Lady Well,53.6154644,-6.2138777,Ireland,False,Q345,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139576097,Q139576097,St. Mary's Well,53.6171534,-6.2367605,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q139583160,Q139583160,Lady's Well,54.8630614,-6.4729428,United Kingdom,False,Q345,OpenStreetMap,1,2
+wd_Q139583166,Q139583166,Tobernaveen,,,,False,,,0,3
+wd_Q139583181,Q139583181,St. Mary's Well,,,,False,,OpenStreetMap,1,2
+wd_Q139583198,Q139583198,St. Anne's well,54.3981204,-5.6621218,United Kingdom,False,Q164294,OpenStreetMap,1,0
+wd_Q139583216,Q139583216,St. Lassers Well,54.2722759,-7.8157318,United Kingdom,False,Q139497765,OpenStreetMap,1,0
+wd_Q139583230,Q139583230,Toberanna,54.7614571,-7.1658835,United Kingdom,False,Q164294,OpenStreetMap,1,2
+wd_Q139583279,Q139583279,Una's Well,,,,False,,OpenStreetMap,1,2
+wd_Q139621024,Q139621024,St. Dima's Well,53.1678761,-8.5701406,Ireland,False,Q139567016,OpenStreetMap;SMR (Ireland),2,4
+wd_Q139624955,Q139624955,Holy Well of St Bronagh,54.111072,-6.1846394,United Kingdom,False,Q4096911,OpenStreetMap;Wikimedia Commons,2,4
+wd_Q139976433,Q139976433,Saint Saran's Well,53.2368922,-7.9400424,Ireland,False,Q139980476,OpenStreetMap;SMR (Ireland),2,2
+wd_Q139986686,Q139986686,Saint Kieran's Well,53.3208622,-7.9940933,Ireland,False,Q738988,OpenStreetMap;SMR (Ireland),2,2
+wd_Q140170152,Q140170152,Barrigone Well,52.596615,-9.0547138,,True,,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;other identifiers,4,1
+wd_Q140310174,Q140310174,Saint Fiac's Well,52.861346,-6.939544,,True,,SMR (Ireland),1,2
+wd_Q140373161,Q140373161,Saint Derivla's Well,52.4079955,-8.7920988,Ireland,False,Q5575577,OpenStreetMap;SMR (Ireland),2,4
+wd_Q140529961,Q140529961,St Columbkille's Well,52.9802464,-6.8238683,Ireland,False,Q236326,OpenStreetMap;SMR (Ireland),2,0
+wd_Q140529982,Q140529982,St. Patrick's Well,52.9632289,-6.8443322,Ireland,False,Q165479,OpenStreetMap;SMR (Ireland),2,3
+wd_Q15129947,Q15129947,St Moninna’s Well,54.135032,-6.415246,United Kingdom,False,Q4301754,other identifiers,1,0
+wd_Q15132389,Q15132389,Tobar Bride,53.142843,-6.907783,Ireland,False,Q80979,SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,4,2
+wd_Q15224742,Q15224742,"Holy Well, Malvern",,,,False,,OpenStreetMap;heritage lists (UK),3,0
+wd_Q1609859,Q1609859,St Brigid's Well,52.952133,-9.422362,Ireland,False,Q80979,Logainm;NIAH (Ireland);OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,7,0
+wd_Q1708200,Q1708200,Tobercornan Well,,,,False,,NIAH (Ireland);SMR (Ireland);Wiki Loves Monuments;other identifiers,5,0
+wd_Q17526033,Q17526033,Our Lady's Well,,,,False,,heritage lists (UK);other identifiers,4,0
+wd_Q17529086,Q17529086,St Cleer Holy Well,,,,False,,heritage lists (UK);other identifiers,3,0
+wd_Q17531954,Q17531954,Holy Well of St Clether,,,,False,,OpenStreetMap;heritage lists (UK),3,0
+wd_Q17535717,Q17535717,St Guron's Well,,,,False,,heritage lists (UK),2,0
+wd_Q17555586,Q17555586,Holy Well About 7 Metres South East Of Rialton Manor,,,,False,,heritage lists (UK),2,0
+wd_Q17556051,Q17556051,Holy Well Of Saint Wendronas At Sw 676285,,,,False,,heritage lists (UK),2,0
+wd_Q17640717,Q17640717,St Ruan's Well,,,,False,,heritage lists (UK),5,0
+wd_Q17640800,Q17640800,Holy well 30m north west of St Levan's Chapel,,,,False,,heritage lists (UK),3,0
+wd_Q17641241,Q17641241,Holy well called Madron Well,,,,False,,heritage lists (UK),1,1
+wd_Q17641383,Q17641383,Holy well NW of Roche Station,,,,False,,heritage lists (UK),1,0
+wd_Q17641391,Q17641391,"St Julian's Well, Maker-with-Rame",,,,False,,heritage lists (UK),3,0
+wd_Q17642462,Q17642462,Holy well near St James' Chapel,,,,False,,heritage lists (UK);other identifiers,4,0
+wd_Q17643688,Q17643688,The Holy Well,,,,False,,OpenStreetMap;heritage lists (UK),4,0
+wd_Q17644399,Q17644399,"Holy well at Trelill, 190m ENE of Trelill House",,,,False,,heritage lists (UK),1,0
+wd_Q17663052,Q17663052,"Holy well of St Mawes, 80m east of St Mawes Methodist Church",,,,False,,heritage lists (UK),3,0
+wd_Q17663059,Q17663059,Holy well 380m north west of Trevornick,,,,False,,heritage lists (UK),4,0
+wd_Q17663546,Q17663546,Holy Well at Rezare,,,,False,,heritage lists (UK),1,0
+wd_Q17663798,Q17663798,Holy well in Michaelstow churchyard,,,,False,,heritage lists (UK),4,0
+wd_Q17665170,Q17665170,Holy well 230m north west of Lower Comberoy Cottages,,,,False,,heritage lists (UK),1,0
+wd_Q17665181,Q17665181,"St Julian's Well, Ludlow",,,,False,,heritage lists (UK),3,0
+wd_Q17667405,Q17667405,St Hilda's holy well,,,,False,,heritage lists (UK),3,0
+wd_Q17667694,Q17667694,Holy well 80m east of St Just Church,,,,False,,heritage lists (UK),3,0
+wd_Q17668188,Q17668188,Holy well at St Pancras Chapel,,,,False,,heritage lists (UK),3,0
+wd_Q17668997,Q17668997,St Cleer's  Well and cross,,,,False,,heritage lists (UK),1,0
+wd_Q17669372,Q17669372,"Medieval holy well north east of Holywell Beach, and two prehistoric round barrows 660m and 700m south west of Porth Joke",,,,False,,heritage lists (UK),1,0
+wd_Q17673982,Q17673982,"St Anne's Well, in Whitstone churchyard",,,,False,,heritage lists (UK),1,0
+wd_Q17674164,Q17674164,"Medieval holy well known as St Ann's Well, 120m south of Holwell Farm",,,,False,,heritage lists (UK),3,0
+wd_Q17674466,Q17674466,"Holy well of St Cuby, 25m south west of Brookfield",,,,False,,heritage lists (UK),1,0
+wd_Q17676166,Q17676166,St Clether's Chapel and Holy Well,,,,False,,heritage lists (UK),1,0
+wd_Q17676525,Q17676525,Holy well and butterwell 120m west of Holiwell,,,,False,,heritage lists (UK),1,0
+wd_Q17676635,Q17676635,Holy well 480m north west of Beaford Mill,,,,False,,heritage lists (UK),1,0
+wd_Q17677177,Q17677177,St Constantine's chapel and holy well,,,,False,,heritage lists (UK),1,0
+wd_Q17677247,Q17677247,Holy well at Laneast,,,,False,,heritage lists (UK),1,0
+wd_Q17677251,Q17677251,"St Pedyr's Well, Treloy",,,,False,,heritage lists (UK),1,0
+wd_Q17677845,Q17677845,Site of St Helen's Church with adjacent earthworks and holy well,,,,False,,heritage lists (UK),1,0
+wd_Q17677880,Q17677880,St Mary's Well,,,,False,,heritage lists (UK);other identifiers,4,0
+wd_Q17678240,Q17678240,Holy Well 100m north east of St David's church,,,,False,,heritage lists (UK),3,0
+wd_Q17678432,Q17678432,"Dupath holy well, 45m NNE of Dupath Farm",,,,False,,heritage lists (UK),1,0
+wd_Q17739473,Q17739473,St Cybi's Well,,,,False,,OpenStreetMap;heritage lists (UK);other identifiers,6,0
+wd_Q17741095,Q17741095,St Seiriol's Well,,,,False,,OpenStreetMap;heritage lists (UK);other identifiers,7,0
+wd_Q17743660,Q17743660,Higgon's Well,,,,False,,heritage lists (UK);other identifiers,4,0
+wd_Q17744078,Q17744078,Ffynnon Beuno,,,,False,,heritage lists (UK);other identifiers,6,0
+wd_Q20595916,Q20595916,Ffynnon Eilian,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q24060304,Q24060304,Monk's Well,,,,False,,OpenStreetMap;heritage lists (UK);other identifiers,4,0
+wd_Q24116880,Q24116880,St Gwenfaen's Well,53.247,-4.61,United Kingdom,False,Q18535665,OpenStreetMap;Wikimedia Commons;heritage lists (UK);other identifiers,8,0
+wd_Q26281312,Q26281312,Holy Well Of St John The Baptist,,,,False,,heritage lists (UK);other identifiers,3,0
+wd_Q26390528,Q26390528,Holy Well 350 Metres Along Lane To Frogmore From B3176 (Ss992009),,,,False,,heritage lists (UK),2,0
+wd_Q26400016,Q26400016,Spring Head At SX 620 935,,,,False,,heritage lists (UK),2,0
+wd_Q26432959,Q26432959,Holy Well About 70 Metres North East Of Chapel Farmhouse,,,,False,,heritage lists (UK),2,0
+wd_Q26433850,Q26433850,Holy Well At Venton Glidder Farm Approx 50M North Of Venton Glidder Farmhouse,,,,False,,heritage lists (UK),2,0
+wd_Q26433890,Q26433890,Holy Well Approx 200 M East Of Golden Manor House,,,,False,,heritage lists (UK),2,0
+wd_Q26434404,Q26434404,Holy Well Of Saint Mylor At Approx 50M North Of Church Of Saint Mylor,,,,False,,heritage lists (UK),2,0
+wd_Q26434450,Q26434450,Holy Well Of Saint Anthony At Approx 50M North Of Church Of Saint Anthony,,,,False,,heritage lists (UK),2,0
+wd_Q26434900,Q26434900,Holy Well Of Saint Mawnan,,,,False,,heritage lists (UK),2,0
+wd_Q26436110,Q26436110,Holy Well Of St Ia,,,,False,,heritage lists (UK),2,0
+wd_Q26436679,Q26436679,Holy Well Of St Credan,,,,False,,heritage lists (UK),2,0
+wd_Q26437072,Q26437072,Holy Well Attached To The South Side Of The South Aisle Of Church Of St Sampson,,,,False,,heritage lists (UK),2,0
+wd_Q26452916,Q26452916,Holy Well,,,,False,,heritage lists (UK),2,0
+wd_Q26453810,Q26453810,Holy Well,,,,False,,heritage lists (UK),2,0
+wd_Q26490516,Q26490516,Holy Well Of St Stephen,,,,False,,heritage lists (UK),2,0
+wd_Q26497179,Q26497179,Holy Well Of St Keyne To South West Of Church Of St Keyne,,,,False,,heritage lists (UK),2,0
+wd_Q26498691,Q26498691,Holy Well Head Approximately 14 Metres South West Of Ladye Park,,,,False,,heritage lists (UK),2,0
+wd_Q26513403,Q26513403,Holy Well At Approximately 100 Metres South West Of Church Of Saint Rumon,,,,False,,heritage lists (UK),2,0
+wd_Q26544028,Q26544028,Holy Well Of St Gennys About 3 Metres South East Of The South Churchyard Gate Of The Church Of St Gennys,,,,False,,heritage lists (UK),2,0
+wd_Q26554781,Q26554781,Holy Well,,,,False,,heritage lists (UK),2,0
+wd_Q26566134,Q26566134,Holy Well West Of Holywell Farmhouse,,,,False,,OpenStreetMap;heritage lists (UK),3,0
+wd_Q26596830,Q26596830,Holy Well At Trelowthas Approx 50M West Of Trethowlas Farmhouse,,,,False,,heritage lists (UK),2,0
+wd_Q26598177,Q26598177,Holy Well About 15 Metres South West Of Joseph's Cottage,,,,False,,heritage lists (UK),2,0
+wd_Q26598766,Q26598766,Holy Well And Gates At Sw393261,,,,False,,heritage lists (UK),2,0
+wd_Q26607393,Q26607393,Holy Well,,,,False,,heritage lists (UK),2,0
+wd_Q26611870,Q26611870,Holy Well Of St Leonard,,,,False,,heritage lists (UK),2,0
+wd_Q26613033,Q26613033,Holy Well And Stile 140 Metres To South Of Inner Fentondale,,,,False,,heritage lists (UK),2,0
+wd_Q26613604,Q26613604,Holy Well Of St James Sx 192962,,,,False,,heritage lists (UK),2,0
+wd_Q26613610,Q26613610,Holy Well Approx 180 Metres South-West Of Church Of St Denis,,,,False,,heritage lists (UK),2,0
+wd_Q26613630,Q26613630,Holy Well House 80 Metres To South East Of Lavethan,,,,False,,heritage lists (UK),2,0
+wd_Q26613996,Q26613996,Holy Well Of Saint Piran At Sw 778 387 Ne,,,,False,,heritage lists (UK),2,0
+wd_Q26616409,Q26616409,Holy Well To South East Of Manor House,,,,False,,heritage lists (UK),2,0
+wd_Q28232203,Q28232203,Calliaghstown Well,53.671491944,-6.329396111,Ireland,False,Q236326,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,6,0
+wd_Q28232327,Q28232327,St. Cuan's Well,53.415304,-8.316109,Ireland,False,Q5202799,SMR (Ireland);other identifiers,3,0
+wd_Q29482202,Q29482202,The Virtuous Well,,,,False,,heritage lists (UK);other identifiers,5,0
+wd_Q29483966,Q29483966,Ffynnon Aelrhiw,,,,False,,heritage lists (UK);other identifiers,3,0
+wd_Q29483979,Q29483979,Ffynnon Fair,,,,False,,heritage lists (UK);other identifiers,4,0
+wd_Q29491688,Q29491688,St Teilo's Well,,,,False,,OpenStreetMap;heritage lists (UK);other identifiers,5,0
+wd_Q29503669,Q29503669,Holy Well,,,,False,,heritage lists (UK);other identifiers,5,0
+wd_Q30136898,Q30136898,Cranavane Well,52.689722,-6.724167,,True,,SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,3,2
+wd_Q30136903,Q30136903,Tobar Bhride Well,52.685,-6.780556,Ireland,False,Q80979,SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,3,0
+wd_Q30136905,Q30136905,St Laserian's Well,52.736111,-7.028611,Ireland,False,Q3066480,SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,3,1
+wd_Q30136912,Q30136912,Tullowphelim Well,52.805833,-6.742778,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,3
+wd_Q30160967,Q30160967,St Coelans Well,,,,False,,SMR (Ireland);Wiki Loves Monuments,2,2
+wd_Q30161019,Q30161019,Saint Francis Well,51.901265,-8.483061,Ireland,False,Q676555,SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,3,0
+wd_Q30161022,Q30161022,Ladys Well Grotto,51.904571,-8.472316,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,0
+wd_Q30161038,Q30161038,Tiobra Bhrianach,,,,False,,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q30246729,Q30246729,Bunduff Well,54.464064,-8.375244,Ireland,False,Q165479,SMR (Ireland);Wiki Loves Monuments,2,2
+wd_Q30247273,Q30247273,Tobairin Holy Well,,,,False,,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q30247277,Q30247277,St Johns Well - Tobar Eoin,52.125278,-10.111944,Ireland,False,Q40662,SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,3,1
+wd_Q31101502,Q31101502,St Columbkilles Well,53.601944,-7.648889,Ireland,False,Q236326,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q31358936,Q31358936,Ffynnon Allgo,,,,False,,heritage lists (UK);other identifiers,3,0
+wd_Q32263869,Q32263869,St Davids Well (site of),52.410278,-6.531667,Ireland,False,Q331697,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q32263891,Q32263891,Saint Brigid's Well,52.687222,-6.445556,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,0
+wd_Q32786157,Q32786157,St Brigids Well,53.549444,-7.352222,Ireland,False,Q80979,SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,3,0
+wd_Q32786160,Q32786160,St Brigids Well,53.485,-7.582778,Ireland,False,Q80979,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,0
+wd_Q32824168,Q32824168,Kilrossanty Wells,52.181667,-7.540833,Ireland,False,Q345;Q80979,SMR (Ireland);Wiki Loves Monuments,4,0
+wd_Q33093096,Q33093096,Saint Attracta's Well,53.938056,-8.508611,Ireland,False,Q4072290,NIAH (Ireland);OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,5,4
+wd_Q33097333,Q33097333,Saint Anthony's Well,,,,False,,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q33097335,Q33097335,Saint Manchan's Well,53.292594,-7.742786,Ireland,False,Q3274265,SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,3,2
+wd_Q33110950,Q33110950,Kilcummin Well,54.278048,-9.208596,Ireland,False,Q4246968,SMR (Ireland);Wiki Loves Monuments,2,0
+wd_Q33123120,Q33123120,Rush Demesne Holy Well,53.53792,-6.093657,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,4
+wd_Q33123146,Q33123146,Townparks Holy Well,53.455943,-6.222702,Ireland,False,Q236326,SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,3,5
+wd_Q33123155,Q33123155,Our Ladys Well,53.408406,-6.391794,Ireland,False,Q345,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,3
+wd_Q33123173,Q33123173,St Catherines Park Holy Well,53.366907,-6.473044,Ireland,False,Q179718,OpenStreetMap;SMR (Ireland);Wiki Loves Monuments,3,3
+wd_Q3530129,Q3530129,Tobernalt Well,,,,False,,SMR (Ireland);Wiki Loves Monuments;other identifiers,5,0
+wd_Q47490835,Q47490835,St Cybi's Well,,,,False,,heritage lists (UK);other identifiers,2,0
+wd_Q5353961,Q5353961,Elder Well,,,,False,,other identifiers,1,0
+wd_Q55028451,Q55028451,St Mary's Well,52.05777,-9.5092,Ireland,False,Q345,NIAH (Ireland);SMR (Ireland);Wiki Loves Monuments,3,0
+wd_Q55029939,Q55029939,St Mogue's Well,52.59095,-6.49177,Ireland,False,Q404099,NIAH (Ireland);SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,0
+wd_Q55045620,Q55045620,St Abigail's Well,52.0988209,-8.7762918,Ireland,False,Q5575577,NIAH (Ireland);OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,5,3
+wd_Q55046429,Q55046429,St Peter's Well,53.11246,-8.73836,Ireland,False,Q33923,NIAH (Ireland);SMR (Ireland);Wiki Loves Monuments,3,0
+wd_Q55049487,Q55049487,St Colmcille's Well,53.26765,-6.3269,Ireland,False,Q236326,NIAH (Ireland);SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,4,0
+wd_Q55049674,Q55049674,St Catherine's Well (Malahide),53.41558,-6.1787,Ireland,False,Q179718,NIAH (Ireland);OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,5,4
+wd_Q55049746,Q55049746,St Catherine's Holy Well (Dublin),53.36644,-6.47315,Ireland,False,Q179718,NIAH (Ireland);OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons,6,3
+wd_Q6470591,Q6470591,Lady Well,,,,False,,OpenStreetMap;other identifiers,2,0
+wd_Q6515776,Q6515776,Leechwell,,,,False,,heritage lists (UK);other identifiers,5,0
+wd_Q7586978,Q7586978,"St. Ann's Well, Raheny",53.3719202,-6.1679122,Ireland,False,Q164294,NIAH (Ireland);OpenStreetMap;SMR (Ireland);Wiki Loves Monuments;Wikimedia Commons;other identifiers,6,3
+wd_Q7587309,Q7587309,St. Blaise's Well,,,,False,,OpenStreetMap;heritage lists (UK);other identifiers,3,0
+wd_Q98142860,Q98142860,St Queran's Well,,,,False,,other identifiers,2,0

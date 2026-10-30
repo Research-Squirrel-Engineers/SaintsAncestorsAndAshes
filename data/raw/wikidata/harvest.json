@@ -1,0 +1,86 @@
+{
+  "fuzzysl_coordinates": {
+    "endpoint": "https://fuzzy-sl.wikibase.cloud/query/sparql",
+    "fetched": "2026-10-20",
+    "query": "data/raw/queries/fuzzysl_coordinates.rq",
+    "query_sha256": "8ea8012a79b4",
+    "rows": 531
+  },
+  "fuzzysl_links": {
+    "endpoint": "https://fuzzy-sl.wikibase.cloud/query/sparql",
+    "fetched": "2026-10-20",
+    "query": "data/raw/queries/fuzzysl_links.rq",
+    "query_sha256": "91a1bf3ed661",
+    "rows": 82
+  },
+  "fuzzysl_statements": {
+    "endpoint": "https://fuzzy-sl.wikibase.cloud/query/sparql",
+    "fetched": "2026-10-20",
+    "query": "data/raw/queries/fuzzysl_statements.rq",
+    "query_sha256": "4c535c823669",
+    "rows": 344
+  },
+  "holywells_admin": {
+    "endpoint": "https://query.wikidata.org/sparql",
+    "fetched": "2026-09-29",
+    "query": "data/raw/queries/holywells_admin.rq",
+    "query_sha256": "3fbf45f7ff48",
+    "rows": 1985
+  },
+  "holywells_identifiers": {
+    "endpoint": "https://query.wikidata.org/sparql",
+    "fetched": "2026-09-29",
+    "query": "data/raw/queries/holywells_identifiers.rq",
+    "query_sha256": "b320b039df17",
+    "rows": 1864
+  },
+  "holywells_namesake_identifiers": {
+    "endpoint": "https://query.wikidata.org/sparql",
+    "fetched": "2026-10-20",
+    "query": "data/raw/queries/holywells_namesake_identifiers.rq",
+    "query_sha256": "5cc130bf5099",
+    "rows": 6102
+  },
+  "holywells_namesakes": {
+    "endpoint": "https://query.wikidata.org/sparql",
+    "fetched": "2026-10-20",
+    "query": "data/raw/queries/holywells_namesakes.rq",
+    "query_sha256": "d16b7bdd56e2",
+    "rows": 224
+  },
+  "holywells_source_details": {
+    "endpoint": "https://query.wikidata.org/sparql",
+    "fetched": "2026-10-20",
+    "query": "data/raw/queries/holywells_source_details.rq",
+    "query_sha256": "770a25e3ce7a",
+    "rows": 67
+  },
+  "holywells_sources": {
+    "endpoint": "https://query.wikidata.org/sparql",
+    "fetched": "2026-10-20",
+    "query": "data/raw/queries/holywells_sources.rq",
+    "query_sha256": "74b0e8755e37",
+    "rows": 3586
+  },
+  "ogham_stones_identifiers": {
+    "endpoint": "https://query.wikidata.org/sparql",
+    "fetched": "2026-09-29",
+    "query": "data/raw/queries/ogham_stones_identifiers.rq",
+    "query_sha256": "bfc83acb0f39",
+    "rows": 186
+  },
+  "ogham_stones_links": {
+    "endpoint": "https://query.wikidata.org/sparql",
+    "fetched": "2026-10-20",
+    "query": "data/raw/queries/ogham_stones_links.rq",
+    "query_sha256": "33ed8999b5ef",
+    "rows": 8092
+  },
+  "ogham_stones_places": {
+    "endpoint": "https://query.wikidata.org/sparql",
+    "fetched": "2026-09-29",
+    "query": "data/raw/queries/ogham_stones_places.rq",
+    "query_sha256": "73dbdf4d10d4",
+    "rows": 1825
+  }
+}

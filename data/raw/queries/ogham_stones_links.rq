@@ -1,0 +1,15 @@
+# Ogham stones in Wikidata and every item-valued statement they carry, apart
+# from the class and the place statements that ogham_stones_places already
+# fetches. Each stone is described by several concept items (CISP, Macalister,
+# Ogham in 3D, Research Squirrel Ogham Project); this query shows how the
+# concepts point at each other and at what else.
+# Feeds layers (a) and (b) of the Ancestors case (step S3).
+SELECT ?item ?prop ?propLabel ?target ?targetLabel ?targetIsOgham WHERE {
+  ?item wdt:P31 wd:Q2016147 .
+  ?item ?direct ?target .
+  ?prop wikibase:directClaim ?direct ;
+        wikibase:propertyType wikibase:WikibaseItem .
+  FILTER(?prop NOT IN (wd:P31, wd:P17, wd:P189, wd:P195, wd:P276))
+  OPTIONAL { ?target wdt:P31 wd:Q2016147 . BIND(true AS ?targetIsOgham) }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

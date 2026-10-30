@@ -1,0 +1,15 @@
+# Holy wells in Ireland and the United Kingdom and the sources that describe
+# them (P1343), with the page qualifier where given. Many sources are
+# bibliographic items with a title (P1476) but no label in English, the
+# language-neutral or Irish; the title is fetched as a fallback.
+# Feeds the source network of the Saints case (S4).
+SELECT ?well ?wellLabel ?source ?sourceLabel ?title ?pages WHERE {
+  VALUES ?country { wd:Q27 wd:Q145 }
+  ?well wdt:P31 wd:Q1371047 ;
+        wdt:P17 ?country ;
+        p:P1343 ?st .
+  ?st ps:P1343 ?source .
+  OPTIONAL { ?st pq:P304 ?pages . }
+  OPTIONAL { ?source wdt:P1476 ?title . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul,ga". }
+}

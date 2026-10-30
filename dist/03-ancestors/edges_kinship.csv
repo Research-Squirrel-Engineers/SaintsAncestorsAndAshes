@@ -1,0 +1,117 @@
+person_1,person_2,relation,lemma,amt_weight,stone
+person_I_ANT_002_anon0_0,person_name_vobarracas,son of,maqqas,1.00,I-ANT-002
+person_I_ARM_001_anon0_0,person_I_ARM_001_anon0_2,son of,maqqas,1.00,I-ARM-001
+person_I_COR_024_anon0_1,person_I_COR_024_anon0_3,son of,maqqas,1.00,I-COR-024
+person_I_COR_032_anon0_0,person_I_COR_032_anon0_2,son of,maqqas,1.00,I-COR-032
+person_I_COR_033_anon0_0,person_I_COR_033_anon0_2,son of,maqqas,1.00,I-COR-033
+person_I_COR_036_anon0_0,person_I_COR_036_anon0_2,son of,maqqas,1.00,I-COR-036
+person_I_COR_038_anon0_0,person_I_COR_038_anon0_2,son of,maqqas,1.00,I-COR-038
+person_I_COR_043_anon0_0,person_I_COR_043_anon0_2,son of,maqqas,1.00,I-COR-043
+person_I_COR_046_anon0_0,person_name_vortigernas,son of,maqqas,1.00,I-COR-046
+person_I_COR_053_anon0_1,person_I_COR_053_anon0_3,unstated,,0.90,I-COR-053
+person_I_COR_054_anon0_1,person_I_COR_054_anon0_3,client of,celi,1.00,I-COR-054
+person_I_COR_062_anon0_0,person_I_COR_062_anon0_2,son of,maqqas,1.00,I-COR-062
+person_I_COR_063_anon0_0,person_I_COR_063_anon0_2,son of,maqqas,1.00,I-COR-063
+person_I_COR_064_anon0_0,person_I_COR_064_anon0_2,son of,maqqas,1.00,I-COR-064
+person_I_COR_065_anon0_0,person_I_COR_065_anon0_2,son of,maqqas,1.00,I-COR-065
+person_I_KER_004_anon0_0,person_name_sedanias,son of,maqqas,1.00,I-KER-004
+person_I_KER_030_anon0_0,tribe_I_KER_030_anon0_4,son of,koi+maqqas+muccoviias,1.00,I-KER-030
+person_I_KIK_006_anon0_0,tribe_I_KIK_006_anon0_3,son of,maqqas+muccoviias,1.00,I-KIK-006
+person_I_KIK_007_anon0_1,person_I_KIK_007_anon0_3,son of,maqqas,1.00,I-KIK-007
+person_I_KIK_011_anon0_0,person_I_KIK_011_anon0_2,son of,maqqas,1.00,I-KIK-011
+person_I_KIK_012_anon0_0,person_I_KIK_012_anon0_2,descendant of,avias,1.00,I-KIK-012
+person_I_KIK_013_anon0_0,person_I_KIK_013_anon0_3,son of,koi+maqqas,1.00,I-KIK-013
+person_I_KIK_014_anon0_0,person_I_KIK_014_anon0_2,son of,maqqas,1.00,I-KIK-014
+person_I_KIK_014_anon0_2,tribe_I_KIK_014_anon0_4,of the kin of,muccoviias,1.00,I-KIK-014
+person_I_WAT_006_anon0_2,tribe_name_lugus,of the kin of,muccoviias,0.90,I-WAT-006
+person_I_WAT_011_anon0_1,tribe_I_WAT_011_anon0_3,of the kin of,muccoviias,1.00,I-WAT-011
+person_I_WAT_012_anon0_0,tribe_I_WAT_012_anon0_3,son of,maqqas+muccoviias,1.00,I-WAT-012
+person_I_WAT_014_anon0_0,person_I_WAT_014_anon0_2,son of,maqqas,1.00,I-WAT-014
+person_I_WAT_014_anon0_2,person_I_WAT_014_anon0_5,descendant of,cēlias+avias,1.00,I-WAT-014
+person_I_WAT_015_anon0_0,person_I_WAT_015_anon0_2,son of,maqqas,1.00,I-WAT-015
+person_I_WAT_016_anon0_0,tribe_I_WAT_016_anon0_3,son of,maqqas+muccoviias,1.00,I-WAT-016
+person_I_WAT_018_anon0_0,tribe_I_WAT_018_anon0_2,of the kin of,muccoviias,1.00,I-WAT-018
+person_I_WAT_033_anon0_0,tribe_name_neta_Segam,of the kin of,muccoviias,1.00,I-WAT-033
+person_I_WAT_036_anon0_0,tribe_I_WAT_036_anon0_2,of the kin of,muccoviias,1.00,I-WAT-036
+person_I_WAT_039_anon0_0,tribe_I_WAT_039_anon0_3,son of,maqqas+muccoviias,1.00,I-WAT-039
+person_I_WAT_040_anon0_0,person_I_WAT_040_anon0_2,son of,maqqas,1.00,I-WAT-040
+person_I_WAT_042_anon0_0,tribe_I_WAT_042_anon0_3,son of,maqqas+muccoviias,0.90,I-WAT-042
+person_I_WAT_049_anon0_0,tribe_I_WAT_049_anon0_3,son of,maqqas+muccoviias,1.00,I-WAT-049
+person_I_WAT_050_anon0_0,person_I_WAT_050_anon0_2,son of,maqqas,1.00,I-WAT-050
+person_S_SHE_001_anon0_2,person_S_SHE_001_anon0_4,son of,maqqas,1.00,S-SHE-001
+person_name,person_name_tan,son of,maqqas,1.00,I-LOU-002
+person_name_Carthach,tribe_I_COR_052_anon0_3,son of,maqqas+muccoviias,0.90,I-COR-052
+person_name_allatis,person_I_MAY_003_anon0_2,son of,maqqas,1.00,I-MAY-003
+person_name_ambicatus,person_name_rocatus,son of,maqqas,1.00,M-IOM-007
+person_name_anavlamattias,tribe_name_noeluri,of the kin of,muccoviias,0.90,I-COR-076
+person_name_andegellas,person_name_cavetas,son of,maqqas,1.00,W-PEM-003
+person_name_bivadias,person_name_bodibivas,descendant of,avias,1.00,W-CMN-002
+person_name_bivaid,tribe_name_at_r,of the kin of,muccoviias,0.90,I-WAT-024
+person_name_bivaid,tribe_name_cunavalas,son of,maqqas+muccoviias,0.90,M-IOM-002
+person_name_branagnas,person_I_COR_037_anon0_2,son of,maqqas,1.00,I-COR-037
+person_name_broinienas,person_name_netta_ttrenalugos,here lies,koi,1.00,I-COR-071
+person_name_bruscus,person_name_caliacas,son of,maqqas,1.00,I-KER-048
+person_name_cassittas,tribe_name_calliti,son of,maqqas+muccoviias,1.00,I-COR-030
+person_name_ceragnas,person_I_MAY_005_anon0_2,descendant of,avias,1.00,I-MAY-005
+person_name_cliucu,person_name_maqqas_treni,son of,maqqas,1.00,I-COR-035
+person_name_coelabuts,person_name_maqqas_riteas,son of,maqqas,1.00,I-COR-055
+person_name_coilabuts,tribe_name_lugus,of the kin of,muccoviias,0.90,I-WAT-005
+person_name_coimagnas,tribe_I_COR_019_anon0_3,son of,maqqas+muccoviias,0.90,I-COR-019
+person_name_colomagnas,person_I_COR_011_anon0_2,descendant of,avias,1.00,I-COR-011
+person_name_colomagnas,person_name_comogagnas,son of,maqqas,1.00,I-COR-091
+person_name_corbagnas,tribe_I_COR_047_anon0_4,son of,koi+maqqas+muccoviias,0.90,I-COR-047
+person_name_croccagni,person_name_domongartas,son of,maqqas,1.00,I-COR-092
+person_name_cronagnas,person_I_COR_039_anon0_2,son of,maqqas,1.00,I-COR-039
+person_name_cunagussus,tribe_name_viragnas,son of,maqqas+muccoviias,0.90,I-COR-018
+person_name_dalagni,person_name_dali,son of,maqqas,1.00,I-COR-070
+person_name_degis,tribe_name_toicacas,son of,maqqas+muccoviias,0.90,I-KER-066
+person_name_dimai,person_name_ccaqttaucc,son of,maqqas,1.00,I-COR-095
+person_name_dovaid,person_M_IOM_001_anon0_2,son of,maqqas,1.00,M-IOM-001
+person_name_dovet_i_as,person_name_l,son of,maqqas,1.00,I-COR-080
+person_name_dunaidu,person_name_marianus,son of,maqqas,1.00,I-CAR-003
+person_name_gattagnas,tribe_name_lugunias,of the kin of,muccoviias,1.00,I-WAT-048
+person_name_grilagnas,person_name_scilagnas,son of,maqqas,1.00,I-COR-034
+person_name_ignias,tribe_name_a,son of,koi+maqqas+muccoviias,0.90,I-KID-004
+person_name_jovanis,person_name_ivacatus,descendant of,avias,1.00,I-KID-001
+person_name_l,person_name_culidovas,son of,celias+maqqas,1.00,I-COR-080
+person_name_laddignias,tribe_I_KER_005_anon0_3,son of,maqqas+muccoviias,1.00,I-KER-005
+person_name_laidagnas,person_I_KER_006_anon0_2,son of,maqqas,1.00,I-KER-006
+person_name_litubiri,person_name_qecia,son of,maqqas,1.00,I-COR-083
+person_name_lobas,tribe_name_rinas,son of,koi+maqqas+muccoviias,0.90,I-KIK-008
+person_name_lug,person_I_COR_013_anon0_2,son of,maqqas,1.00,I-COR-013
+person_name_lugudics,tribe_I_WAT_025_anon0_3,of the kin of,muccoviias,0.90,I-WAT-025
+person_name_lugudics,tribe_name_neta_Segam,son of,maqqas+muccoviias,0.90,I-WAT-002
+person_name_lugudiks,person_name_maqqas_oc_ci,son of,maqqas,1.00,I-COR-057
+person_name_luguqritias,person_I_COR_016_anon0_2,son of,maqqas,1.00,I-COR-016
+person_name_luguqritias,person_name_qritias,son of,maqqas,1.00,I-KER-013
+person_name_lugus,person_name_lobacu,son of,maqqas,1.00,I-WAT-005
+person_name_madora,person_name_dego,son of,maqqas,1.00,I-COR-073
+person_name_maglacu,person_name_klutarigs,son of,maqqas,1.00,W-PEM-014
+person_name_maila_andiberi,person_name_broccagnas,son of,maqqas,1.00,I-KER-055
+person_name_maqi_bri,person_I_COR_074_anon0_2,client of,celi,1.00,I-COR-074
+person_name_maqiercias,person_name_valamni,son of,maqqas,1.00,I-COR-077
+person_name_maqqas,person_name_maqqas_treni,son of,maqqas,1.00,I-KER-003
+person_name_maqqas_cairatini,person_name_ineqaglasas,descendant of,avias,1.00,I-MEA-001
+person_name_maqqas_deceddas,person_name_marinus,son of,maqqas,1.00,I-KID-002
+person_name_maqqas_deceddas,person_name_turania,descendant of,avias,1.00,I-COR-014
+person_name_maqqas_esea,person_I_COR_050_anon0_2,son of,maqqas,1.00,I-COR-050
+person_name_maqqas_lasire,person_name_birracias,son of,maqqas,1.00,I-COR-093
+person_name_maqqas_riteas,tribe_name_corberias,son of,maqqas+muccoviias,0.90,I-COR-055
+person_name_medusias,person_I_WAT_006_anon0_2,son of,maqqas,1.00,I-WAT-006
+person_name_minnaccanni,person_name_ailluattan,son of,maqqas,1.00,I-COR-087
+person_name_moddagnas,person_name_gattagnas,son of,maqqas,1.00,I-WAT-048
+person_name_neta_vraicas,tribe_name_trenalugus,son of,maqqas+muccoviias,0.90,I-KID-008
+person_name_nets_sagri,tribe_name_brigacas,son of,maqqas+muccoviias,1.00,W-PEM-006
+person_name_noeluri,person_name_akeras,descendant of,avias,1.00,I-COR-076
+person_name_odaragnas,person_I_COR_090_anon0_2,son of,maqqas,1.00,I-COR-090
+person_name_ronagnas,person_name_comogagnas,son of,maqqas,1.00,I-KER-012
+person_name_sagragnas,person_name_kunatamas,son of,maqqas,1.00,W-PEM-001
+person_name_savaqqucus,person_name_qicus,son of,maqqas,1.00,E-DEV-001
+person_name_tobira,tribe_name_sogini,of the kin of,muccoviias,1.00,I-COR-078
+person_name_trenagussus,person_name_maqqas_treni,son of,maqqas,1.00,W-PEM-004
+person_name_trenas,tribe_name_qritias,son of,maqqas+muccoviias,0.90,I-COR-003
+person_name_uddmensa,person_name_netta_slogi,client of,celias,0.90,I-COR-058
+person_name_vecreg,tribe_name_glunlegget,of the kin of,muccoviias,1.00,I-COR-069
+person_name_vedacuna,person_name_tobira,son of,maqqas,1.00,I-COR-078
+person_name_veqoanai,person_name_eqod,son of,maqqas,1.00,I-COR-081
+person_name_vergoso,person_name_llominacca,son of,maqqas,1.00,I-COR-072

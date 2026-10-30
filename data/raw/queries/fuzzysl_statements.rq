@@ -1,0 +1,15 @@
+#endpoint: https://fuzzy-sl.wikibase.cloud/query/sparql
+# Every text and item-valued statement in the fuzzy-sl Wikibase, with the
+# labels of property and value: references (hasReference), spatial type and
+# category, administrative unit, ... Generic over the property type, so no
+# fuzzy-sl property number is hard-coded. Step S5 reads the literature and the
+# spatial type of the CI findspots that exist only in fuzzy-sl from it.
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+SELECT ?item ?itemLabel ?prop ?propLabel ?value ?valueLabel WHERE {
+  VALUES ?ptype { wikibase:String wikibase:Monolingualtext wikibase:WikibaseItem }
+  ?prop wikibase:directClaim ?direct ;
+        wikibase:propertyType ?ptype .
+  ?item ?direct ?value .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

@@ -1,0 +1,505 @@
+stone,title,region,lat,lon,ciic,cisp,tm,smr,keeper,gazetteers,wikidata_cluster,wikidata_items,persons
+E-CON-001,Worthyvale,England,50.640058,-4.675453,470,WVALE/1,168506,,,,,,0
+E-CON-002,Lannwenek | Lewannick 1,England,50.600492,-4.437475,466,LWNCK/1,172292,,,,,,1
+E-CON-003,Lannwenek | Lewannick 2,England,50.600492,-4.437476,467,LWNCK/2,172763,,,,,,2
+E-CON-004,Lanndohow | St Kew,England,50.558014,-4.794633,484,STKEW/1,172385,,,,,,1
+E-CON-005,Pennwydh | Penwith,England,50.088333,-5.545833,,x,,,Royal Cornwall Museum,,,,0
+E-CON-X01,Lewannick 3,England,50.594025,-4.445619,,LWNCC/1,,,,,,,0
+E-CON-X02,Lancarffe,England,50.489336,-4.705275,457,LCARF/1,173851,,,,,,0
+E-CON-X03,St Clement,England,50.255903,-5.016133,473,SCLEM/1,168498,,,,,,0
+E-CON-X04,St Endellion,England,50.582325,-4.841989,478,SENDL/1,168504,,,,,,0
+E-DEV-001,Fardel,England,50.400019,-3.955761,489,FARDL/1,168513,,British Museum,,wdcluster_0430,Q69389090,2
+E-DEV-002,Roborough Down,England,50.503978,-4.130694,488,TVST3/1,173860,,,,,,1
+E-DEV-X01,Brendon,England,51.199733,-3.810378,,,,,,,,,0
+E-HAM-001,Silchester,England,51.357914,-1.019333,496,SILCH/1,172377,,Reading Museum,,,,1
+E-NFK-001,Weeting-with-Broomhill,England,52.477039,0.581231,,,,,Norwich Castle Museum,,,,0
+E-STS-001,Uttoxeter,England,52.8983,-1.8678,,,,,,,,,0
+E-WAR-001,Coventry,England,52.398772,-1.457633,,,,,Herbert Art Gallery and Museum,,,,1
+E-WRY-001,Vale of York brooch fragment,England,53.989228,-1.530225,,,,,British Museum,,,,0
+I-ANT-001,Carn Coim | Carncome 1,Ireland,54.8045,-6.1961,309,CRCOM/1,,,,Logainm:1.00,wdcluster_0242,Q106675452;Q106681187;Q70893037,2
+I-ANT-002,Carn Coim | Carncome 2,Ireland,54.8045,-6.1961,310,CRCOM/2,,,National Museum of Ireland,Logainm:1.00,wdcluster_0243,Q106675453;Q106681188;Q70893044,2
+I-ANT-003,Gartree,Ireland,54.617977,-6.288513,,,,,,,,,0
+I-ARM-001,Droim Conmhaoil | Drumconwell,Ireland,54.302925,-6.651108,311,DRCOM/1,,,Armagh Robinson library (No 5 Vicars’ Hill Museum),Logainm:1.00,wdcluster_0261,Q106675479;Q106681189;Q70893046,2
+I-CAR-001,Cluain Mhór | Clonmore,Ireland,52.827268,-6.57009,15,CLMOR/1,,CW009-028021-,,Logainm:1.00,wdcluster_0018,Q106674191;Q106675418;Q106680578;Q70892312,0
+I-CAR-002,Tobar Phádraig | Patrickswell,Ireland,52.884113,-6.682746,,PTWEL/1,,CW004-011----,,Logainm:1.00,,,0
+I-CAR-003,An Ráth Ghlas | Rathglass,Ireland,52.784879,-6.720159,16,RGLAS/1,,CW013-018001-,,Logainm:1.00,wdcluster_0029,Q106674202;Q106675670;Q106680579;Q70899524,2
+I-CAR-004,Tuca Mín | Tuckamine,Ireland,52.84355,-6.72916,17,TMINE/1,172719,CW003-023----,National Museum of Ireland,Logainm:1.00,wdcluster_0035,Q106674208;Q106675697;Q106680580;Q70892316,1
+I-CLA-003,Inis | Ennis bead,Ireland,52.840588,-8.978509,53,,,,British Museum,Logainm:1.00,wdcluster_0383,Q106680700;Q70892412,0
+I-CLA-004,Cill Dalua | Killaloe,Ireland,52.806278,-8.439168,54,KLLOE/1,,CL045-033010-,,Logainm:1.00,wdcluster_0310,Q106675580;Q106680701;Q70892414,0
+I-CLA-005,Inis Cathaigh | Scattery Island,Ireland,52.615481,-9.517808,,SCATT/2,,CL067-024016-,,Logainm:1.00,,,0
+I-COR-001,An Com Liath Thoir | Coomleagh East,Ireland,51.72827,-9.30337,55,COOME/1,172523,CO106-064----,,Logainm:1.00,wdcluster_0238,Q106675444;Q106680702;Q70892416,0
+I-COR-002,Ráth an Tóiteáin | Burnfort,Ireland,52.072146,-8.597752,56,BURNF/1,172484,CO042-052003-,,Logainm:1.00,wdcluster_0215,Q106675402;Q106680703;Q70892424,1
+I-COR-003,Plácas | Greenhill 1,Ireland,52.077602,-8.606835,57,GRENL/1,172586,CO042-049002-,,Logainm:1.00,wdcluster_0134,Q106674325;Q106675529;Q106680704;Q70892427,3
+I-COR-004,Plácas | Greenhill 2,Ireland,52.078072,-8.606918,58,GRENL/2,172799,CO042-049001-,,Logainm:1.00,wdcluster_0135,Q106674327;Q106675530;Q106680705;Q70892430,1
+I-COR-005,Baile na bPórtach | Ballynabortagh 1,Ireland,52.000015,-8.433359,59,BABOR/1,172464,CO052-039001-,,Logainm:1.00,wdcluster_0172,Q106675319;Q106680706;Q70892431,0
+I-COR-006,Baile na bPórtach | Ballynabortagh 2,Ireland,51.999763,-8.43333,60,BABOR/2,,CO052-053----,,Logainm:1.00,wdcluster_0173,Q106675320;Q106680707;Q70892434,0
+I-COR-007,Baile na bPórtach | Ballynabortagh 3,Ireland,51.999912,-8.433859,,,,CO052-061002-,,Logainm:1.00,,,1
+I-COR-008,Baile na bPórtach | Ballynabortagh 4,Ireland,51.999912,-8.433859,,,,CO052-061003-,,Logainm:1.00,,,0
+I-COR-009,Oileán an Easpaig | Bishop’s Island,Ireland,52.004,-8.358,61,BIISL/1,,CO053-072----,University College Cork,Logainm:1.00,wdcluster_0204,Q106675372;Q106680708;Q70885730,1
+I-COR-010,Dún Bolg | Dunbulloge,Ireland,51.980163,-8.457148,62,DNBUL/1,,CO063-026----,,Logainm:1.00,wdcluster_0256,Q106675473;Q106680709;Q70892436,1
+I-COR-011,Gleann an Mhuilinn | Glenawillin 1,Ireland,51.969371,-8.179727,63,GLEWI/1,,CO065-098----,University College Cork,Logainm:1.00,wdcluster_0278,Q106675517;Q106680710;Q70885723,2
+I-COR-012,Gleann an Mhuilinn | Glenawillin 2,Ireland,51.969371,-8.179727,64,GLEWI/2,,CO065-033----,,Logainm:1.00,wdcluster_0279,Q106675518;Q106680711;Q70892438,1
+I-COR-013,Ráth Ghobáin | Rathcobane,Ireland,52.0089,-8.2519,65,RACOB/1,,CO054-067----,,Logainm:1.00,wdcluster_0347,Q106675653;Q106680712;Q70892442,2
+I-COR-014,Fánchoill agus Na Coillte | Faunkill and the Woods,Ireland,51.712874,-9.944582,66,FKWOO/1,,CO102-013----,,Logainm:1.00,wdcluster_0136,Q106674328;Q106675506;Q106680713;Q70892444,2
+I-COR-015,Gamhair | Gour,Ireland,51.634283,-9.978493,67,GOUR/1,,CO127-006----,,Logainm:1.00,wdcluster_0285,Q106675526;Q106680714;Q70892450,1
+I-COR-016,Chill Cháscann | Kilcaskan,Ireland,51.708247,-9.71055,68,KLCAS/1,,SMR ID: CO103-003003-,,Logainm:1.00,wdcluster_0297,Q106675552;Q106680715;Q70892452,2
+I-COR-017,Achadh Loiscthe | Ahalisky 1,Ireland,51.681206,-8.84702,69,AHLIS/1,,CO122-049003-,National Museum of Ireland,Logainm:1.00,wdcluster_0137,Q106674329;Q106675303;Q106680716;Q70892453,1
+I-COR-018,Achadh Loiscthe | Ahalisky 2,Ireland,51.681206,-8.84702,70,AHLIS/2,,CO122-049004-,National Museum of Ireland,Logainm:1.00,wdcluster_0138,Q106674330;Q106675304;Q106680718;Q70892457,3
+I-COR-019,Achadh Loiscthe | Ahalisky 3,Ireland,51.681206,-8.84702,71,AHLIS/3,,CO122-049005-,National Museum of Ireland,Logainm:1.00,wdcluster_0139,Q106674331;Q106675305;Q106680719;Q70892459,3
+I-COR-020,Alltach | Aultagh,Ireland,51.77003,-9.09023,72,AUTAG/1,,CO094-073----,,Logainm:1.00,wdcluster_0170,Q106675316;Q106680720;Q70892460,0
+I-COR-021,Ceathrú Bhaldair | Carhoovauler 1,Ireland,51.690842,-8.962643,73,CARHA/1,,CO122-001003-,,Logainm:1.00,wdcluster_0218,Q106675406;Q106680722;Q70892463,1
+I-COR-022,Ceathrú Bhaldair | Carhoovauler 2,Ireland,51.690842,-8.962643,74,CARHA/2,,CO122-001004-,,Logainm:1.00,wdcluster_0219,Q106675407;Q106680723;Q70892466,1
+I-COR-023,Ceathrú Bhaldair | Carhoovauler 3,Ireland,51.690842,-8.962643,,CARHA/3,,CO122-001005-,,Logainm:1.00,wdcluster_0220,Q106675408;Q106681232,1
+I-COR-024,Caoinráth | Keenrath,Ireland,51.759532,-9.177449,75,KEENH/1,,CO093-063----,,Logainm:1.00,wdcluster_0294,Q106675543;Q106680724;Q70892468,2
+I-COR-025,Teampall Brianaid Thuaidh | Templebryan North,Ireland,51.644724,-8.885746,76,TEMAN/1,,CO122-075004-,,Logainm:1.00,wdcluster_0367,Q106675689;Q106680725;Q70892474,1
+I-COR-026,An Bhuirgéiseach | Burgatia,Ireland,51.578654,-9.008003,77,BURGA/1,,CO143-100----,,Logainm:1.00,wdcluster_0214,Q106675401;Q106680727;Q70892476,0
+I-COR-027,Cúil an Fhéich | Coolineagh 3,Ireland,51.952526,-8.815681,,,,,"Pitt-Rivers Museum, Oxford",Logainm:1.00,,,1
+I-COR-028,Gleann an Phúca | Glenaphuca 1,Ireland,51.96797,-8.07234,79,RTHCA/1,,CO066-009----,National Museum of Ireland,Logainm:1.00,wdcluster_0140,Q106674332;Q106675675;Q106680730;Q70892481,1
+I-COR-029,Gleann an Phúca | Glenaphuca 2,Ireland,51.967973,-8.072345,80,RTHCA/2,,CO066-053----,National Museum of Ireland,Logainm:1.00,wdcluster_0141,Q106674334;Q106675677;Q106680732;Q70892484,0
+I-COR-030,An Garrán | Garranes,Ireland,51.816848,-8.765479,81,GARES/1,,CO084-090003-,University College Cork,Logainm:1.00,wdcluster_0273,Q106675512;Q106680733;Q130529871;Q69385424,3
+I-COR-031,Baile an Chamhaicigh Thuaidh | Ballyknock North 1,Ireland,52.03462,-8.08237,82,BAKNK/1,,CO055-007002-,,Logainm:1.00,wdcluster_0174,Q106675329;Q106680736;Q70892485,1
+I-COR-032,Baile an Chamhaicigh Thuaidh | Ballyknock North 2,Ireland,52.03462,-8.08237,83,BAKNK/2,,CO055-007005-,University College Cork,Logainm:1.00,wdcluster_0181,Q106675336;Q106680737;Q70885704,3
+I-COR-033,Baile an Chamhaicigh Thuaidh | Ballyknock North 3,Ireland,52.03462,-8.08237,84,BAKNK/3,,CO055-007006-,,Logainm:1.00,wdcluster_0182,Q106675337;Q106680738;Q70892488,2
+I-COR-034,Baile an Chamhaicigh Thuaidh | Ballyknock North 4,Ireland,52.03462,-8.08237,85,BAKNK/4,,CO055-007007-,University College Cork,Logainm:1.00,wdcluster_0183,Q106675338;Q106680739;Q70885695,2
+I-COR-035,Baile an Chamhaicigh Thuaidh | Ballyknock North 5,Ireland,52.03462,-8.08237,86,BAKNK/5,173055,CO055-007008-,University College Cork,Logainm:1.00,wdcluster_0184,Q106675339;Q106680741;Q70885716,2
+I-COR-036,Baile an Chamhaicigh Thuaidh | Ballyknock North 6,Ireland,52.03462,-8.08237,87,BAKNK/6,173056,CO055-007009-,University College Cork,Logainm:1.00,wdcluster_0185,Q106675340;Q106680742;Q70885698,2
+I-COR-037,Baile an Chamhaicigh Thuaidh | Ballyknock North 7,Ireland,52.03462,-8.08237,88,BAKNK/7,173057,CO055-007010-,University College Cork,Logainm:1.00,wdcluster_0186,Q106675341;Q106680744;Q70885720,2
+I-COR-038,Baile an Chamhaicigh Thuaidh | Ballyknock North 8,Ireland,52.03462,-8.08237,89,BAKNK/8,,CO055-007011-,University College Cork,Logainm:1.00,wdcluster_0187,Q106675343;Q106680745;Q70885690,2
+I-COR-039,Baile an Chamhaicigh Thuaidh | Ballyknock North 9,Ireland,52.03462,-8.08237,90,BAKNK/9,,CO055-007012-,University College Cork,Logainm:1.00,wdcluster_0188,Q106675345;Q106680746;Q70885712,2
+I-COR-040,Baile an Chamhaicigh Thuaidh | Ballyknock North 10,Ireland,52.03462,-8.08237,91,BAKNK/10,,CO055-007013-,,Logainm:1.00,wdcluster_0175,Q106675330;Q106680747;Q70892490,1
+I-COR-041,Baile an Chamhaicigh Thuaidh | Ballyknock North 11,Ireland,52.03462,-8.08237,92,BAKNK/11,,CO055-007014-,University College Cork,Logainm:1.00,wdcluster_0176,Q106675331;Q106680748;Q70885713,1
+I-COR-042,Baile an Chamhaicigh Thuaidh | Ballyknock North 12,Ireland,52.03462,-8.08237,93,BAKNK/12,,CO055-007015-,University College Cork,Logainm:1.00,wdcluster_0177,Q106675332;Q106680749;Q70885692,1
+I-COR-043,Baile an Chamhaicigh Thuaidh | Ballyknock North 13,Ireland,52.03462,-8.08237,94,BAKNK/13,,CO055-007016-,University College Cork,Logainm:1.00,wdcluster_0178,Q106675333;Q106680750;Q70885706,2
+I-COR-044,Baile an Chamhaicigh Thuaidh | Ballyknock North 14,Ireland,52.03462,-8.08237,95,BAKNK/14,,CO055-007017-,University College Cork,Logainm:1.00,wdcluster_0179,Q106675334;Q106680751;Q70885703,1
+I-COR-045,Baile an Chamhaicigh Thuaidh | Ballyknock North 15,Ireland,52.03462,-8.08237,96,BAKNK/15,,CO055-007018-,University College Cork,Logainm:1.00,wdcluster_0180,Q106675335;Q106680752;Q70885697,1
+I-COR-046,Baile Sheanc | Ballyhank 1,Ireland,51.831516,-8.609832,97,BAHAN/1,,CO085-067003-,National Museum of Ireland,Logainm:1.00,wdcluster_0142,Q106674335;Q106675321;Q106680753;Q70892493,2
+I-COR-047,Baile Sheanc | Ballyhank 2,Ireland,51.831516,-8.609832,98,BAHAN/2,172921,CO085-067004-,National Museum of Ireland,Logainm:1.00,wdcluster_0143,Q106674336;Q106675322;Q106680754;Q70892498,3
+I-COR-048,Baile Sheanc | Ballyhank 3,Ireland,51.831516,-8.609832,99,BAHAN/3,,CO085-067005-,National Museum of Ireland,Logainm:1.00,wdcluster_0144,Q106674337;Q106675323;Q106680755;Q70892501,1
+I-COR-049,Baile Sheanc | Ballyhank 4,Ireland,51.831516,-8.609832,100,BAHAN/4,,CO085-067006-,National Museum of Ireland,Logainm:1.00,wdcluster_0001,Q106674171;Q106675324;Q106680756;Q70892504,0
+I-COR-050,Baile Sheanc | Ballyhank 5,Ireland,51.831516,-8.609832,101,BAHAN/5,,CO085-067007-,National Museum of Ireland,Logainm:1.00,wdcluster_0002,Q106674173;Q106675326;Q106680757;Q70892506,2
+I-COR-051,Baile Sheanc | Ballyhank 6,Ireland,51.831516,-8.609832,102,BAHAN/6,,CO085-067008-,National Museum of Ireland,Logainm:1.00,wdcluster_0003,Q106674174;Q106675328;Q106680758;Q70892509,1
+I-COR-052,Barr an Chárthainn | Barrahaurin,Ireland,51.999993,-8.813893,103,BARHA/1,,CO050-045003-,University College Cork,Logainm:1.00,wdcluster_0195,Q106675359;Q106680759;Q126493444;Q69377850,3
+I-COR-053,Cúil an Fhéich | Coolineagh 1,Ireland,51.952236,-8.815354,104,COOGH/1,,CO061-080005-,,Logainm:1.00,wdcluster_0232,Q106675430;Q106680760;Q70892510,2
+I-COR-054,Cúil an Fhéich | Coolineagh 2,Ireland,51.95252,-8.81568,105,COOGH/2,,CO061-080007-,University College Cork,Logainm:1.00,wdcluster_0233,Q106675431;Q106680761;Q70885728,2
+I-COR-055,Duílis | Deelish,Ireland,51.9387,-8.88666,106,DEELI/1,,CO060-172----,British Museum,Logainm:1.00,wdcluster_0252,Q106675463;Q106680762;Q70892513,4
+I-COR-056,Gleann na gCloch Thuaidh | Glenaglogh,Ireland,51.9907,-8.8671,107,GLLOG/1,,CO060-190----,University College Cork,Logainm:1.00,wdcluster_0281,Q106675522;Q106680763;Q70885727,1
+I-COR-057,Cill Chuilinn Theas | Kilcullen South,Ireland,51.981435,-8.797595,108,KILTH/1,,CO061-187----,,Logainm:1.00,wdcluster_0296,Q106675547;Q106680765;Q70892516,2
+I-COR-058,Cill Martan Íochtarach | Kilmartin Lower,Ireland,51.99226,-8.79807,109,KLWER/1,,CO050-062003-,,Logainm:1.00,wdcluster_0318,Q106675590;Q106680766;Q70892518,2
+I-COR-059,An Cnoc Ramhar | Knockrour 1,Ireland,51.96999,-8.84582,110,KNOUR/1,,CO060-187----,,Logainm:1.00,wdcluster_0320,Q106675605;Q106680767;Q70892523,0
+I-COR-060,An Cnoc Ramhar | Knockrour 2,Ireland,51.969997,-8.845821,111,KNOUR/2,,CO060-185----,,Logainm:1.00,wdcluster_0321,Q106675606;Q106680768;Q70892526,0
+I-COR-061,An Cnoc Ramhar | Knockrour 3,Ireland,51.96999,-8.84582,,,,CO060-188----,"Pitt-Rivers Museum, Oxford",Logainm:1.00,,,0
+I-COR-062,Cnoc Seanmhaí | Knockshanawee 1,Ireland,51.872673,-8.796211,112,KNWEE/1,,CO072-078003-,University College Cork,Logainm:1.00,wdcluster_0322,Q106675607;Q106680769;Q70885739,2
+I-COR-063,Cnoc Seanmhaí | Knockshanawee 2,Ireland,51.872673,-8.796211,113,KNWEE/2,,CO072-078004-,University College Cork,Logainm:1.00,wdcluster_0323,Q106675608;Q106680770;Q70382440,2
+I-COR-064,Cnoc Seanmhaí | Knockshanawee 3,Ireland,51.872673,-8.796211,114,KNWEE/3,,CO072-078005-,University College Cork,Logainm:1.00,wdcluster_0324,Q106675610;Q106680771;Q70885736,2
+I-COR-065,Cnoc Seanmhaí | Knockshanawee 4,Ireland,51.872673,-8.796211,115,KNWEE/4,,CO072-078006-,University College Cork,Logainm:1.00,wdcluster_0325,Q106675611;Q106680773;Q69383434,2
+I-COR-066,Cnoc Seanmhaí | Knockshanawee 5,Ireland,51.872673,-8.796211,116,KNWEE/5,,CO072-078007-,University College Cork,Logainm:1.00,wdcluster_0326,Q106675612;Q106680775;Q70382438,1
+I-COR-067,Cnoc Seanmhaí | Knockshanawee 6,Ireland,51.872673,-8.796211,117,KNWEE/6,,CO072-078008-,University College Cork,Logainm:1.00,wdcluster_0327,Q106675613;Q106680776;Q69385241,1
+I-COR-068,Caisleán Chúirt an Bharraigh | Barryscourt Castle,Ireland,51.90476,-8.25959,,,,SMR ID: CO075-018001-,,Logainm:1.00,,,0
+I-COR-069,Móin an tSagairt | Monataggart 1,Ireland,51.976513,-8.787796,118,MONAT/1,,SMR ID: CO061-022002-,National Museum of Ireland,Logainm:1.00,wdcluster_0007,Q106674179;Q106675630;Q106680777;Q70892527,3
+I-COR-070,Móin an tSagairt | Monataggart 2,Ireland,51.976513,-8.787796,119,MONAT/2,,SMR ID: CO061-022003-,National Museum of Ireland,Logainm:1.00,wdcluster_0008,Q106674180;Q106675632;Q106680779;Q70892531,2
+I-COR-071,Móin an tSagairt | Monataggart 3,Ireland,51.976513,-8.787796,120,MONAT/3,,SMR ID: CO061-022004-,National Museum of Ireland,Logainm:1.00,wdcluster_0010,Q106674182;Q106675633;Q106680780;Q70892533,2
+I-COR-072,Móin an tSagairt | Monataggart 4,Ireland,51.976513,-8.787796,121,MONAT/4,,SMR ID: CO061-022005-,,Logainm:1.00,wdcluster_0338,Q106675634;Q106680781;Q70892534,2
+I-COR-073,Cnoc idir Dhá Abhainn | Mountrivers 1,Ireland,51.957629,-8.81211,122,MNTRI/1,,SMR ID: CO061-079003-,,Logainm:1.00,wdcluster_0335,Q106675627;Q106680782;Q70892536,2
+I-COR-074,Cnoc idir Dhá Abhainn | Mountrivers 2,Ireland,51.957629,-8.81211,123,MNTRI/2,,SMR ID: CO061-079004-,British Museum,Logainm:1.00,wdcluster_0336,Q106675628;Q106680784;Q70892539,2
+I-COR-076,An Rú Mór | Rooves More 1,Ireland,51.88324,-8.788478,124,ROVMO/1,,SMR ID: CO072-070003-,British Museum,Logainm:1.00,wdcluster_0356,Q106675671;Q106680785;Q70892540,4
+I-COR-077,An Rú Mór | Rooves More 2,Ireland,51.88324,-8.788478,125,ROVMO/2,,SMR ID: CO072-070004-,British Museum,Logainm:1.00,wdcluster_0357,Q106675672;Q106680787;Q70892545,2
+I-COR-078,An Rú Mór | Rooves More 3,Ireland,51.88324,-8.788478,126,ROVMO/3,,CO072-070002-,British Museum,Logainm:1.00,wdcluster_0358,Q106675674;Q106680788;Q70892549,4
+I-COR-079,An Tulaigh Mhór | Tullig More,Ireland,51.947,-8.758,127,TLGMO/1,,CO061-182----,University College Cork,Logainm:1.00,wdcluster_0370,Q106675695;Q106680789;Q70885722,1
+I-COR-080,Carraig an Ghiolla | Carrigagulla,Ireland,52.015,-8.909,128,CRGUL/1,,CO049-052----,University College Cork,Logainm:1.00,wdcluster_0246,Q106675456;Q106680790;Q70885734,3
+I-COR-081,An Chúil Dorcha | Cooldorragha,Ireland,51.83908,-9.02702,129,COOLH/1,,SMR ID: CO082-045002-,,Logainm:1.00,wdcluster_0236,Q106675435;Q106680791;Q70892550,2
+I-COR-082,Crionna Lua | Crinnaloo,Ireland,52.06919,-8.935787,130,CRNLO/1,,SMR ID: CO040-053002-,,Logainm:1.00,wdcluster_0247,Q106675457;Q106680792;Q70892553,1
+I-COR-083,An tSeanchluain | Shanacloon 1,Ireland,51.93525,-9.15294,131,GLEBE/1,,SMR ID: CO058-039001-,,Logainm:1.00,wdcluster_0275,Q106675514;Q106680794;Q70892555,2
+I-COR-084,An tSeanchluain | Shanacloon 2,Ireland,51.93525,-9.15294,132,GLEBE/2,,SMR ID: CO058-039006-,,Logainm:1.00,wdcluster_0276,Q106675515;Q106680795;Q70892556,1
+I-COR-085,An tSeanchluain | Shanacloon 3,Ireland,51.93525,-9.15294,133,GLEBE/3,,SMR ID: CO058-039005-,,Logainm:1.00,wdcluster_0277,Q106675516;Q106680796;Q70892558,1
+I-COR-086,Caolmhagh Mór | Kealvaugh More,Ireland,51.83004,-9.2355,134,KLVMO/1,,SMR ID: CO081-018----,,Logainm:1.00,wdcluster_0317,Q106675589;Q106680798;Q70892561,1
+I-COR-087,Cnoc Amhráin | Mountmusic,Ireland,51.926111,-9.083889,135,MUSIC/1,,CO082-095----,University College Cork,Logainm:1.00;Wikidata (place):1.00,wdcluster_0339,Q106675637;Q106680799;Q70892563,2
+I-COR-088,Bun an Chnoic | Underhill 1,Ireland,51.715236,-9.111685,,,,SMR ID: CO107-060----,National Museum of Ireland,Logainm:1.00,,,0
+I-COR-089,Bun an Chnoic | Underhill 2,Ireland,51.715236,-9.111685,,,,SMR ID: CO107-059----,National Museum of Ireland,Logainm:1.00,,,1
+I-COR-090,Bun an Chnoic | Underhill 3,Ireland,51.715236,-9.111685,,,,SMR ID: CO107-058----,National Museum of Ireland,Logainm:1.00,,,2
+I-COR-091,Lios Catháin | Liscahane 1,Ireland,52.052268,-9.045799,,LHANE/1,,SMR ID: CO039-062004-,Millstreet Museum,Logainm:1.00,wdcluster_0331,Q106675620;Q106681253,2
+I-COR-092,Lios Catháin | Liscahane 2,Ireland,52.052268,-9.045799,,LHANE/2,,SMR ID: CO039-062005-,Millstreet Museum,Logainm:1.00,wdcluster_0332,Q106675621;Q106681254,2
+I-COR-093,Bun Coille | Bunkilla,Ireland,51.978115,-8.699242,,,,SMR ID: CO061-074----,National Museum of Ireland,Logainm:1.00,,,2
+I-COR-094,An Leaca Bhán | Lackabane,Ireland,51.995929,-8.741727,,,,SMR ID: CO050-100003-,,Logainm:1.00,,,0
+I-COR-095,Na Barraí | Barrees,Ireland,51.7112,-9.9272,,,,SMR ID: CO102-037----,,Logainm:1.00,,,2
+I-COR-096,Gort na hEorna | Kilbrittain/Barleyfield,Ireland,51.681223,-8.709778,,,,SMR ID: CO123-081----,,Logainm:1.00,,,0
+I-COR-097,Crosdoire | Crushterra,Ireland,51.79361,-9.132629,,,,SMR ID: CO093-049----,,Logainm:1.00,,,0
+I-COR-L11,Cúil Eoghain | Coolowen,Ireland,51.955391,-8.53428,78,COOLN/1,,CO063-101----,,Logainm:1.00,wdcluster_0237,Q106675443;Q106680728;Q70892478,0
+I-COR-L13,Cnoc Uí Ruairc | Knockyrourke,Ireland,51.99341,-8.762792,,,,SMR ID: CO050-155----,,Logainm:1.00,,,0
+I-DON-001,An Machaire Riabhach | Magherareagh,Ireland,54.800162,-7.56019,,,,DG079-020----,,Logainm:1.00,,,0
+I-FER-001,Mullach an Chnoic | Topped Mountain,Ireland,54.3594,-7.5217,315,TMOUN/1,,,"Ulster Museum, Belfast",,wdcluster_0371,Q106675698;Q106681194;Q70893056,1
+I-FER-L01,Drumnarullagh,Ireland,54.524002,-7.7184727,,,,,,,,,0
+I-FER-X01,Ballydoolagh,Ireland,54.38069,-7.56255,,,,,National Museum of Ireland,Logainm:1.00,,,0
+I-KER-001,Ard Fhearta | Ardfert 1,Ireland,52.32876,-9.78406,136,ARDFE/1,www.trismegistos.org/text/172439,KE020-046029-,,Logainm:1.00,wdcluster_0012,Q106674184;Q106675313;Q106680800;Q70892567,0
+I-KER-002,Ard Fhearta | Ardfert 2,Ireland,52.328817,-9.782728,,,,KE020-046030-,,Logainm:1.00,,,0
+I-KER-003,An Deirc | Derk,Ireland,52.3715,-9.38419,,,,KE017-022----,National Museum of Ireland,Logainm:1.00,,,2
+I-KER-004,Clochán Ruairc | Fortwilliam,Ireland,52.365209,-9.726907,137,FORTW/1,www.trismegistos.org/text/172566,KE021-138----,Trinity College Dublin,Logainm:1.00,wdcluster_0269,Q106675508;Q106680801;Q70892569,2
+I-KER-005,Áth an Charbaill | Aghacarrible 1,Ireland,52.131899,-10.173865,138,AGHIB/1,www.trismegistos.org/text/172431,KE054-006004-,,Logainm:1.00,wdcluster_0164,Q106675297;Q106680802;Q70892572,3
+I-KER-006,Áth an Charbaill | Aghacarrible 2,Ireland,52.131899,-10.173865,139,AGHIB/2,www.trismegistos.org/text/172834,KE054-006002-,,Logainm:1.00,wdcluster_0165,Q106675298;Q106680803;Q70892574,2
+I-KER-007,Áth an Charbaill | Aghacarrible 3,Ireland,52.131899,-10.173865,140,AGHIB/3,www.trismegistos.org/text/172861,KE054-006005-,,Logainm:1.00,wdcluster_0166,Q106675299;Q106680804;Q70892577,1
+I-KER-008,An Eaglais | Aglish 1,Ireland,52.13606,-10.13772,141,AGLIS/1,www.trismegistos.org/text/172434,KE054-032003-,National Museum of Ireland,Logainm:1.00,wdcluster_0013,Q106674185;Q106675300;Q106680806;Q70892578,0
+I-KER-009,An Eaglais | Aglish 2,Ireland,52.13607,-10.13764,142,AGLIS/2,www.trismegistos.org/text/172779,KE054-032004-,,Logainm:1.00,wdcluster_0014,Q106674186;Q106675302;Q106680808;Q70892582,0
+I-KER-010,Áth na gCeap | Annagap,Ireland,52.1601,-10.05993,143,ANGAP/1,www.trismegistos.org/text/172436,KE044-065003-,Cork Public Museum,Logainm:1.00,wdcluster_0167,Q106675309;Q106680810;Q70892584,0
+I-KER-011,Ard Draighneáin | Ardrinane,Ireland,52.1468,-10.0516,144,ARDNE/1,www.trismegistos.org/text/173394,KE044-126----,,Logainm:1.00,wdcluster_0169,Q106675314;Q106680811;Q70892586,0
+I-KER-012,Airghleann | Arraglen,Ireland,52.257799,-10.248991,145,ARRAG/1,www.trismegistos.org/text/172441,KE025-002001-,,Logainm:1.00,wdcluster_0015,Q106674188;Q106675315;Q106680812;Q70892592,2
+I-KER-013,An Riasc | Reask (Ballineanig),Ireland,52.1639,-10.3909,146,BLNIG/1,www.trismegistos.org/text/860655,KE042-151----,National Museum of Ireland,Logainm:1.00,wdcluster_0016,Q106674189;Q106675375;Q106680813;Q70892594,2
+I-KER-014,Baile an Ístínigh | Ballineesteenig,Ireland,52.140119,-10.20474,147,BALEE/1,www.trismegistos.org/text/172445,KE043-248----,,Logainm:1.00,wdcluster_0017,Q106674190;Q106675349;Q106680814;Q70892598,0
+I-KER-015,Baile an Reannaigh | Ballinrannig 1,Ireland,52.1788,-10.3879,148,BALIG/1,www.trismegistos.org/text/172447,KE042-057007-,,Logainm:1.00,wdcluster_0192,Q106675351;Q106680815;Q70892599,0
+I-KER-016,Baile an Reannaigh | Ballinrannig 2,Ireland,52.1788,-10.3879,149,BALIG/2,www.trismegistos.org/text/172963,KE042-057006-,,Logainm:1.00,wdcluster_0193,Q106675352;Q106680816;Q70892602,0
+I-KER-017,Baile an Reannaigh | Ballinrannig 3,Ireland,52.1788,-10.3879,150,BALIG/3,www.trismegistos.org/text/172968,KE042-057008-,,Logainm:1.00,wdcluster_0019,Q106674192;Q106675353;Q106680817;Q70892604,0
+I-KER-018,Baile an Reannaigh | Ballinrannig 4,Ireland,52.1788,-10.3879,151,BALIG/4,www.trismegistos.org/text/172973,KE042-057009-,,Logainm:1.00,wdcluster_0020,Q106674193;Q106675354;Q106680818;Q70892606,0
+I-KER-019,Baile an Reannaigh | Ballinrannig 5,Ireland,52.1788,-10.3879,152,BALIG/5,www.trismegistos.org/text/172978,KE042-057010-,,Logainm:1.00,wdcluster_0021,Q106674194;Q106675355;Q106680819;Q70892609,0
+I-KER-020,Baile an Reannaigh | Ballinrannig 6,Ireland,52.1788,-10.3879,153,BALIG/6,www.trismegistos.org/text/172983,KE042-057011-,,Logainm:1.00,wdcluster_0022,Q106674195;Q106675356;Q106680820;Q70892611,0
+I-KER-021,Baile an Reannaigh | Ballinrannig 7,Ireland,52.1788,-10.3879,154,BALIG/7,www.trismegistos.org/text/172988,KE042-057003-,,Logainm:1.00,wdcluster_0023,Q106674196;Q106675357;Q106680821;Q85409935,0
+I-KER-022,Baile an tSagairt | Ballintaggart 1,Ireland,52.12778,-10.24318,155,BLTAG/1,www.trismegistos.org/text/172448,KE053-033005-,,Logainm:1.00,wdcluster_0024,Q106674197;Q106675376;Q106680822;Q70892616,0
+I-KER-023,Baile an tSagairt | Ballintaggart 2,Ireland,52.12778,-10.24318,156,BLTAG/2,www.trismegistos.org/text/172998,KE053-033006-,,Logainm:1.00,wdcluster_0025,Q106674198;Q106675377;Q106680823;Q70892620,0
+I-KER-024,Baile an tSagairt | Ballintaggart 3,Ireland,52.12778,-10.24318,157,BLTAG/3,www.trismegistos.org/text/172999,KE053-033007-,,Logainm:1.00,wdcluster_0026,Q106674199;Q106675378;Q106680824;Q70892623,0
+I-KER-025,Baile an tSagairt | Ballintaggart 4,Ireland,52.12778,-10.24318,158,BLTAG/4,www.trismegistos.org/text/173000,KE053-033008-,,Logainm:1.00,wdcluster_0027,Q106674200;Q106675379;Q106680825;Q70892626,0
+I-KER-026,Baile an tSagairt | Ballintaggart 5,Ireland,52.12778,-10.24318,159,BLTAG/5,www.trismegistos.org/text/173001,KE053-033009-,,Logainm:1.00,wdcluster_0028,Q106674201;Q106675380;Q106680826;Q70892629,0
+I-KER-027,Baile an tSagairt | Ballintaggart 6,Ireland,52.12778,-10.24318,160,BLTAG/6,www.trismegistos.org/text/173002,KE053-033010-,,Logainm:1.00,wdcluster_0030,Q106674203;Q106675382;Q106680828;Q70892630,0
+I-KER-028,Baile an tSagairt | Ballintaggart 7,Ireland,52.12778,-10.24318,161,BLTAG/7,www.trismegistos.org/text/173003,KE053-033011-,,Logainm:1.00,wdcluster_0031,Q106674204;Q106675383;Q106680829;Q70892632,0
+I-KER-029,Baile an tSagairt | Ballintaggart 8,Ireland,52.12778,-10.24318,162,BLTAG/8,www.trismegistos.org/text/173004,KE053-033012-,,Logainm:1.00,wdcluster_0032,Q106674205;Q106675384;Q106680831;Q70892635,0
+I-KER-030,Baile an tSagairt | Ballintaggart 9,Ireland,52.12778,-10.24318,163,BLTAG/9,www.trismegistos.org/text/173005,KE053-033013-,,Logainm:1.00,wdcluster_0033,Q106674206;Q106675385;Q106680832;Q70892636,3
+I-KER-031,Baile an tSagairt | Ballintaggart 10,Ireland,52.127784,-10.243184,,,,KE053-033014-,,Logainm:1.00,,,0
+I-KER-032,Baile an Tearmainn | Ballintermon 1,Ireland,52.154518,-10.029438,164,BLTER/1,www.trismegistos.org/text/172450,KE045-062----,,Logainm:1.00,wdcluster_0205,Q106675386;Q106680834;Q70892643,0
+I-KER-033,Baile an Tearmainn | Ballintermon 2,Ireland,52.161414,-10.039355,165,BLTE2/1,www.trismegistos.org/text/172449,KE045-052----,Cork Public Museum,Logainm:1.00,wdcluster_0206,Q106675388;Q106680835;Q70892646,0
+I-KER-034,Baile an Bhóthair | Ballinvoher,Ireland,52.168473,-10.028213,166,BLHER/1,www.trismegistos.org/text/172452,KE045-105----,National Museum of Ireland,,wdcluster_0034,Q106674207;Q106675373;Q106680836;Q70892648,0
+I-KER-035,Baile Aindrín | Ballyandreen 1,Ireland,52.1672,-10.0357,167,BDREN/1,www.trismegistos.org/text/172454,KE045-107----,,,wdcluster_0200,Q106675366;Q106680837;Q70892652,0
+I-KER-036,Baile Aindrín | Ballyandreen 2,Ireland,52.165199,-10.03821,168,BDRE2/1,www.trismegistos.org/text/172455,KE045-049----,,,wdcluster_0201,Q106675367;Q106680838;Q70892653,0
+I-KER-037,An Baile Íochtarach | Ballyeightragh,Ireland,52.161721,-10.320792,169,BRAGH/2,www.trismegistos.org/text/172782,KE043-250----,,,wdcluster_0211,Q106675394;Q106680839;Q70892655,0
+I-KER-038,An Baile Riabhach | Ballymorereagh,Ireland,52.154449,-10.331399,170,BLYGH/1,www.trismegistos.org/text/172463,KE043-140008-,,Logainm:1.00,wdcluster_0036,Q106674209;Q106675391;Q106680841;Q70892659,0
+I-KER-039,Baile na Hunta | Ballynahunt,Ireland,52.1829,-10.0025,171,BLHUN/1,www.trismegistos.org/text/172465,KE045-008002-,,,wdcluster_0037,Q106674210;Q106675374;Q106680842;Q70892660,0
+I-KER-040,Baile Uí Bhaoithín | Ballywiheen,Ireland,52.156204,-10.407534,172,BWEEN/1,www.trismegistos.org/text/172470,KE042-093003-,,Logainm:1.00,wdcluster_0038,Q106674211;Q106675403;Q106680843;Q70892662,0
+I-KER-041,An Bhreac-chluain | Brackloon,Ireland,52.149426,-10.045703,173,BRCKN/1,www.trismegistos.org/text/172478,KE045-081002-,Músaem Chorca Dhuibhne,,wdcluster_0039,Q106674212;Q106675395;Q106680844;Q70892669,0
+I-KER-042,Brandon Mountain,Ireland,,,174,,www.trismegistos.org/text/173396,KE026-025----,,,wdcluster_0213,Q106675400;Q106680845;Q70892670,0
+I-KER-043,Baile an Ghóilín | Burnham,Ireland,,,175,BRHAM/1,www.trismegistos.org/text/172485,KE053-012001-,,Logainm:1.00,wdcluster_0040,Q106674213;Q106675398;Q106680846;Q70892674,0
+I-KER-044,An Com | Camp 1,Ireland,52.214573,-9.90546,176,CAMP/1,www.trismegistos.org/text/172489,KE036-046----,,,wdcluster_0216,Q106675404;Q106680847;Q70892676,0
+I-KER-045,An Com | Camp 2,Ireland,52.215635,-9.909784,177,CAMP/2,www.trismegistos.org/text/172786,KE036-083----,,,wdcluster_0217,Q106675405;Q106680848;Q70892679,0
+I-KER-046,Com Dhíneol Thuaidh | Coumeenoole North,Ireland,52.110277,-10.473175,178,COUME/1,www.trismegistos.org/text/172528,KE052-059002-,,Logainm:1.00,wdcluster_0041,Q106674214;Q106675447;Q106680850;Q126503090;Q70892682,0
+I-KER-047,Daingean Uí Chúis | Dingle,Ireland,52.141376,-10.264474,179,,www.trismegistos.org/text/172540,KE043-224027-,,,wdcluster_0254,Q106675469;Q106680852;Q70892683,0
+I-KER-048,Imleach Dhún Séann | Emlagh East,Ireland,52.131598,-10.21622,180,,www.trismegistos.org/text/172559,KE053-040----,,Logainm:1.00,wdcluster_0042,Q106674215;Q106675502;Q106680853;Q70892686,2
+I-KER-049,Imleach an Daingin | Emlagh West,Ireland,52.136316,-10.269093,181,,www.trismegistos.org/text/172560,KE053-016002-,Músaem Chorca Dhuibhne,Logainm:1.00,wdcluster_0043,Q106674217;Q106675503;Q106680854;Q70892689,0
+I-KER-050,An Gleann Mór | Glanmore,Ireland,52.182005,-9.956816,182,GLNMO/1,www.trismegistos.org/text/172575,KE045-044----,,,wdcluster_0282,Q106675523;Q106680855;Q70892693,0
+I-KER-051,Gleann Fán | Glanfahan,Ireland,52.100774,-10.434394,183,GLHAN/1,www.trismegistos.org/text/172486,KE052-188003-,National Museum of Ireland,,wdcluster_0280,Q106675519;Q106680856;Q70892695,0
+I-KER-052,Gort na gCuileannach | Gortnagullanagh,Ireland,52.142167,-10.123942,184,GORGH/1,www.trismegistos.org/text/172580,KE044-094002-,National Museum of Ireland,,wdcluster_0284,Q106675525;Q106680857;Q70892699,0
+I-KER-053,Inis Mhic Aoibhleáin | Inishvickillane,Ireland,52.044062,-10.606102,185,INVIC/1,www.trismegistos.org/text/172599,KE061-006008-,Trinity College Dublin,Logainm:1.00,wdcluster_0044,Q106674218;Q106675540;Q106680858;Q70892701,0
+I-KER-054,Cill Fhiontain | Kilfountan,Ireland,52.157745,-10.306548,186,KFNTN/1,www.trismegistos.org/text/172616,KE043-144005-,,Logainm:1.00,wdcluster_0045,Q106674219;Q106675544;Q106680859;Q70892704,0
+I-KER-055,Cill Maoilchéadair | Kilmalkedar,Ireland,52.18476,-10.336555,187,KMKDR/3,www.trismegistos.org/text/172874,KE042-026001-,,Logainm:1.00,wdcluster_0046,Q106674220;Q106675591;Q106680860;Q70892706,2
+I-KER-056,Cinn Aird | Kinard East 1,Ireland,52.12619,-10.19658,188,KINET/1,www.trismegistos.org/text/172636,KE053-053005-,,,wdcluster_0047,Q106674221;Q106675548;Q106680862;Q70892708,0
+I-KER-057,Cinn Aird | Kinard East 2,Ireland,52.12626,-10.19661,189,KINET/2,www.trismegistos.org/text/172803,KE053-053002-,,,wdcluster_0048,Q106674222;Q106675549;Q106680863;Q70892711,0
+I-KER-058,Log na gCapall | Lugnagappul 1,Ireland,52.13585,-10.13075,190,LUGUL/1,www.trismegistos.org/text/172651,KE054-033002-,,,wdcluster_0050,Q106674224;Q106675623;Q106680864;Q70892714,0
+I-KER-059,Log na gCapall | Lugnagappul 2,Ireland,52.13585,-10.13075,191,LUGUL/2,www.trismegistos.org/text/172808,KE054-033004-,,,wdcluster_0051,Q106674225;Q106675624;Q106680865;Q70892719,0
+I-KER-060,Martromán | Martramane,Ireland,52.257493,-10.019614,192,MRAME/1,www.trismegistos.org/text/172656,KE036-084----,National Museum of Ireland,,wdcluster_0052,Q106674226;Q106675636;Q106680868;Q70892722,0
+I-KER-061,Mám an Óraigh | Maumanorig,Ireland,52.14371,-10.35836,193,MAUIG/1,www.trismegistos.org/text/172609,KE042-141006-,,,wdcluster_0053,Q106674227;Q106675626;Q106680871;Q70892725,0
+I-KER-062,An Ráth Dubh | Rathduff 1,Ireland,52.16851,-10.02801,194,RTHDF/1,www.trismegistos.org/text/172682,KE045-025003-,,,wdcluster_0359,Q106675678;Q106680875;Q70892726,0
+I-KER-063,An Ráth Dubh | Rathduff 2,Ireland,52.16843,-10.02826,,RTHDF/2,www.trismegistos.org/text/172815,KE045-025004-,,,wdcluster_0360,Q106675679;Q106681197;Q85409967,0
+I-KER-064,Ráth Málóid | Rathmalode 1,Ireland,52.171589,-9.992082,195,RTHOD/1,www.trismegistos.org/text/172686,KE045-035003-,National Museum of Ireland,,wdcluster_0054,Q106674229;Q106675683;Q106680877;Q70892731,0
+I-KER-065,Ráth Málóid | Rathmalode 2,Ireland,52.171589,-9.992082,196,RTHOD/2,www.trismegistos.org/text/172816,KE045-035004-,Músaem Chorca Dhuibhne,,wdcluster_0055,Q106674230;Q106675684;Q106680879;Q70892732,0
+I-KER-066,Cúil Má Gort | Coolmagort 1,Ireland,52.0605,-9.633728,197,COOLM/1,www.trismegistos.org/text/172521,KE065-078003-,,,wdcluster_0056,Q106674231;Q106675436;Q106680881;Q70892734,3
+I-KER-067,Cúil Má Gort | Coolmagort 2,Ireland,52.0605,-9.633728,198,COOLM/2,www.trismegistos.org/text/172957,KE065-078004-,,,wdcluster_0057,Q106674232;Q106675437;Q106680892;Q70892738,0
+I-KER-068,Cúil Má Gort | Coolmagort 3,Ireland,52.0605,-9.633728,199,COOLM/3,www.trismegistos.org/text/172958,KE065-078001-,,,wdcluster_0058,Q106674233;Q106675438;Q106680901;Q70892739,0
+I-KER-069,Cúil Má Gort | Coolmagort 4,Ireland,52.0605,-9.633728,200,COOLM/4,www.trismegistos.org/text/172959,KE065-078005-,,,wdcluster_0060,Q106674235;Q106675439;Q106680908;Q70892745,0
+I-KER-070,Cúil Má Gort | Coolmagort 5,Ireland,52.0605,-9.633728,201,COOLM/5,www.trismegistos.org/text/172960,KE065-078006-,,,wdcluster_0061,Q106674236;Q106675440;Q106680921;Q70892748,0
+I-KER-071,Cúil Má Gort | Coolmagort 6,Ireland,52.0605,-9.633728,202,COOLM/6,www.trismegistos.org/text/172961,KE065-078007-,,,wdcluster_0062,Q106674237;Q106675441;Q106680927;Q70892750,0
+I-KER-072,Cúil Má Gort | Coolmagort 7,Ireland,52.0605,-9.633728,203,COOLM/7,www.trismegistos.org/text/172962,KE065-078008-,,,wdcluster_0063,Q106674238;Q106675442;Q106680928;Q67978531,0
+I-KER-073,An Currach Mór Thoir | Curraghmore East,Ireland,52.211384,-9.622576,204,CURMO/1,www.trismegistos.org/text/173397,KE038-059----,,,wdcluster_0251,Q106675462;Q106680929;Q70892754,0
+I-KER-074,"""Derrygarriv"" Doire Coinche | Derryquin 1",Ireland,51.8183,-9.8723,205,DERIV/1,www.trismegistos.org/text/172537,KE073-017----,National Museum of Ireland,,wdcluster_0064,Q106674239;Q106675468;Q106680930;Q70892756,0
+I-KER-075,Cill Chuallachta Thoir | Kilcoolaght East 1,Ireland,52.07402,-9.7458,206,KLCOO/1,www.trismegistos.org/text/172611,KE065-003002-,,,wdcluster_0065,Q106674240;Q106675554;Q106680931;Q70892757,0
+I-KER-076,Cill Chuallachta Thoir | Kilcoolaght East 2,Ireland,52.07402,-9.7458,207,KLCOO/2,www.trismegistos.org/text/172966,KE065-003005-,,,wdcluster_0066,Q106674242;Q106675555;Q106680933;Q70892761,0
+I-KER-077,Cill Chuallachta Thoir | Kilcoolaght East 3,Ireland,52.07402,-9.7458,208,KLCOO/3,www.trismegistos.org/text/172971,KE065-003006-,,,wdcluster_0067,Q106674243;Q106675556;Q106680934;Q70892763,0
+I-KER-078,Cill Chuallachta Thoir | Kilcoolaght East 4,Ireland,52.07402,-9.7458,209,KLCOO/4,www.trismegistos.org/text/172976,KE065-003007-,,,wdcluster_0068,Q106674244;Q106675557;Q106680936;Q70892767,0
+I-KER-079,Cill Chuallachta Thoir | Kilcoolaght East 5,Ireland,52.07402,-9.7458,210,KLCOO/5,www.trismegistos.org/text/172981,KE065-003009-,,,wdcluster_0069,Q106674246;Q106675558;Q106680937;Q70892772,0
+I-KER-080,Cill Chuallachta Thoir | Kilcoolaght East 6,Ireland,52.07402,-9.7458,211,KLCOO/6,www.trismegistos.org/text/172986,KE065-003008-,,,wdcluster_0070,Q106674247;Q106675559;Q106680938;Q70892774,0
+I-KER-081,Cill Chuallachta Thoir | Kilcoolaght East 7,Ireland,52.07402,-9.7458,212,KLCOO/7,www.trismegistos.org/text/172991,KE065-003009-,,,wdcluster_0071,Q106674248;Q106675560;Q106680939;Q70892778,0
+I-KER-082,Cill Chuallachta Thoir | Kilcoolaght East 8,Ireland,52.07402,-9.7458,213,KLCOO/8,www.trismegistos.org/text/172996,KE065-003010-,,,wdcluster_0072,Q106674249;Q106675561;Q106680942;Q70892780,0
+I-KER-083,Cill Ghobnait |Kilgobnet,Ireland,52.063851,-9.720612,214,KLGOB/2,www.trismegistos.org/text/172618,KE065-116----,,,wdcluster_0300,Q106675564;Q106680944;Q70892784,0
+I-KER-084,Cill Ghobnait |Kilgobnet,Ireland,52.063009,-9.722075,214,KLGOB/1,www.trismegistos.org/text/172844,KE065-109001-,,,wdcluster_0299,Q106675563;Q106681227,0
+I-KER-085,Bánchluain | Whitefield 1,Ireland,52.08496,-9.70064,215,WHFLD/1,www.trismegistos.org/text/172727,KE057-107----,National Museum of Ireland,,wdcluster_0073,Q106674250;Q106675704;Q106680945;Q70892785,0
+I-KER-086,Bánchluain | Whitefield 2,Ireland,52.08496,-9.70064,216,WHFLD/2,www.trismegistos.org/text/172908,KE057-107002-,National Museum of Ireland,,wdcluster_0074,Q106674251;Q106675705;Q106680946;Q70892787,0
+I-KER-087,Bánchluain | Whitefield 3,Ireland,52.08496,-9.70064,217,WHFLD/3,www.trismegistos.org/text/172912,KE057-107003-,National Museum of Ireland,,wdcluster_0075,Q106674253;Q106675706;Q106680947;Q70892791,0
+I-KER-088,Bánchluain | Whitefield 4,Ireland,52.08496,-9.70064,218,WHFLD/4,www.trismegistos.org/text/172916,KE057-107004-,National Museum of Ireland,,wdcluster_0076,Q106674254;Q106675707;Q106680948;Q111442223;Q70892792,0
+I-KER-089,Bánchluain | Whitefield 5,Ireland,52.08496,-9.70064,,WHFLD/5,www.trismegistos.org/text/172920,KE057-108----,,,wdcluster_0376,Q106675708;Q106681198;Q85411181,0
+I-KER-090,Doire Ghearráin Theas | Derrygarrane South,Ireland,51.90374,-9.75202,219,DEGAS/1,www.trismegistos.org/text/172536,KE092-001001-,,,wdcluster_0253,Q106675466;Q106680949;Q70892797,0
+I-KER-091,Doire Fhíonáin Beag |Darrynane Beg,Ireland,51.7636,-10.1207,220,DENAN/1,www.trismegistos.org/text/172538,KE106-114----,,,wdcluster_0078,Q106674256;Q106675467;Q106680950;Q70892799,0
+I-KER-092,Drom Loiscthe | Dromlusk,Ireland,51.87329,-9.78809,221,DRLUS/1,www.trismegistos.org/text/172546,KE091-103001-,,,wdcluster_0262,Q106675480;Q106680951;Q70892801,0
+I-KER-093,An Mhangarta | Mangerton,Ireland,51.9532,-9.4685,222,MANGE/1,www.trismegistos.org/text/172654,KE074-009----,,,wdcluster_0334,Q106675625;Q106680952;Q70892805,0
+I-KER-094,"""Parknasilla"" Doire Coinche | Derryquin 2""",Ireland,51.818379,-9.872346,223,PRKLA/1,www.trismegistos.org/text/173401,KE100-043----,National Museum of Ireland,,wdcluster_0079,Q106674257;Q106675652;Q106680953;Q70892807,0
+I-KER-095,Drom an tSeabhaic | Dromatouk,Ireland,51.884794,-9.525148,224,DROUK/1,www.trismegistos.org/text/172544,KE093-026002-,,,wdcluster_0263,Q106675485;Q106680955;Q70892808,0
+I-KER-096,"""""""Gortmaccree"""" (Gurteenmacree, later Gurteen, parish of Kilgarvan)""",Ireland,51.87221,-9.445252,225,GRTMA/1,www.trismegistos.org/text/173399,KE094-082----,,,wdcluster_0288,Q106675533;Q106680956;Q70892810,0
+I-KER-097,Inse na nEach | Inchinanagh,Ireland,51.840526,-9.415211,226,INAGH/1,www.trismegistos.org/text/172593,KE103-027----,,,wdcluster_0290,Q106675538;Q106680957;Q70892813,0
+I-KER-098,An Lománach | Lomanagh,Ireland,51.883378,-9.424806,227,LMNGH/1,www.trismegistos.org/text/172650,KE094-018001-,,,wdcluster_0333,Q106675622;Q106680959;Q70892814,0
+I-KER-099,Na Ceathrúna | Carhoona,Ireland,52.571346,-9.421646,228,COHIL/1,www.trismegistos.org/text/172516,KE003-070----,"Pitt-Rivers Museum, Oxford",,wdcluster_0229,Q106675422;Q106680960;Q70892818,0
+I-KER-100,Ceann Boirinn | Canburrin,Ireland,51.92166,-10.18551,229,CARIN/1,www.trismegistos.org/text/172490,KE080-045----,,,wdcluster_0221,Q106675409;Q106680961;Q70892821,0
+I-KER-101,Clochán Cárthainn | Cloghanecarhan,Ireland,51.8884,-10.18373,230,CLCAH/1,www.trismegistos.org/text/172504,KE089-011008-,,,wdcluster_0081,Q106674259;Q106675414;Q106680962;Q70892823,0
+I-KER-102,An Chúil Thoir | Cool East 1,Ireland,51.9111,-10.3589,231,COOLE/1,www.trismegistos.org/text/172519,KE078-009003-,,,wdcluster_0234,Q106675432;Q106680964;Q70892827,0
+I-KER-103,An Chúil Thoir | Cool East 2,Ireland,51.908392,-10.363032,232,COOLE/2,www.trismegistos.org/text/172792,KE078-007----,,,wdcluster_0235,Q106675433;Q106680965;Q70892828,0
+I-KER-104,Drom Caor | Dromkeare,Ireland,51.84901,-10.1118,233,DKEAR/1,www.trismegistos.org/text/172545,KE098-021002- (classed as cross-slab),,,wdcluster_0255,Q106675471;Q106680966;Q70892829,0
+I-KER-105,Cill Choimhtheach | Kilkeehagh,Ireland,52.027716,-10.045263,234,KLKEE/1,www.trismegistos.org/text/172620,KE063-012001-,,,wdcluster_0308,Q106675578;Q106680967;Q70892834,0
+I-KER-106,Cill Ó gCróin | Killogrone,Ireland,51.91854,-10.17932,235,KLGRO/1,www.trismegistos.org/text/172626,KE080-046003-,,,wdcluster_0302,Q106675568;Q106680968;Q70892835,0
+I-KER-107,Cill Urlaí | Killurly 1,Ireland,51.8402,-10.2992,236,KLURL/1,www.trismegistos.org/text/172628,KE097-003004-,,,wdcluster_0315,Q106675587;Q106680970;Q70892837,0
+I-KER-108,Leitir | Letter,Ireland,51.924969,-10.219151,238,LETER/1,www.trismegistos.org/text/172653,"KE079-086----  When first recorded by Macalister (1939a, 17), it was built into a stile a short distance S of MacCrehin's Castle (KE079-068001-)",Kerry County Museum,,wdcluster_0329,Q106675618;Q106680972;Q70892844,0
+I-KER-109,Leitir Thiar | Letter West,Ireland,51.92564,-10.22427,239,LETWE/1,www.trismegistos.org/text/172487,KE079-065002-,,,wdcluster_0330,Q106675619;Q106680973;Q70892846,0
+I-KER-110,Tír Ó Maoil | Teeromoyle,Ireland,51.97193,-10.07638,240,TERMY/1,www.trismegistos.org/text/172705,KE070-070001-,,,wdcluster_0368,Q106675691;Q106680975;Q70892848,0
+I-KER-111,Cill Bheanáin | Kilbonane,Ireland,52.08437,-9.66846,241,KLBON/1,www.trismegistos.org/text/172606,KE057-078002-,,,wdcluster_0082,Q106674260;Q106675551;Q106680976;Q70892851,0
+I-KER-112,Páirc an Mhóinéir | Parkavonear 1,Ireland,52.076337,-9.554751,242,PARAR/1,www.trismegistos.org/text/172673,KE066-016005-,,,wdcluster_0083,Q106674261;Q106675644;Q106680977;Q70892852,0
+I-KER-113,Gort na Cloiche Meánach | Rockfield Middle 1,Ireland,52.12832,-9.63087,243,RFILD/1,www.trismegistos.org/text/172689,KE057-023002-,,,wdcluster_0350,Q106675662;Q106680978;Q70892854,0
+I-KER-114,Gort na Cloiche Meánach | Rockfield Middle 2,Ireland,52.12832,-9.63087,244,RFILD/2,www.trismegistos.org/text/172926,KE057-023003-,,,wdcluster_0351,Q106675663;Q106680979;Q70892857,0
+I-KER-115,Gort na Cloiche Meánach | Rockfield Middle 3,Ireland,52.128322,-9.630876,245,RFILD/3,www.trismegistos.org/text/172932,KE057-023004-,,,wdcluster_0352,Q106675664;Q106680980;Q70892859,0
+I-KER-116,Gort na Cloiche Meánach | Rockfield Middle 4,Ireland,52.12832,-9.63087,246,RFILD/4,www.trismegistos.org/text/172938,KE057-023005-,,,wdcluster_0353,Q106675666;Q106680981;Q70892864,0
+I-KER-117,Aird Chánachta | Ardcanaght 1,Ireland,52.165998,-9.725042,,ARDCT/1,www.trismegistos.org/text/172438,KE047-026001-,,,wdcluster_0084,Q106674263;Q106675311;Q106681200;Q85410004,0
+I-KER-118,Aird Chánachta | Ardcanaght 2,Ireland,52.165998,-9.725042,,ARDCT/2,www.trismegistos.org/text/172780,KE047-026003-,,,wdcluster_0085,Q106674264;Q106675312;Q106681201;Q85410013,0
+I-KER-119,Ard Uí Mhánaigh | Ardywanig,Ireland,52.152736,-9.658615,247,AYWAG/1,www.trismegistos.org/text/173395,KE047-078001-,,,wdcluster_0171,Q106675318;Q106680982;Q70892869,0
+I-KER-120,Bán an Ghleanna | Bawnaglanna,Ireland,52.153985,-9.443458,248,BAWGL/1,www.trismegistos.org/text/172474,KE049-101002-,,,wdcluster_0198,Q106675362;Q106680983;Q70892870,0
+I-KER-121,An Bhreac-choill | Brackhill,Ireland,52.161889,-9.674836,249,BHILL/1,www.trismegistos.org/text/172873,KE047-080----,,,wdcluster_0203,Q106675371;Q106680985;Q70892873,0
+I-KER-122,Corcaigh Bhuí | Corkaboy,Ireland,52.16566,-9.77764,250,COBOY/1,www.trismegistos.org/text/172524,KE046-022002-,,,wdcluster_0228,Q106675421;Q106680989;Q70892889,0
+I-KER-123,An Chraig | Crag,Ireland,52.19142,-9.53331,251,CRAG/1,www.trismegistos.org/text/172529,KE048-016----,,,wdcluster_0241,Q106675451;Q106680993;Q70892894,0
+I-KER-124,An Garrán Darach | Garraundarragh ('Gurrane'),Ireland,52.212276,-9.56944,252,GURAN/1,https://www.trismegistos.org/text/172587,KE039-148----,National Museum of Ireland,,wdcluster_0087,Q106674266;Q106675534;Q106680996;Q70892895,0
+I-KER-125,Cill Orglan | Killorglin I ('near'),Ireland,52.104272,-9.777245,253,KLORG/1,www.trismegistos.org/text/172627,KE056-046----,National Museum of Ireland,,wdcluster_0088,Q106674267;Q106675583;Q106681000;Q70892897,0
+I-KER-126,Fearann na gCat | Churchtown,Ireland,52.0727,-9.6864,254,KLORG/2,https://www.trismegistos.org/text/172846,KE065-012004-,National Museum of Ireland,,wdcluster_0312,Q106675584;Q106681007;Q70892906,0
+I-KER-127,Tigh na hAille | Tinnahally 1,Ireland,52.126506,-9.749639,255,TINAH/1,https://www.trismegistos.org/text/172712,KE057-105001-,National Museum of Ireland,,wdcluster_0089,Q106674268;Q106675693;Q106681026;Q70892907,0
+I-KER-128,Tigh na hAille | Tinnahally 2,Ireland,52.126506,-9.749639,256,TINAH/2,https://www.trismegistos.org/text/172822,KE057-105002-,National Museum of Ireland,,wdcluster_0090,Q106674269;Q106675694;Q106681028;Q70892910,0
+I-KER-129,Cluain na Lobhar | Cloonalour (Tralee),Ireland,52.274656,-9.694814,,TRALE/1,,,,,wdcluster_0374,Q106675701;Q106681202;Q85410047,0
+I-KER-130,Baile Bhromáin | Ballybroman,Ireland,52.335184,-9.726037,1082,BALBR/1,https://www.trismegistos.org/text/172458,(souterrain KE021-084001-),,,wdcluster_0190,Q106675348;Q106681230,0
+I-KER-131,Ráth Cionaoith | Rathkenny 1,Ireland,52.333343,-9.721501,1083,RTHKE/1,https://www.trismegistos.org/text/172684,KE021-087002-,,,wdcluster_0361,Q106675680;Q106681261,0
+I-KER-132,Ráth Cionaoith | Rathkenny 2,Ireland,52.333343,-9.721501,1084,RTHKE/2,https://www.trismegistos.org/text/172850,KE021-087005-,,,wdcluster_0362,Q106675681;Q106681262,0
+I-KER-133,Ráth Cionaoith | Rathkenny 3,Ireland,52.333343,-9.721501,1085,RTHKE/3,https://www.trismegistos.org/text/172877,KE021-087004-,,,wdcluster_0363,Q106675682;Q106681263,0
+I-KER-134,Ráth Cionaoith | Rathkenny 4,Ireland,52.333343,-9.721501,,,,KE021-087007-,,,,,0
+I-KER-135,Cill Ghuilbin Thoir | Kilgulbin East,Ireland,52.346,-9.712,1086,,,KE021-051----,National Museum of Ireland,Logainm:1.00,,,4
+I-KER-136,Oileán an Teampaill | Church Island,Ireland,51.937578,-10.283295,,CHUIS/1,,KE079-032004-,Cork Public Museum,,wdcluster_0148,Q106674343;Q106675412;Q106681367;Q126500897,0
+I-KER-137,An Gaorthadh Theas | Gearha South,Ireland,51.887801,-9.761091,,GEARS/1,,KE092-049001-,Cork Public Museum,,wdcluster_0274,Q106675513;Q106681244;Q126500898,0
+I-KER-138,Caol na bhFuarán | Brookhill,Ireland,52.072139,-9.735859,,BRHKL/1,,KE065-105----,National Museum of Ireland,,wdcluster_0212,Q106675399;Q106681231,0
+I-KER-139,Ráth Teas | Ratass,Ireland,52.267045,-9.681861,,RATAS/1,,KE029-157002-,,,wdcluster_0157,Q106674352;Q106675656;Q106681217,0
+I-KER-140,Cnoc an Gharráin | Knockagarrane,Ireland,52.136824,-9.731707,,,,KE057-143----,,,,,0
+I-KER-141,Com an Lóndraigh | Coumlanders,Ireland,52.125601,-10.175898,,,,KE054-094----,Músaem Chorca Dhuibhne,,,,0
+I-KER-142,Inse an Chomair | Inchincummer,Ireland,52.154855,-9.444296,,,,KE049-122----,,,,,0
+I-KER-143,Trá Lí | Tralee,Ireland,52.269425,-9.723075,,,,KE029-319----,Kerry County Museum,,,,0
+I-KER-144,Bun Binne | Bunbinnia,Ireland,51.96767,-9.722726,,,,KE073-050001-,,,,,0
+I-KER-145,Tiobraid Bheag | Tubrid Beg,Ireland,52.319706,-9.72426,,,,KE021-122003-,,,,,0
+I-KER-146,Ráth Ciaráin | Rathkieran,Ireland,51.848153,-10.332104,,RATHK/1,,KE096-009001-,,,wdcluster_0349,Q106675658;Q106681258,0
+I-KER-147,An Gabhlán | Gowlane,Ireland,52.1419,-9.5731,,GOWLA/1,,KE048-113003-,,,,,0
+I-KER-148,An Cnoc Breac | Knockbrack,Ireland,52.196909,-9.648659,,,,KE047-105001-,,,,,0
+I-KER-149,Cill Mhaoile Theas | Kilmoyly South,Ireland,52.376725,-9.772241,,,,KE014-089002-,,,,,0
+I-KER-150,Formaoil |Fermoyle,Ireland,52.244086,-10.144093,,,,KE035-154----,Kerry County Museum,Logainm:1.00,,,0
+I-KER-151,BAILE MÓR THIAR,Ireland,52.122077,-10.328706,,,,KE053-099----,,,,,0
+I-KER-152,Ballyvelly,Ireland,52.263227,-9.729227,,,,,,,,,0
+I-KER-153,Unknown (Dunraven Collection),Ireland,,,,,,,,,,,0
+I-KER-154,An Chillín Liath | Killeenleagh,Ireland,51.908253,-10.058009,,,,KE089-010002-,,Logainm:1.00,,,1
+I-KER-L01,Baile an Reannaigh | Ballinrannig 8?,Ireland,52.1788,-10.3879,,BALIG/8,www.trismegistos.org/text/172993,KE042-057004-,,Logainm:1.00,wdcluster_0194,Q106675358;Q106681225,0
+I-KER-L02,An Baile Íochtarach | Ballyeightragh,Ireland,,,,,www.trismegistos.org/text/172459,,,,,,0
+I-KER-L03,Baile an Ghóilín | Burnham,Ireland,,,,,,KE053-012003-,,,,,0
+I-KER-L04,Coolnagoppoge,Ireland,,,,,,,,,,,0
+I-KER-L05,Cill Urlaí | Killurly 2,Ireland,,,237,,www.trismegistos.org/text/172802,KE097-055----,,,wdcluster_0316,Q106675588;Q106680971;Q70892842,0
+I-KER-L06,An Lóthar | Loher,Ireland,,,,,,KE106-003005-,,,,,0
+I-KER-L07,Páirc an Mhóinéir | Parkavonear 2,Ireland,,,,PARAR/2,www.trismegistos.org/text/172812,KE066-016010-,,,wdcluster_0344,Q106675647;Q106681199;Q85411211,0
+I-KER-L08,Gort na Cloiche Meánach | Rockfield Middle 5,Ireland,52.128322,-9.630876,,RFILD/5,www.trismegistos.org/text/172944,KE057-023006-,,,wdcluster_0354,Q106675668;Q106681259,0
+I-KER-L09,Gort na Cloiche Meánach | Rockfield Middle 6,Ireland,52.128322,-9.630876,,RFILD/6,www.trismegistos.org/text/172950,KE057-023007-,,,wdcluster_0355,Q106675669;Q106681260,0
+I-KER-L10,Ard Uí Mhánaigh | Ardywanig,Ireland,52.146311,-9.657641,,,,KE047-068----,,,,,0
+I-KER-L11,Castleconway,Ireland,,,,,,KE056-025001-,,,,,0
+I-KER-X01,Bushmount,Ireland,,,,,,,,,,,0
+I-KER-X02,PÁIRC AN TEAMPAILL,Ireland,,,,,,KE044-079----,,,,,0
+I-KER-X03,Clonsharagh,Ireland,,,,,,,,,,,0
+I-KER-X04,Gortacurraun,Ireland,,,,,,,,,,,0
+I-KER-X05,Vicarstown,Ireland,,,,,,,,,,,0
+I-KER-X06,An Mhangarta | Mangerton,Ireland,,,,,,KE085-005002-,,,,,0
+I-KER-X07,An Doirín | Derreen,Ireland,,,,,,,,,,,0
+I-KER-X08,An Leathfhearann Theas | Laharan South 1,Ireland,,,,,,,,,,,0
+I-KER-X09,An Leathfhearann Theas | Laharan South 2,Ireland,,,,,,,,,,,0
+I-KER-X10,Cathair Néid |Cahernead,Ireland,52.365387,-9.711402,,,,KE021-017002-,,,,,0
+I-KID-001,Baile Choilbín | Colbinstown 1,Ireland,53.02854,-6.76087,19,COLIN/1,,KD032-044001-,National Museum of Ireland,Logainm:1.00,wdcluster_0049,Q106674223;Q106675423;Q106680582;Q70899528,2
+I-KID-002,Baile Choilbín | Colbinstown 2,Ireland,53.02854,-6.76087,20,COLIN/2,,KD032-044002-,National Museum of Ireland,Logainm:1.00,wdcluster_0059,Q106674234;Q106675424;Q106680583;Q70892328,2
+I-KID-004,Baile Choilbín | Colbinstown 4,Ireland,53.028539,-6.760976,22,COLIN/4,,KD032-044004-,,Logainm:1.00,wdcluster_0077,Q106674255;Q106675426;Q106680585;Q70899530,3
+I-KID-005,Baile Choilbín | Colbinstown 5,Ireland,53.028514,-6.760801,23,COLIN/5,https://www.trismegistos.org/text/172954,KD032-044005-,,Logainm:1.00,wdcluster_0080,Q106674258;Q106675427;Q106680586;Q70899537,0
+I-KID-007,Baile Choilbín | Colbinstown 7,Ireland,53.028323,-6.760951,25,COLIN/7,https://www.trismegistos.org/text/172956,KD032-044007-,,Logainm:1.00,wdcluster_0086,Q106674265;Q106675429;Q106680588;Q70899541,0
+I-KID-008,Domhnach Mór | Donaghmore,Ireland,53.377093,-6.552943,26,DNMOR/1,,KD006-005002-,National Museum of Ireland,Logainm:1.00,wdcluster_0091,Q106674270;Q106675474;Q106680589;Q70899544,3
+I-KIK-001,Baile Uí Spealáin | Ballyspellan,Ireland,52.761,-7.511,27,,,,National Museum of Ireland,Logainm:1.00,wdcluster_0381,Q106680590;Q70892342,6
+I-KIK-002,Clárach an Teampaill | Churchclara 1,Ireland,52.655447,-7.145906,28,CHLAR/1,https://www.trismegistos.org/text/172501,KK020-017003-,,Logainm:1.00,wdcluster_0106,Q106674287;Q106675411;Q106680591;Q70892353,0
+I-KIK-003,Clárach an Teampaill | Churchclara 2,Ireland,52.655485,-7.146098,,CHLAR/2,,KK020-017010-,,Logainm:1.00,,,1
+I-KIK-006,An Feadán Uachtarach | Fiddaun Upper,Ireland,52.522596,-7.037871,31,FIDUP/1,https://www.trismegistos.org/text/172564,KK029-020----,,Logainm:1.00,wdcluster_0119,Q106674306;Q106675505;Q106680594;Q70892359,3
+I-KIK-007,Gabhrán | Gowran,Ireland,52.628928,-7.064571,32,GOWRN/1,https://www.trismegistos.org/text/173403,KK020-060007-,,Logainm:1.00,wdcluster_0120,Q106674307;Q106675527;Q106680595;Q70892361,2
+I-KIK-008,An Liagán | Legan,Ireland,52.534759,-7.163003,34,LEGAN/1,https://www.trismegistos.org/text/172646,KK028-026002-,,Logainm:1.00,wdcluster_0122,Q106674310;Q106675617;Q106680597;Q70892365,3
+I-KIK-009,An Tulaigh Thirim | Tullaherin 1,Ireland,52.579246,-7.129977,35,TULHE,https://www.trismegistos.org/text/172721,,,Logainm:1.00,wdcluster_0123,Q106674311;Q106675702;Q106680600;Q70892367,0
+I-KIK-010,An Tulaigh Thirim | Tullaherin 2,Ireland,52.579246,-7.130021,,TULHE,,,,Logainm:1.00,,,0
+I-KIK-011,Lamóg | Lamoge 1,Ireland,52.44656,-7.36596,36,LAMOG/1,https://www.trismegistos.org/text/172645,,,Logainm:1.00,wdcluster_0124,Q106674312;Q106675615;Q106680601;Q70892369,2
+I-KIK-012,Lamóg | Lamoge 2,Ireland,52.44656,-7.36596,37,LAMOG/2,https://www.trismegistos.org/text/172806,,,Logainm:1.00,wdcluster_0125,Q106674313;Q106675616;Q106680602;Q70892376,2
+I-KIK-013,Baile Mhuadáin | Ballyboodan,Ireland,52.470078,-7.222619,38,BALBO/1,https://www.trismegistos.org/text/172457,,,Logainm:1.00,wdcluster_0189,Q106675347;Q106680603;Q67510124,2
+I-KIK-014,An tSeanchill |Shankill,Ireland,52.6873,-7.0094,,SHANK/1,,,Rothe House Museum,Logainm:1.00,wdcluster_0160,Q106674356;Q106675687;Q106681220;Q120969510,4
+I-LDY-001,Dún Oilí Uachtarach | Dunalis Upper,Ireland,55.11652,-6.74001,316,DUNAL/1,,,,Logainm:1.00,wdcluster_0264,Q106675497;Q106681195;Q70893058,1
+I-LOU-002,Baile Bhalraic | Ballybarrack,Ireland,53.986176,-6.424458,,BALBA/1,,LH007-072006-,National Museum of Ireland,Logainm:1.00,wdcluster_0146,Q106674341;Q106675346;Q106681204,3
+I-MAY-001,An tOileán | Island,Ireland,53.773466,-8.799564,3,ISLAN/1,172600,MA093-038001-,,Logainm:1.00,wdcluster_0292,Q106675541;Q106680564;Q70892278,2
+I-MAY-002,Cill Mhainín | Kilmannin,Ireland,53.772989,-8.76517,4,KILMA/1,172630,MA093-045003-,National Museum of Ireland,Logainm:1.00,wdcluster_0126,Q106674314;Q106675546;Q106680565;Q70899515,1
+I-MAY-003,An Roisín Thiar | Rusheens West,Ireland,53.896213,-8.674923,5,RUSHE/1,,MA073-012----,,Logainm:1.00,wdcluster_0364,Q106675685;Q106680566;Q70899516,2
+I-MAY-004,An Baile Beag | Ballybeg,Ireland,53.726342,-8.697455,6,TULLA/1,172720,,,Logainm:1.00,wdcluster_0375,Q106675703;Q106680567;Q70899519,1
+I-MAY-005,Corr Odhar | Corrower,Ireland,54.072257,-9.078265,7,CORRO/1,172525,MA040-048----,,Logainm:1.00,wdcluster_0239,Q106675445;Q106680568;Q70892286,2
+I-MAY-006,Dumhach Mhic Eoghain | Dooghmakeon,Ireland,53.742054,-9.89389,8,DOOGH/1,172543,,,Logainm:1.00,wdcluster_0260,Q106675478;Q106680569;Q70892288,0
+I-MAY-007,Achadh Liag | Aghaleague,Ireland,54.257414,-9.332316,9,AGHAL/1,172432,MA014-101----,,Logainm:1.00,wdcluster_0162,Q106675295;Q106680570;Q70892292,2
+I-MAY-008,Bréisteach | Breastagh,Ireland,54.246449,-9.25363,10,BREAS/1,172479,MA015-018001-,,Logainm:1.00,wdcluster_0000,Q106674154;Q106675396;Q106680571;Q70892302,2
+I-MAY-009,Mainistir na Croise | Cross Abbey,Ireland,54.208993,-10.083446,,,,MA016-004004-,,Logainm:1.00,,,0
+I-MAY-010,Cill na nGarbhán | Kilgarvan,Ireland,54.089953,-9.027587,,KILGA/1,,MA040-031004-,,Logainm:1.00,,,1
+I-MAY-X02,An Caol Thiar | Keel West,Ireland,53.968912,-10.202474,,KEELW/1,,,National Museum of Ireland,Logainm:1.00,wdcluster_0293,Q106675542;Q106681248,0
+I-MEA-001,Baile Phaghain | Painestown,Ireland,53.667656,-6.565704,40,PAINT/1,https://www.trismegistos.org/text/172672,,National Museum of Ireland,Logainm:1.00,wdcluster_0127,Q106674315;Q106675643;Q106680605;Q70892380,2
+I-MEA-003,Moynagh Lough,Ireland,53.81765,-6.75564,,,,ME005-088001-,National Museum of Ireland,Logainm:1.00,,,0
+I-MEA-004,Sí an Bhrú | Newgrange,Ireland,53.694,-6.476,,,,,National Museum of Ireland,Logainm:1.00,,,1
+I-OFF-001,Cluain Mhic Nóis | Clonmacnoise,Ireland,53.32577,-7.98755,749,CLMAC/152,,OF005-023018-,,Logainm:1.00,wdcluster_0224,Q106675416;Q106681235,0
+I-OFF-002,Baile na hInse | Ballynahinch (Ballinderry Crannóg),Ireland,53.40075,-7.67659,,,,OF001-001----,National Museum of Ireland,Logainm:1.00,,,0
+I-OFF-005,An Liath Beag | Leabeg,Ireland,53.302,-7.731,,,,,National Museum of Ireland,Logainm:1.00,,,0
+I-ROS-001,An Dromainn | Drummin 1,Ireland,53.834347,-8.369948,11,DRUMM/1,https://www.trismegistos.org/text/172550,,,Logainm:1.00,wdcluster_0006,Q106674177;Q106675496;Q106680573;Q70892303,1
+I-ROS-002,An Dromainn | Drummin 2,Ireland,53.834307,-8.369956,,,,,,Logainm:1.00,,,1
+I-ROS-003,Ráth Cruachan | Rathcroghan 1,Ireland,53.797308,-8.310569,12,RCROG/1,https://www.trismegistos.org/text/172680,,,Logainm:1.00,wdcluster_0009,Q106674181;Q106675660;Q106680575;Q70892306,0
+I-ROS-004,Ráth Cruachan | Rathcroghan 2,Ireland,53.797308,-8.310569,13,RCROG/2,https://www.trismegistos.org/text/172814,,,Logainm:1.00,wdcluster_0011,Q106674183;Q106675661;Q106680576;Q70899521,1
+I-TIP-X01,Liath | Leigh,Ireland,52.673,-7.661,,,,,National Museum of Ireland,Logainm:1.00,,,0
+I-TYR-001,Achadh Scríobach | Aghascrebagh,Ireland,54.699406,-7.042515,317,AGHAS/1,,,,,wdcluster_0163,Q106675296;Q106681196;Q70893060,2
+I-WAT-001,Suí Mochuda | Seemochuda,Ireland,52.20345,-7.99903,262,SCHUD/1,www.trismegistos.org/text/172697,WA011-003001-,University College Cork,Logainm:1.00,wdcluster_0365,Q106675686;Q106681048;Q70885701,2
+I-WAT-002,Aird Mhór | Ardmore 1,Ireland,51.948696,-7.725633,263,AMORE/1,,WA040-008005-,,Logainm:1.00,wdcluster_0092,Q106674271;Q106675306;Q106681049;Q70892923,3
+I-WAT-003,Aird Mhór | Ardmore 2,Ireland,51.948819,-7.726118,264,AMORE/2,,WA040-008006-,National Museum of Ireland,Logainm:1.00,wdcluster_0093,Q106674272;Q106675307;Q106681050;Q70892924,1
+I-WAT-004,Aird Mhór | Ardmore 3,Ireland,51.94853,-7.72592,265,AMORE/3,,WA040-008007-,,Logainm:1.00,wdcluster_0094,Q106674273;Q106675308;Q106681051;Q70892930,1
+I-WAT-005,An Drom Mór | Dromore 1 (Cill Tíre),Ireland,52.0743,-7.8477,266,DROMR/1,,WA029-042003-,,Logainm:1.00,wdcluster_0095,Q106674274;Q106675481;Q106681052;Q70892932,4
+I-WAT-006,An Drom Mór | Dromore 2 (Cill Tíre),Ireland,52.0743,-7.8477,267,DROMR/2,,WA029-042006-,,Logainm:1.00,wdcluster_0096,Q106674277;Q106675482;Q106681053;Q70892933,4
+I-WAT-007,An Drom Mór | Dromore 3 (Cill Tíre),Ireland,52.0743,-7.8477,268,DROMR/3,,WA029-042010-,National Museum of Ireland,Logainm:1.00,wdcluster_0097,Q106674278;Q106675484;Q106681055;Q70892935,1
+I-WAT-008,Ceathrú an Teampaill | Mill and Churchquarter (Grange),Ireland,51.9801,-7.75392,269,GRANG/1,www.trismegistos.org/text/172584,,,Logainm:1.00,wdcluster_0286,Q106675528;Q106681056;Q70892937,1
+I-WAT-009,An tSráidbhaile Mór | Stradbally More 1,Ireland,52.133213,-7.449916,270,BLVOO/1,www.trismegistos.org/text/172469,WA024-061002-,,Logainm:1.00,wdcluster_0207,Q106675389;Q106681109;Q70892938,1
+I-WAT-010,An tSráidbhaile Mór | Stradbally More 2,Ireland,52.133213,-7.449916,271,BLVOO/2,https://www.trismegistos.org/text/172785,WA024-061003-,,Logainm:1.00,wdcluster_0208,Q106675390;Q106681112;Q70892940,0
+I-WAT-011,Drom Lócháin | Drumlohan 1,Ireland,52.163305,-7.465345,272,DRUML/1,https://www.trismegistos.org/text/172549,WA024-033006-,,Logainm:1.00,wdcluster_0098,Q106674279;Q106675486;Q106681113;Q70892943,4
+I-WAT-012,Drom Lócháin | Drumlohan 2,Ireland,52.163279,-7.465327,273,DRUML/2/1,www.trismegistos.org/text/173007,WA024-033007-,,Logainm:1.00,wdcluster_0099,Q106674280;Q106675488;Q106681115;Q70892944,3
+I-WAT-013,Drom Lócháin | Drumlohan 3,Ireland,52.163276,-7.465337,274,DRUML/3,www.trismegistos.org/text/173008,WA024-033008-,,Logainm:1.00,wdcluster_0100,Q106674281;Q106675489;Q106681116;Q70892950,2
+I-WAT-014,Drom Lócháin | Drumlohan 4,Ireland,52.163299,-7.465364,275,DRUML/4,https://www.trismegistos.org/text/173009,WA024-033009-,,Logainm:1.00,wdcluster_0101,Q106674282;Q106675490;Q106681117;Q70892951,3
+I-WAT-015,Drom Lócháin | Drumlohan 5,Ireland,52.163271,-7.465351,276,DRUML/5,www.trismegistos.org/text/173010,WA024-033010-,,Logainm:1.00,wdcluster_0102,Q106674283;Q106675491;Q106681119;Q70892952,2
+I-WAT-016,Drom Lócháin | Drumlohan 6,Ireland,52.163291,-7.46533,277,DRUML/6,www.trismegistos.org/text/173011,WA024-033011-,,Logainm:1.00,wdcluster_0103,Q106674284;Q106675492;Q106681120;Q70892956,3
+I-WAT-017,Drom Lócháin | Drumlohan 7,Ireland,52.163287,-7.465341,278,DRUML/7,https://www.trismegistos.org/text/173012,WA024-033012-,,Logainm:1.00,wdcluster_0104,Q106674285;Q106675493;Q106681121;Q70892957,1
+I-WAT-018,Drom Lócháin | Drumlohan 8,Ireland,52.16328,-7.465359,279,DRUML/8,https://www.trismegistos.org/text/173013,WA024-033013-,,Logainm:1.00,wdcluster_0105,Q106674286;Q106675494;Q106681122;Q70892959,3
+I-WAT-019,Drom Lócháin | Drumlohan 9,Ireland,52.1633,-7.465332,280,DRUML/9,https://www.trismegistos.org/text/173014,WA024-033014-,,Logainm:1.00,wdcluster_0107,Q106674288;Q106675495;Q106681124;Q70892962,1
+I-WAT-020,Drom Lócháin | Drumlohan 10,Ireland,52.163296,-7.465345,281,DRUML/10,https://www.trismegistos.org/text/173014,WA024-033015-,,Logainm:1.00,wdcluster_0108,Q106674290;Q106675487;Q106681125;Q70892964,1
+I-WAT-021,An Baile Beag | Fox’s Castle,Ireland,52.15361,-7.50168,282,FOXCA/1,,WA024-080002-,National Museum of Ireland,Logainm:1.00,wdcluster_0270,Q106675509;Q106681126;Q70892966,0
+I-WAT-024,An Chill Bheag | Kilbeg,Ireland,52.164,-7.316,285,KLBEG/1,,WA025-078----,National Museum of Ireland,Logainm:1.00,wdcluster_0109,Q106674292;Q106675550;Q106681157;Q70892972,3
+I-WAT-025,Cill Ghruabháin | Kilgrovan 1,Ireland,52.089906,-7.549858,286,KLGRV/1,,WA031-045002-,Mount Mellary Abbey Heritage Center,Logainm:1.00,wdcluster_0303,Q106675570;Q106681158;Q70892975,4
+I-WAT-030,Cill Ghruabháin | Kilgrovan 6,Ireland,52.0899,-7.5498,,KLGRV/6,,WA031-045008-,National Museum of Ireland,Logainm:1.00,wdcluster_0153,Q106674348;Q106675575;Q106681210,1
+I-WAT-031,Cill Ghruabháin | Kilgrovan 7,Ireland,52.089906,-7.549858,,,,WA031-045015-,National Museum of Ireland,Logainm:1.00,,,0
+I-WAT-033,An Cnoc Buí | Knockboy 1,Ireland,52.194752,-7.684811,292,KNBOY/1,www.trismegistos.org/text/172699,WA013-034006-,,Logainm:1.00,wdcluster_0110,Q106674293;Q106675592;Q106681165;Q70892992,2
+I-WAT-034,An Cnoc Buí | Knockboy 2,Ireland,52.194685,-7.684797,293,KNBOY/2,www.trismegistos.org/text/172967,WA013-034007-,,Logainm:1.00,wdcluster_0111,Q106674294;Q106675593;Q106681171;Q70892993,0
+I-WAT-035,An Cnoc Buí | Knockboy 3,Ireland,52.194685,-7.684797,294,KNBOY/3,www.trismegistos.org/text/172972,WA013-034008-,,Logainm:1.00,wdcluster_0112,Q106674296;Q106675594;Q106681172;Q70892996,1
+I-WAT-036,An Cnoc Buí | Knockboy 4,Ireland,52.194671,-7.684959,295,KNBOY/4,https://www.trismegistos.org/text/172977,WA013-034009-,,Logainm:1.00,wdcluster_0113,Q106674297;Q106675595;Q106681173;Q70892999,3
+I-WAT-037,An Cnoc Buí | Knockboy 5,Ireland,52.194699,-7.685088,296,KNBOY/5,https://www.trismegistos.org/text/172982,WA013-034010-,,Logainm:1.00,wdcluster_0114,Q106674298;Q106675596;Q106681174;Q70893002,1
+I-WAT-038,An Cnoc Buí | Knockboy 6,Ireland,52.194699,-7.685088,297,KNBOY/6,https://www.trismegistos.org/text/172987,WA013-034014-,,Logainm:1.00,wdcluster_0115,Q106674299;Q106675598;Q106681175;Q70893003,1
+I-WAT-039,An Cnoc Buí | Knockboy 7,Ireland,52.194723,-7.685075,298,KNBOY/7,https://www.trismegistos.org/text/172992,WA013-034005-,,Logainm:1.00,wdcluster_0116,Q106674302;Q106675600;Q106681176;Q70893005,3
+I-WAT-040,An Cnoc Buí | Knockboy 8,Ireland,52.1947,-7.685,299,KNBOY/8,https://www.trismegistos.org/text/172997,WA013-034015-,,Logainm:1.00,wdcluster_0117,Q106674304;Q106675601;Q106681177;Q70893008,2
+I-WAT-041,An Cnoc Buí | Knockboy 9,Ireland,52.194667,-7.684895,,,,,National Museum of Ireland,Logainm:1.00,,,0
+I-WAT-042,An tOileán | Island,Ireland,52.1138,-7.4816,300,OLDIS/1,,WA032-029002,,Logainm:1.00,wdcluster_0118,Q106674305;Q106675642;Q106681178;Q70893010,3
+I-WAT-048,Bearna na Gaoithe | Windgap,Ireland,52.34163,-7.49245,307,WINDG/1,https://www.trismegistos.org/text/172728,,,Logainm:1.00,wdcluster_0377,Q106675709;Q106681185;Q70893030,4
+I-WAT-049,Cnocán Machan | Knockmahon 1,Ireland,52.137783,-7.35436,,,,,,Logainm:1.00,,,3
+I-WAT-050,Cnocán Machan | Knockmahon 2,Ireland,52.137783,-7.35436,,,,,,Logainm:1.00,,,2
+I-WEX-003,Geata an Phóirtéaraigh | Portersgate,Ireland,52.1514,-6.8894,46,HLAND/1,172590,WX054-004----,National Museum of Ireland,Logainm:1.00,wdcluster_0128,Q106674316;Q106675535;Q106680688;Q70892393,3
+I-WIC-001,Cáisleán tSíomoin | Castletimon,Ireland,52.904532,-6.071241,47,,https://www.trismegistos.org/text/172498,,,Logainm:1.00,wdcluster_0129,Q106674317;Q106675460;Q106680691;Q70892399,2
+I-WIC-002,Dún Ard | Donard,Ireland,53.009083,-6.633596,48,,https://www.trismegistos.org/text/172542,,,Logainm:1.00,wdcluster_0130,Q106674319;Q106675472;Q106680693;Q70892402,1
+I-WIC-003,Bealach Conglais | Baltinglass,Ireland,52.94,-6.711,49,,https://www.trismegistos.org/text/172471,,National Museum of Ireland,Logainm:1.00,wdcluster_0131,Q106674320;Q106675370;Q106680694;Q70892404,0
+I-WIC-004,Buaile an Charraigín | Boleycarrigeen,Ireland,52.944176,-6.613903,50,,https://www.trismegistos.org/text/172476,,,Logainm:1.00,wdcluster_0132,Q106674323;Q106675365;Q106680696;Q70892406,1
+I-WIC-005,An Cnoicín | Knickeen,Ireland,52.995927,-6.53639,51,,https://www.trismegistos.org/text/172639,,,Logainm:1.00,wdcluster_0133,Q106674324;Q106675602;Q106680698;Q70892409,1
+M-IOM-001,Ballaqueeney 1,Isle of Man,54.076378,-4.752794,503,RUSHN/1,,,Manx Museum,,wdcluster_0428,Q69388030,2
+M-IOM-002,Ballaqueeney 2,Isle of Man,54.076378,-4.752794,504,RUSHN/2,,,Manx Museum,,wdcluster_0429,Q69388229,3
+M-IOM-003,Bimaken Friary 1,Isle of Man,54.099614,-4.679378,501,ARBRY/1,,,Manx Museum,,,,1
+M-IOM-004,Bimaken Friary 2,Isle of Man,54.099614,-4.679378,502,ARBRY/2,,,Manx Museum,,,,1
+M-IOM-005,Kirk Michael,Isle of Man,54.285039,-4.586922,,KMICH/1,,,,,,,0
+M-IOM-006,Maghal | Maughold 2,Isle of Man,54.297719,-4.317214,,MAUGH/2,,,,,,,0
+M-IOM-007,Knoc y Doonee,Isle of Man,54.390192,-4.459517,500,ANDRS/1,,,Manx Museum,,,,2
+M-IOM-008,Ballavarkish,Isle of Man,54.378889,-4.373056,1068,BRIDE/1,,,,,,,1
+M-IOM-009,Speke Farm Keeill Stone,Isle of Man,54.139086,-4.559436,,,,,Manx Museum,,,,0
+S-ABD-001,Newton,Scotland,57.356667,-2.562778,,NEWT/1,,,,,,,2
+S-ABD-002,Logie Elphinstone,Scotland,57.3225,-2.494167,,LPHIN/1,,,,,,,0
+S-ABD-003,Formaston,Scotland,57.09,-2.758611,,FRMSN/1,,,,,,,2
+S-ABD-004,Brandsbutt,Scotland,57.291667,-2.4,,BRATT/1,,,,,,,1
+S-ABD-005,Afforsk,Scotland,57.277222,-2.506389,,MAINS/1,,,,,,,1
+S-ABD-006,Dyce,Scotland,57.229167,-2.208333,,DYCE/1,,,,,,,1
+S-ABD-007,Chapel of Garioch,Scotland,57.311944,-2.493333,,,,,,,,,0
+S-ANS-001,St Vigeans,Scotland,56.576944,-2.590278,,,,,St Vigeans Museum,,,,0
+S-ANS-002,Kirriemuir,Scotland,56.678056,-2.998056,,,,,"Meffan Museum and Gallery, Forfar",,,,0
+S-ANS-003,Monifieth,Scotland,56.480556,-2.821111,,,,,National Museums of Scotland,,,,0
+S-ARL-001,Gigha 1,Scotland,55.669722,-5.750278,506,GIGHA/1,,,,,wdcluster_0427,Q69386261,0
+S-ARL-002,Poltalloch,Scotland,56.1175,-5.507222,507,POLCH/1,,,National Museums of Scotland,,,,0
+S-ARL-003,Dún Ad | Dunadd,Scotland,56.085833,-5.478889,,DUNAD/1,,,,,,,0
+S-ARL-004,Lochgoilhead,Scotland,56.171667,-4.903333,,LOHED/1,,,,,,,1
+S-BUT-001,Blackwaterfoot 1,Scotland,55.526111,-5.353333,,BLFOO/1,,,,,,,0
+S-BUT-002,Inchmarnock 1,Scotland,55.789444,-5.153611,,x,,,Bute Museum,,,,0
+S-BUT-003,Inchmarnock 2,Scotland,55.789444,-5.153611,,x,,,National Museums of Scotland,,,,0
+S-BUT-004,Inchmarnock 3,Scotland,55.789444,-5.153611,,x,,,National Museums of Scotland,,,,0
+S-CAI-001,Ackergill,Scotland,58.478333,-3.119167,,ACKGL/1,,,National Museums of Scotland,,,,1
+S-DGY-001,Lochnaw,Scotland,54.912222,-5.137222,,LONAW/1,,,Dumfries Museum,,,,0
+S-FIF-001,Scoonie,Scotland,56.203611,-2.994444,,SCNIE/1,,,National Museums of Scotland,,,,1
+S-INV-001,Bac Mhic Connain,Scotland,57.659167,-7.419167,,,,,National Museums of Scotland,,,,0
+S-INV-002,Bornais,Scotland,57.245,-7.425,,,,,Museum nan Eilean in Steòrnabhagh | Stornoway,,,,0
+S-KCD-001,Auquhollie,Scotland,57.008056,-2.2925,,AUQUH/1,,,,,,,0
+S-KCD-002,Fordoun,Scotland,56.896111,-2.451111,,FORDN/1,,,,,,,0
+S-LKS-X01,Bishop Loch,Scotland,55.876389,-4.100278,,x,,,National Museums of Scotland,,,,0
+S-MOR-001,Dyke,Scotland,57.5975,-3.701111,,BROD/1,,,,,,,0
+S-MOR-002,Altyre,Scotland,57.578056,-3.608611,,ALTYR/1,,,,,,,0
+S-ORK-001,Burrian,Scotland,59.348056,-2.418889,,BURIN/1,,,National Museums of Scotland,,,,0
+S-ORK-002,Gurness,Scotland,59.123889,-3.081111,,,,,National Museums of Scotland,,,,0
+S-ORK-003,Birsay 1,Scotland,59.136389,-3.330278,,BIRSY/1,,,National Museums of Scotland,,,,0
+S-ORK-004,Birsay 2,Scotland,59.136389,-3.330278,,BIRSY/2,,,National Museums of Scotland,,,,0
+S-ORK-005,Buckquoy,Scotland,59.134167,-3.323333,,,,,Orkney Museum,,,,0
+S-ORK-006,Birsay 3,Scotland,59.136389,-3.330278,,BIRSY/3,,,National Museums of Scotland,,,,0
+S-ORK-007,Birsay 4,Scotland,59.136389,-3.330278,,,,,National Museums of Scotland,,,,0
+S-ORK-008,Pool 1,Scotland,59.225556,-2.668611,,POOL/1,,,Orkney Museum,,,,0
+S-ORK-X01,Pool 2,Scotland,59.225556,-2.668612,,,,,Orkney Museum,,,,0
+S-PER-001,Abernethy 1,Scotland,56.333056,-3.311667,,ABNTY/1,,,National Museums of Scotland,,,,0
+S-PER-002,Abernethy 2,Scotland,56.333056,-3.311668,,x,,,,,,,0
+S-PER-003,Inchyra,Scotland,56.376111,-3.3125,,INCHY/1,,,Perth Museum,,,,0
+S-PER-004,Old Kilmadock,Scotland,56.197222,-4.086111,,,,,,,,,0
+S-PER-X01,Duncroisk,Scotland,56.496944,-4.385556,,x,,,,,,,0
+S-SEL-X01,Selkirk,Scotland,55.538333,-2.836667,,,,,"Live Borders Library HQ, Selkirk",,,,0
+S-SHE-001,Bressay,Scotland,60.161944,-1.063056,,BREAY/1,,,National Museums of Scotland,,,,4
+S-SHE-002,Cunningsburgh 1,Scotland,60.033611,-1.224722,,CBURG/1,,,National Museums of Scotland,,,,0
+S-SHE-003,Cunningsburgh 2,Scotland,60.033611,-1.224722,,CBURG/2,,,National Museums of Scotland,,,,0
+S-SHE-004,St Ninian's Isle 1,Scotland,59.971389,-1.341667,,STNIN/1,,,National Museums of Scotland,,,,0
+S-SHE-005,St Ninian's Isle 2,Scotland,59.971389,-1.341667,,STNIN/2,,,National Museums of Scotland,,,,0
+S-SHE-006,St Ninian's Isle 3,Scotland,59.971389,-1.341667,,STNIN/3,,,National Museums of Scotland,,,,0
+S-SHE-007,Lunnasting,Scotland,60.366389,-1.167778,,LTING/1,,,National Museums of Scotland,,,,0
+S-SHE-008,Cunningsburgh 3,Scotland,60.033611,-1.224722,,CBURG/3,,,,,,,0
+S-SHE-009,Cunningsburgh 4,Scotland,60.033611,-1.224722,,CBURG/3,,,National Museums of Scotland,,,,0
+S-SHE-010,Whiteness,Scotland,60.1825,-1.304722,,WNESS/1,,,National Museums of Scotland,,,,0
+S-SHE-011,Bigton,Scotland,59.973333,-1.323333,,,,,Shetland Museum,,,,0
+S-SUT-001,Golspie,Scotland,57.975833,-3.968056,,GOLPI/1,,,Dunrobin Castle Museum,,,,0
+S-SUT-002,Latheron,Scotland,58.279722,-3.369167,,LARON/1,,,National Museums of Scotland,,,,2
+W-AGY-001,Llanfaelog,Wales,53.221267,-4.497758,,LFAEL/1,,,,,,,1
+W-BRE-001,Llanddeti,Wales,51.809722,-3.346017,336,PONTS/1,172420,,,Welsh place names:1.00,,,0
+W-BRE-002,Crai | Llywel,Wales,51.898694,-3.63355,329,CRAI/1,172364,,,Welsh place names:1.00,,,0
+W-BRE-003,Ystradfellte,Wales,51.809528,-3.553209,345,YFLL2/1,168540,,Cyfarthfa Museum,Welsh place names:1.00,,,1
+W-BRE-004,Crickhowell,Wales,51.866872,-3.126958,327,CRCKH/1,172260,,Brecknock Museum,Welsh place names:1.00,,,1
+W-BRE-005,Trallwng,Wales,51.955282,-3.505871,342,TRLLW/1,168536,,,Welsh place names:1.00,,,2
+W-BRE-006,Pentre Poeth | Llywel,Wales,51.925325,-3.625936,341,TCSTL/1,172362,,British Museum,Welsh place names:1.00,,,1
+W-BRE-007,Defynnog,Wales,51.939186,-3.565192,328,DFYNG/1,172263,,,Welsh place names:1.00,,,0
+W-BRE-008,Aberhydfer | Llywel,Wales,51.936972,-3.661125,,ABHYD/1,,,,Welsh place names:1.00,,,1
+W-BRE-X01,Bwlch,Wales,51.884656,-3.236375,338,-,,,,Welsh place names:1.00,,,0
+W-BRE-X02,Ystradfellte,Wales,51.860975,-3.563928,343,-,,,,Welsh place names:1.00,,,0
+W-BRE-X03,Llanfihangel Cwm Du,Wales,51.889481,-3.204539,334,LFIC1/1,168523,,,Welsh place names:1.00,,,0
+W-CAE-001,Dolbenmaen 2,Wales,52.983411,-4.261431,380,BRYNK/1,172332,,,,,,1
+W-CAE-X01,Treflys,Wales,52.918011,-4.181561,398,TFLYS/1,172404,,,,,,0
+W-CGN-001,Llanwenog,Wales,52.059325,-4.209772,353,RHDDL/1,168603,,National Museum Wales,Welsh place names:1.00,,,1
+W-CGN-X01,Llandysul,Wales,52.041192,-4.306581,349,LDYSL/1,168601,,,Welsh place names:1.00,,,0
+W-CMN-001,Llangeler,Wales,52.017378,-4.328672,372,LGELR/1,172316,,,,,,1
+W-CMN-002,Llanwinio,Wales,51.909456,-4.52955,378,LWNIO/1,168578,,"Carmarthen Museum, Abergwili",,,,2
+W-CMN-003,Llandawke,Wales,51.773147,-4.490461,368,LDWKE/1,172302,,,,,,1
+W-CMN-004,Eglwys Gymyn,Wales,51.766506,-4.565031,362,EGLWC/1,172269,,,,,,2
+W-CMN-005,Castell Dwyran,Wales,51.831406,-4.695,358,CDWYR/1,172256,,"Carmarthen Museum, Abergwili",,,,1
+W-CMN-X01,Henllan Amgoed,Wales,51.845989,-4.650858,364,HENLL/1,172356,,,,,,0
+W-CMN-X02,St Ishmaels,Wales,51.747706,-4.341428,376,SISHM/1,172326,,Llansaint Chapel (All Saints' Church),,,,0
+W-DEN-001,Clocaenog,Wales,53.067967,-3.415525,399,CLOCG/1,172239,,National Museum Wales,,,,2
+W-DEN-X01,Pentrefoelas,Wales,53.045853,-3.703458,401,PTREF/1,172363,,,,,,0
+W-GLA-001,Egylwys Nynnid | Margam,Wales,51.545939,-3.727606,409,KENFG/1,168558,,Margam Stones Museum,,,,3
+W-GLA-002,Loughor,Wales,51.664108,-4.06135,405,LOUGH/1,168570,,Swansea Museum,,,,1
+W-GLA-X01,Gelli-Gaer,Wales,51.715653,-3.249856,404,TIRPH/1,168547,,National Museum Wales,,,,1
+W-GLA-X02,Margam,Wales,51.585703,-3.689275,408,MARG1/1,168560,,Margam Stones Museum,,,,0
+W-PEM-001,St Dogmaels,Wales,52.080031,-4.680767,449,SDOGM/1,168595,,,,,,2
+W-PEM-002,Clydai 3,Wales,51.990242,-4.548961,431,CLYDI/3,168598,,,,,,1
+W-PEM-003,Llandeilo 2,Wales,51.908222,-4.764158,433,LDEIL/1,172305,,,,,,2
+W-PEM-004,Cilgerran,Wales,52.056211,-4.640536,428,CILGN/1,168526,,,,,,2
+W-PEM-005,Clydai 2,Wales,51.990242,-4.548961,430,CLYDI/1,168599,,,,,,2
+W-PEM-006,Bridell,Wales,52.046861,-4.660403,426,BRIDL/1,168596,,,,wdcluster_0431,Q69389329,3
+W-PEM-007,Caldy Island,Wales,51.634675,-4.689097,427,CALDY/1,168583,,,,,,1
+W-PEM-008,Nevern 2,Wales,52.025669,-4.794869,445,NEVRN/2,168591,,,,,,1
+W-PEM-009,St Dogwells,Wales,51.879097,-4.959414,450,SDOGW/1,172383,,,,,,1
+W-PEM-010,Steynton,Wales,51.73015,-5.016294,456,STNTN/1,172395,,,,,,1
+W-PEM-011,Brawdy 2,Wales,51.906567,-5.080456,423,BRAW1/1,172249,,,,,,1
+W-PEM-012,Brawdy 3,Wales,51.905744,-5.077492,422,BRAW3/1,172248,,,,,,1
+W-PEM-013,Jordanston,Wales,51.941556,-5.014458,432,JRDNS/1,172282,,,,,,1
+W-PEM-014,Nevern 1,Wales,52.025392,-4.795144,446,NEVRN/1,172349,,St. Brynach's Church,,,,2
+W-PEM-015,Llanfyrnach 2,Wales,51.931278,-4.657342,439,LFRN2/1,172312,,,,,,1
+W-PEM-016,Mathry,Wales,51.945956,-5.087522,442,MTHRY/1,172345,,,,,,0
+W-PEM-X01,Spittal,Wales,51.867944,-4.941539,402,SPTTL/1,172367,,,,,,0
+W-PEM-X02,Clydai 1,Wales,,,429,CLYDI/2,168600,,,,,,0

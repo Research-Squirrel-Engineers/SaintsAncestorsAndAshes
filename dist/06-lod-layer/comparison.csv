@@ -1,0 +1,25 @@
+case,measure,entities,of,share
+Ogham stones,any external record,473,504,0.9385
+Ogham stones,community knowledge graph,311,504,0.6171
+Ogham stones,OpenStreetMap,40,504,0.0794
+Ogham stones,place-name gazetteer,255,504,0.5060
+Ogham stones,heritage register,324,504,0.6429
+Ogham stones,domain hub,421,504,0.8353
+Ogham stones,media and 3D,5,504,0.0099
+Ogham stones,two or more kinds of hub,354,504,0.7024
+Holy wells,any external record,932,936,0.9957
+Holy wells,community knowledge graph,936,936,1.0000
+Holy wells,OpenStreetMap,654,936,0.6987
+Holy wells,place-name gazetteer,2,936,0.0021
+Holy wells,heritage register,859,936,0.9177
+Holy wells,domain hub,242,936,0.2585
+Holy wells,media and 3D,120,936,0.1282
+Holy wells,two or more kinds of hub,929,936,0.9925
+CI findspots,any external record,79,79,1.0000
+CI findspots,community knowledge graph,48,79,0.6076
+CI findspots,OpenStreetMap,36,79,0.4557
+CI findspots,place-name gazetteer,23,79,0.2911
+CI findspots,heritage register,0,79,0.0000
+CI findspots,domain hub,19,79,0.2405
+CI findspots,media and 3D,1,79,0.0127
+CI findspots,two or more kinds of hub,31,79,0.3924

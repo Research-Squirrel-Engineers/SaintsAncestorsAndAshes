@@ -1,0 +1,13 @@
+# Holy wells (Q1371047) in Ireland and the United Kingdom and every external
+# identifier they carry (OSM, SMR, Wiki Loves Monuments, ...).
+# Same population as holywells/holywells-by-patron.json, but without
+# requiring a patron or a coordinate. Feeds layer (b) of the Saints case (S4).
+SELECT ?well ?wellLabel ?prop ?propLabel ?value WHERE {
+  VALUES ?country { wd:Q27 wd:Q145 }
+  ?well wdt:P31 wd:Q1371047 ;
+        wdt:P17 ?country .
+  ?well ?direct ?value .
+  ?prop wikibase:directClaim ?direct ;
+        wikibase:propertyType wikibase:ExternalId .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

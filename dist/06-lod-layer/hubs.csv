@@ -1,0 +1,24 @@
+case,hub,kind,entities,of,share
+Ogham stones,CISP,domain hub,410,504,0.8135
+Ogham stones,Logainm,place-name gazetteer,242,504,0.4802
+Ogham stones,OpenStreetMap,OpenStreetMap,40,504,0.0794
+Ogham stones,SMR (Ireland),heritage register,324,504,0.6429
+Ogham stones,Sketchfab (3D),media and 3D,5,504,0.0099
+Ogham stones,Trismegistos,domain hub,248,504,0.4921
+Ogham stones,Welsh place names,place-name gazetteer,13,504,0.0258
+Ogham stones,Wikidata,community knowledge graph,311,504,0.6171
+Ogham stones,Wikidata (place),place-name gazetteer,1,504,0.0020
+Holy wells,Holy Well Semantic Concept,domain hub,242,936,0.2585
+Holy wells,Logainm,place-name gazetteer,2,936,0.0021
+Holy wells,NIAH (Ireland),heritage register,17,936,0.0182
+Holy wells,OpenStreetMap,OpenStreetMap,654,936,0.6987
+Holy wells,SMR (Ireland),heritage register,757,936,0.8088
+Holy wells,Wiki Loves Monuments,heritage register,143,936,0.1528
+Holy wells,Wikimedia Commons,media and 3D,120,936,0.1282
+Holy wells,heritage lists (UK),heritage register,101,936,0.1079
+Holy wells,other identifiers,other,67,936,0.0716
+CI findspots,GeoNames,place-name gazetteer,23,79,0.2911
+CI findspots,OpenStreetMap,OpenStreetMap,36,79,0.4557
+CI findspots,Wikidata,community knowledge graph,48,79,0.6076
+CI findspots,Wikipedia,media and 3D,1,79,0.0127
+CI findspots,fuzzy-sl,domain hub,19,79,0.2405

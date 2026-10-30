@@ -1,0 +1,11 @@
+# Ogham stones in Wikidata and every URL-valued statement they carry
+# (described at URL, exact match, full work available at ...). Generic over
+# the property type, so no property is hard-coded.
+# Feeds the LOD layer (b) of the Ancestors case (step S3).
+SELECT ?item ?prop ?propLabel ?value WHERE {
+  ?item wdt:P31 wd:Q2016147 .
+  ?item ?direct ?value .
+  ?prop wikibase:directClaim ?direct ;
+        wikibase:propertyType wikibase:Url .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

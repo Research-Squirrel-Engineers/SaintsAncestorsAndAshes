@@ -1,0 +1,80 @@
+node,id,origin,label,lat,lon,certainty,spatial_types,category,archaeological,distance_km,publications,lod_links
+cisite_1,1,csv,Acerra Sink,40.9489,14.3624,medium,Sink,other landform,False,23.0,1,1
+cisite_2,2,csv,Acqua Fidia,40.9285,14.6983,medium,UnknownCategory,unknown category,False,48.2,1,1
+cisite_3,3,csv,Capezzano,40.7119,14.768,medium,InhabitedPlace,inhabited place,False,54.4,1,1
+cisite_4,4,csv,Casola,40.6993,14.5259,medium,InhabitedPlace,inhabited place,False,35.5,1,1
+cisite_5,5,csv,Castelcivita Cave,40.4956,15.2092,high,Cave,cave,False,97.4,2,3
+cisite_6,6,csv,Copecchia,40.7198,14.7662,medium,UnknownCategory,unknown category,False,54.1,1,2
+cisite_7,7,csv,Cuma,40.8381,14.056,medium,UnknownCategory,unknown category,False,7.2,1,1
+cisite_8,8,csv,Gulf of Naples,40.7192,14.2559,medium,Bight,other landform,False,15.5,1,1
+cisite_9,9,csv,Lago Patria (Naples),40.926,14.0366,medium,InhabitedPlace,inhabited place,False,14.0,2,1
+cisite_10,10,csv,Marina di Cassano (Naples),40.6385,14.3998,medium,Bight,other landform,False,30.3,1,2
+cisite_11,11,csv,Massaquano (Naples),40.6619,14.4476,medium,InhabitedPlace,inhabited place,False,31.8,1,1
+cisite_12,12,csv,Monte Echia (Naples),40.8312,14.2479,medium,Mountain,other landform,False,9.1,1,1
+cisite_13,13,csv,Lago Grande di Monticchio,40.9315,15.6057,medium,Lake,lake or maar,False,123.7,1,1
+cisite_14,14,csv,Monticchio (Bagni),40.949,15.5699,medium,InhabitedPlace,inhabited place,False,120.9,1,1
+cisite_15,15,csv,Monticchio Lakes,40.9319,15.6098,high,Lake,lake or maar,False,124.1,2,1
+cisite_16,16,csv,Murge Plateau,41.0047,16.2833,low,Plateau,other landform,False,181.1,1,1
+cisite_17,17,csv,Naples,40.8537,14.208,medium,InhabitedPlace,inhabited place,False,6.4,1,1
+cisite_18,18,csv,Pacognano,40.6484,14.4347,medium,InhabitedPlace,inhabited place,False,31.8,2,1
+cisite_19,19,csv,Paglicci Cave,41.6541,15.615,medium,Cave;ArchaeologicalSite,archaeological site,True,153.8,1,3
+cisite_20,20,csv,Pellezzano,40.7249,14.7546,medium,InhabitedPlace,inhabited place,False,53.0,1,1
+cisite_21,21,csv,Penta,40.7615,14.7979,medium,InhabitedPlace,inhabited place,False,55.9,1,1
+cisite_22,22,csv,Phlegraean Fields,40.8275,14.1402,medium,Supervolcano,other landform,False,0.0,2,3
+cisite_23,23,csv,Ponti Rossi (Naples),40.8731,14.2594,medium,UnknownCategory,unknown category,False,11.2,3,1
+cisite_24,24,csv,Pozzuoli Bay,40.8215,14.089,medium,Bight,other landform,False,4.4,1,2
+cisite_25,25,csv,Pucara,40.6783,14.6459,medium,UnknownCategory,unknown category,False,45.7,1,1
+cisite_26,26,csv,Punta Marmolite,40.8888,14.1489,medium,UnknownCategory,unknown category,False,6.9,1,1
+cisite_27,27,csv,Sant‘ Agata dei due Golfi,40.607,14.3733,medium,InhabitedPlace,inhabited place,False,31.4,1,2
+cisite_28,28,csv,Sant‘ Angelo a Scala,40.9746,14.7402,medium,InhabitedPlace,inhabited place,False,53.0,1,2
+cisite_29,29,csv,San Marco,41.0369,14.3381,medium,InhabitedPlace,inhabited place,False,28.6,1,1
+cisite_30,30,csv,San Nicola La Strada,41.0518,14.3313,medium,InhabitedPlace,inhabited place,False,29.7,1,1
+cisite_31,31,csv,Scarafea Area,40.9346,14.156,dubious,UnknownCategory,unknown category,False,12.0,1,2
+cisite_32,32,csv,Serino,40.8567,14.8706,medium,InhabitedPlace,inhabited place,False,61.5,3,1
+cisite_33,33,csv,Starza,41.0075,14.7567,medium,InhabitedPlace,inhabited place,False,55.5,1,1
+cisite_34,34,csv,Torregaveta,40.8111,14.0477,medium,InhabitedPlace,inhabited place,False,8.0,1,1
+cisite_35,35,csv,Trefola,40.8926,14.1486,medium,InhabitedPlace,inhabited place,False,7.3,1,1
+cisite_36,36,csv,Tufara,41.0577,14.7069,medium,InhabitedPlace,inhabited place,False,54.0,1,1
+cisite_37,37,csv,Tufarella Area,40.7616,14.7906,dubious,UnknownCategory,unknown category,False,55.2,1,2
+cisite_38,38,csv,Vico Equense,40.6622,14.4273,medium,InhabitedPlace,inhabited place,False,30.4,1,1
+cisite_39,39,csv,Villa di Briano (Naples),41.0,14.1607,medium,InhabitedPlace,inhabited place,False,19.3,1,1
+cisite_40,40,csv,Voscone Area,40.8005,14.5194,dubious,UnknownCategory,unknown category,False,32.1,1,2
+cisite_41,41,csv,Lake Ohrid (Albania),40.9874,20.6749,high,Lake,lake or maar,False,549.3,2,2
+cisite_42,42,csv,Kozarnika Cave (Bulgaria),43.6519,22.7024,high,Cave,cave,False,771.2,1,3
+cisite_43,43,csv,Temnata Cave (Bulgaria),43.0892,23.3848,high,Cave,cave,False,804.2,4,4
+cisite_44,44,csv,Toplitsa Cave (Bulgaria),43.1907,24.0053,high,Cave;ArchaeologicalSite,archaeological site,True,855.8,1,3
+cisite_45,45,csv,Franchthi Cave (Greece),37.4226,23.1311,high,Cave;ArchaeologicalSite,archaeological site,True,862.5,1,3
+cisite_46,46,csv,Klissoura (Greece),40.5361,21.4672,medium,UnknownCategory,unknown category,False,618.5,1,1
+cisite_47,47,csv,Tenaghi Philippon (Greece),40.9794,24.2274,low,UnknownCategory,unknown category,False,847.5,2,1
+cisite_48,48,csv,Susak Island (Greece),44.5104,14.2921,medium,Island,other landform,False,409.7,1,2
+cisite_49,49,csv,Lake Ohrid (Macedonia),41.0467,20.7409,high,Lake,lake or maar,False,554.9,2,2
+cisite_50,50,csv,Golema Pesht Cave near Zdunje (Macedonia),41.8117,21.1617,dubious,Cave;ArchaeologicalSite,archaeological site,True,596.3,1,3
+cisite_51,51,csv,Crvena Stiljena (Montenegro),42.779,18.4815,high,Cave;ArchaeologicalSite,archaeological site,True,420.1,1,3
+cisite_52,52,csv,Urluia (Romania),44.0947,27.9021,medium,InhabitedPlace,inhabited place,False,1184.2,4,3
+cisite_53,53,csv,Dobrogea (Romania),43.9996,28.2329,representative,Plateau,other landform,False,1207.7,2,1
+cisite_54,54,csv,Vlasca (Romania),44.3921,27.8491,medium,UnknownCategory,unknown category,False,1188.1,1,1
+cisite_55,55,csv,Lower Danube Basin (Romania),43.655,25.292,low,Plateau,other landform,False,969.4,1,1
+cisite_56,56,csv,Bratul Borcea (Romania),44.1891,27.3271,dubious,UnknownCategory,unknown category,False,1142.2,1,1
+cisite_57,57,csv,Balta Alba (Romania),45.3037,27.2478,medium,UnknownCategory,unknown category,False,1173.5,1,1
+cisite_58,58,csv,Russian Plane,55.0,45.0,low,Plateau,other landform,False,2752.5,1,1
+cisite_59,59,csv,Kostenki-Borshchevo (Russia),51.3858,39.0517,representative,ArchaeologicalSite,archaeological site,True,2234.3,2,1
+cisite_60,60,csv,Kostenki (Russia),51.3858,39.0473,medium,InhabitedPlace,inhabited place,False,2234.0,1,1
+cisite_61,61,csv,Kisiljevo (Serbia),44.7397,21.3912,medium,UnknownCategory,unknown category,False,734.0,1,1
+cisite_62,62,csv,Tabula Traiana (Serbia),44.6568,22.3094,high,ArchaeologicalSite,archaeological site,True,790.8,2,2
+cisite_63,63,csv,Titel Pleateau (Serbia),45.2034,20.3026,low,ArchaeologicalSite,archaeological site,True,698.0,1,1
+cisite_64,64,csv,Southern Ukraine,47.43,31.8,low,ModernRegion,other landform,False,1584.2,1,1
+cisite_65,65,csv,Haua-Fteah (Libya),32.9002,22.0516,high,Cave;ArchaeologicalSite,archaeological site,True,1126.9,1,3
+cisite_101,101,csv,Orlovat,45.2417,20.5809,medium,UnknownCategory,unknown category,False,717.2,2,1
+cisite_102,102,csv,Stalać,43.6728,21.4058,medium,UnknownCategory,unknown category,False,676.2,2,1
+cisite_103,103,csv,Dunaszekcső,46.0874,18.7587,medium,UnknownCategory,unknown category,False,693.3,2,1
+cisite_104,104,csv,Batajnica,44.9032,20.2802,medium,UnknownCategory,unknown category,False,674.8,3,1
+cisite_105,105,csv,Rasova,44.2462,27.9347,medium,UnknownCategory,unknown category,False,1190.7,2,1
+cisite_106,106,csv,Lake Prespa,40.9167,21.0,medium,Lake,lake or maar,False,576.7,2,1
+cisite_201,201,csv,Auel Maar AU3,50.2825,6.5951,high,Maar,lake or maar,False,1202.9,1,2
+cisite_202,202,csv,Auel Maar AU4,50.2821,6.5949,high,Maar,lake or maar,False,1202.9,1,2
+cisite_203,203,csv,Dehner Maar DE3,50.2928,6.5066,high,Maar,lake or maar,False,1207.2,1,2
+fslwd_Q134,10134,fuzzy-sl,Dead Sea Deep Drilling Project 5017-1A,31.4931,35.4752,medium,LakeSea,lake or maar,False,2170.2,1,3
+fslwd_Q136,10136,fuzzy-sl,Pompeii Casa della Fontana Piccola,40.7514285,14.483645194,not stated,ArchaeologicalSite,archaeological site,True,30.1,1,3
+fslwd_Q137,10137,fuzzy-sl,Pompeii Via dell’Abbondanza,40.75038655,14.488961261,not stated,ArchaeologicalSite,archaeological site,True,30.6,1,3
+fslwd_Q138,10138,fuzzy-sl,Pompeii Casa della Caccia Antica,40.75,14.49,not stated,ArchaeologicalSite,archaeological site,True,30.7,1,3
+fslwd_Q139,10139,fuzzy-sl,Fumane Cave,45.585555555,10.898888888,not stated,ArchaeologicalSite,archaeological site,True,590.6,0,3

@@ -1,0 +1,13 @@
+case,recorded as,value,count
+Ancestors,AMT weight,1.00,96
+Ancestors,AMT weight,0.90,20
+Ashes,match type of the link,skos:closeMatch,51
+Ashes,match type of the link,fsl:spatialCloseMatch,14
+Ashes,match type of the link,fsl:partlyMatch,5
+Ashes,match type of the link,fsl:dubiousMatch,4
+Ashes,certainty of the coordinate,high,14
+Ashes,certainty of the coordinate,medium,48
+Ashes,certainty of the coordinate,low,6
+Ashes,certainty of the coordinate,representative,2
+Ashes,certainty of the coordinate,dubious,5
+Ashes,certainty of the coordinate,not stated,4

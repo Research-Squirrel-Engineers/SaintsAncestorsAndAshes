@@ -1,0 +1,7 @@
+# Labels the Wikidata label service returned as a bare QID in the harvest of
+# 2026-09-29 (no English label at the time). Each entry names where the label
+# was read.
+labels:
+  Q126875543:
+    label: "Pádraig Ó Dálaigh: The holy wells of County Kilkenny II"
+    read_from: "Special:EntityData/Q126875543.json of 2026-09-28, copied in florianthiery/hdoku26-visuals data/raw/wikidata/ (commit 5b21f35)"

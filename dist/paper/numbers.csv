@@ -1,0 +1,233 @@
+key,value,note,source
+03:corpus_ciic,349,69.2 %,dist/03-ancestors/metrics.csv
+03:corpus_cisp,410,81.3 %,dist/03-ancestors/metrics.csv
+03:corpus_smr_ireland,324,64.3 %,dist/03-ancestors/metrics.csv
+03:corpus_trismegistos,248,49.2 %,dist/03-ancestors/metrics.csv
+03:custody_distance_median_km,110.4,"findspot to institution, 182 stones",dist/03-ancestors/metrics.csv
+03:custody_over_100_km,94,51.6 %,dist/03-ancestors/metrics.csv
+03:gazetteer_logainm,242,48.0 %; weight < 1: 0,dist/03-ancestors/metrics.csv
+03:gazetteer_welsh_place_names,13,2.6 %; weight < 1: 0,dist/03-ancestors/metrics.csv
+03:gazetteer_wikidata_place,1,0.2 %; weight < 1: 0,dist/03-ancestors/metrics.csv
+03:institutions_in_wikidata,29,78.4 %; weight < 1: 27,dist/03-ancestors/metrics.csv
+03:join_conflicts,3,stone matches more than one cluster,dist/03-ancestors/metrics.csv
+03:kin_groups,33,17 with a normalised name,dist/03-ancestors/metrics.csv
+03:kinship_components,208,stones and the persons they name,dist/03-ancestors/metrics.csv
+03:kinship_components_across_stones,8,21 stones joined by a shared name or kin group,dist/03-ancestors/metrics.csv
+03:kinship_relations,son of 89; of the kin of 13; descendant of 9; client of 3; here lies 1; unstated 1,first relation of each formula,dist/03-ancestors/metrics.csv
+03:kinship_statements,116,reified statements in persons.crm.ttl,dist/03-ancestors/metrics.csv
+03:kinship_statements_weight_below_1,20,AMT weight 0.9: reading uncertain,dist/03-ancestors/metrics.csv
+03:kinship_stones_across,21,stones in the components that span more than one stone,dist/03-ancestors/metrics.csv
+03:kinship_stones_alone,200,stones whose component holds no other stone,dist/03-ancestors/metrics.csv
+03:lod_profiles_pooled_stones,29,stones in record sets of fewer than 5 stones (pooled in the figure),dist/03-ancestors/metrics.csv
+03:lod_stones_no_record,31,"no corpus identifier, gazetteer or Wikidata record",dist/03-ancestors/metrics.csv
+03:names_in_name_index,28,13.1 % of the named persons; index has 538,dist/03-ancestors/metrics.csv
+03:names_on_several_stones,12,BIVODON 2; COLOMAGNI 2; COMGGANN 2; CORIBIRI 2; LUG 2; LUGUDECCAS 2; LUGUQRITTI 2; MAQIDECCEDDAS 2; MAQITRENI 4; QRITTI 2; kin of LUG 2; kin of NETASEGAMONAS 2,dist/03-ancestors/metrics.csv
+03:persons_anonymous,144,no nym reference in the edition; one node per stone,dist/03-ancestors/metrics.csv
+03:persons_named,214,"normalised name (nym reference), one node per name",dist/03-ancestors/metrics.csv
+03:stones,504,OG(H)AM EpiDoc corpus via the crosswalk,dist/03-ancestors/metrics.csv
+03:stones_by_region,Ireland 375; Wales 47; Scotland 56; England 17; Isle of Man 9,,dist/03-ancestors/metrics.csv
+03:stones_in_institutions,182,37 institutions,dist/03-ancestors/metrics.csv
+03:stones_joined_by_region,Ireland 306/375; Wales 1/47; Scotland 1/56; England 1/17; Isle of Man 2/9,,dist/03-ancestors/metrics.csv
+03:stones_joined_to_wikidata,311,61.7 %; by CIIC or CISP in the label,dist/03-ancestors/metrics.csv
+03:stones_with_coordinate,484,96.0 %,dist/03-ancestors/metrics.csv
+03:stones_with_gazetteer,255,50.6 %,dist/03-ancestors/metrics.csv
+03:stones_with_kinship,107,21.2 %,dist/03-ancestors/metrics.csv
+03:stones_without_lod_link,142,28.2 %; neither gazetteer nor Wikidata,dist/03-ancestors/metrics.csv
+03:top_institutions,National Museum of Ireland 64; University College Cork 28; National Museums of Scotland 25,stones,dist/03-ancestors/metrics.csv
+03:wikidata_cluster_compositions,CISP+Macalister (CIIC)+Research Squirrel 177; CISP+Macalister (CIIC)+Ogham in 3D+Research Squirrel 143; CISP+Research Squirrel 42; Ogham in 3D+Research Squirrel 13,most frequent,dist/03-ancestors/metrics.csv
+03:wikidata_clusters_joined,311,71.2 % of all clusters and single items,dist/03-ancestors/metrics.csv
+03:wikidata_clusters_openstreetmap,58,13.3 %,dist/03-ancestors/metrics.csv
+03:wikidata_clusters_sketchfab_3d,10,2.3 %,dist/03-ancestors/metrics.csv
+03:wikidata_clusters_smr_ireland,43,9.8 %,dist/03-ancestors/metrics.csv
+03:wikidata_clusters_with_external_id,79,18.1 %,dist/03-ancestors/metrics.csv
+03:wikidata_concept_clusters,384,joined by P1382; median 3 items,dist/03-ancestors/metrics.csv
+03:wikidata_items,1297,instance of ogham stone (Q2016147),dist/03-ancestors/metrics.csv
+03:wikidata_items_by_project,CISP 368; Macalister (CIIC) 323; Ogham in 3D 162; Research Squirrel 385; single item 58,from the label; 'single item': no project in the label,dist/03-ancestors/metrics.csv
+03:wikidata_single_items,53,not in any cluster,dist/03-ancestors/metrics.csv
+04:concept_with_coordinate,212,87.6 % (JOHD 2026: ~88 % of 255),dist/04-saints/metrics.csv
+04:concept_with_osm,154,63.6 %,dist/04-saints/metrics.csv
+04:lod_namesakes_gnd,36,33.0 %,dist/04-saints/metrics.csv
+04:lod_namesakes_library,37,33.9 %,dist/04-saints/metrics.csv
+04:lod_namesakes_viaf,44,40.4 %,dist/04-saints/metrics.csv
+04:lod_namesakes_without_authority,65,"59.6 % (none of GND, VIAF, LoC)",dist/04-saints/metrics.csv
+04:lod_well_records,1999,external records of the wells,dist/04-saints/metrics.csv
+04:lod_wells_heritage_lists,101,10.8 %,dist/04-saints/metrics.csv
+04:lod_wells_logainm,2,0.2 %,dist/04-saints/metrics.csv
+04:lod_wells_niah,17,1.8 %,dist/04-saints/metrics.csv
+04:lod_wells_openstreetmap,654,69.9 %,dist/04-saints/metrics.csv
+04:lod_wells_osm_and_smr,608,65.0 %,dist/04-saints/metrics.csv
+04:lod_wells_other_identifiers,67,7.2 %,dist/04-saints/metrics.csv
+04:lod_wells_pooled_profiles,30,wells whose set of records is held by fewer than 5 wells (pooled as 'other sets'),dist/04-saints/metrics.csv
+04:lod_wells_smr,757,80.9 %,dist/04-saints/metrics.csv
+04:lod_wells_wiki_loves_monuments,143,15.3 %,dist/04-saints/metrics.csv
+04:lod_wells_wikimedia_commons,120,12.8 %,dist/04-saints/metrics.csv
+04:lod_wells_without_external_record,37,4.0 %,dist/04-saints/metrics.csv
+04:map_wells_ireland,650,wells with a namesake inside the map of Ireland (figure panel A),dist/04-saints/metrics.csv
+04:map_wells_kilkenny,128,wells with a namesake inside the Kilkenny inset (figure panel B),dist/04-saints/metrics.csv
+04:mst_edges,561,edges of the per-namesake spanning trees,dist/04-saints/metrics.csv
+04:namesakes,109,distinct P138 values of the patron network,dist/04-saints/metrics.csv
+04:namesakes_1_wells,63,1 well; in GND: 17 (27.0 %),dist/04-saints/metrics.csv
+04:namesakes_20_plus_wells,5,≥ 20 wells; in GND: 5 (100.0 %),dist/04-saints/metrics.csv
+04:namesakes_2_4_wells,27,2–4 wells; in GND: 8 (29.6 %),dist/04-saints/metrics.csv
+04:namesakes_5_19_wells,14,5–19 wells; in GND: 6 (42.9 %),dist/04-saints/metrics.csv
+04:namesakes_female,40,,dist/04-saints/metrics.csv
+04:namesakes_male,69,,dist/04-saints/metrics.csv
+04:namesakes_persons,108,"typed as human, biblical figure, disputed human ...",dist/04-saints/metrics.csv
+04:source_projection_components,3,largest 181,dist/04-saints/metrics.csv
+04:source_projection_drawn,24,sources describing >= 10 wells (drawn in the figure),dist/04-saints/metrics.csv
+04:source_projection_edges,2455,pairs of sources sharing >= 1 well,dist/04-saints/metrics.csv
+04:source_projection_not_drawn,159,sources describing fewer than 10 wells (not drawn),dist/04-saints/metrics.csv
+04:source_statements,3294,well-source edges,dist/04-saints/metrics.csv
+04:sources,183,distinct P1343 values,dist/04-saints/metrics.csv
+04:sources_redirected,0,"P1343 values that are redirects, merged into their target",dist/04-saints/metrics.csv
+04:sources_single_well,98,,dist/04-saints/metrics.csv
+04:spread_km_Q165479,75.1,Saint Patrick,dist/04-saints/metrics.csv
+04:spread_km_Q345,107.8,Mary,dist/04-saints/metrics.csv
+04:spread_km_Q80979,108.8,Brigid of Kildare,dist/04-saints/metrics.csv
+04:spread_median_km_3plus,62.8,"radius of gyration, 30 namesakes with >= 3 wells",dist/04-saints/metrics.csv
+04:top_namesakes,Mary 210; Brigid of Kildare 157; Saint Patrick 25; Catherine of Alexandria 23; Saint Anne 20,wells,dist/04-saints/metrics.csv
+04:top_sources,Historic Environment Viewer (Ireland) 585; 6 Inch First Edition Ordnance Survey map of Ireland 495; 2nd edition Ordnance Survey map of Ireland 422,wells,dist/04-saints/metrics.csv
+04:well_namesake_pairs,670,well-namesake pairs; a well with two namesakes counts twice,dist/04-saints/metrics.csv
+04:wells,936,holy wells in Ireland and the UK found in any of the snapshots,dist/04-saints/metrics.csv
+04:wells_female_namesake,511,,dist/04-saints/metrics.csv
+04:wells_in_semantic_concept,242,Holy Well Semantic Concept (Q126443332),dist/04-saints/metrics.csv
+04:wells_in_uk,7,of the patron network,dist/04-saints/metrics.csv
+04:wells_male_namesake,151,,dist/04-saints/metrics.csv
+04:wells_with_coordinate,744,79.5 %,dist/04-saints/metrics.csv
+04:wells_with_namesake,651,with coordinate and P138 (patron network),dist/04-saints/metrics.csv
+04:wells_with_source,728,77.8 %,dist/04-saints/metrics.csv
+04:wells_with_two_or_more_namesakes,19,,dist/04-saints/metrics.csv
+05:archaeological_sites,13,spatial type includes fsl:ArchaeologicalSite,dist/05-ashes/metrics.csv
+05:archaeological_sites_csv,9,of them in the CSV,dist/05-ashes/metrics.csv
+05:certainty_dubious,5,findspots,dist/05-ashes/metrics.csv
+05:certainty_high,14,findspots,dist/05-ashes/metrics.csv
+05:certainty_low,6,findspots,dist/05-ashes/metrics.csv
+05:certainty_medium,48,findspots,dist/05-ashes/metrics.csv
+05:certainty_not stated,4,findspots,dist/05-ashes/metrics.csv
+05:certainty_representative,2,findspots,dist/05-ashes/metrics.csv
+05:citations,106,findspot-publication edges,dist/05-ashes/metrics.csv
+05:distance_max_km,2752.5,Russian Plane,dist/05-ashes/metrics.csv
+05:distance_median_km,123.9,"to Phlegraean Fields, the source itself excluded",dist/05-ashes/metrics.csv
+05:findspots,79,all findspots: the CSV plus those recorded only in fuzzy-sl,dist/05-ashes/metrics.csv
+05:findspots_csv,74,rows of ci_findspots.csv,dist/05-ashes/metrics.csv
+05:findspots_fuzzysl_only,5,CI items of fuzzy-sl without a CSV row,dist/05-ashes/metrics.csv
+05:findspots_with_one_publication,57,,dist/05-ashes/metrics.csv
+05:findspots_within_60km,35,inset of the map,dist/05-ashes/metrics.csv
+05:fuzzysl_certainty_agrees,14,matched findspots whose CSV certainty equals a fuzzy-sl certainty level,dist/05-ashes/metrics.csv
+05:fuzzysl_ci_members,19,fuzzy-sl items 'part of' Campanian Ignimbrite Findspots,dist/05-ashes/metrics.csv
+05:fuzzysl_conflicts,1,identifier claims lost to a better-matching findspot (fuzzysl_conflicts.csv),dist/05-ashes/metrics.csv
+05:fuzzysl_coordinates,14,coordinate statements of the matched items,dist/05-ashes/metrics.csv
+05:fuzzysl_harvested,yes,data/raw/wikidata/fuzzysl_links.json present,dist/05-ashes/metrics.csv
+05:fuzzysl_items,125,"items in the fuzzy-sl snapshots (links, coordinates, statements)",dist/05-ashes/metrics.csv
+05:fuzzysl_matched_by_identifier,3,findspots matched through a shared Wikidata/OSM/GeoNames resource,dist/05-ashes/metrics.csv
+05:fuzzysl_matched_by_label,11,findspots matched through the normalised label,dist/05-ashes/metrics.csv
+05:fuzzysl_new_resources,1,external links the fuzzy-sl items add beyond the CSV,dist/05-ashes/metrics.csv
+05:fuzzysl_only_missing,0,listed in ci_fuzzysl_only.yaml but without a coordinate in the snapshot: ,dist/05-ashes/metrics.csv
+05:fuzzysl_only_source,fuzzy-sl statement 'part of Campanian Ignimbrite Findspots',how the fuzzy-sl-only findspots were chosen,dist/05-ashes/metrics.csv
+05:fuzzysl_statements_harvested,yes,"data/raw/wikidata/fuzzysl_statements.json present (literature, spatial type)",dist/05-ashes/metrics.csv
+05:lod_findspots_linked,79,,dist/05-ashes/metrics.csv
+05:lod_geonames_findspots,23,29.1 % of all findspots,dist/05-ashes/metrics.csv
+05:lod_geonames_findspots_csv,23,31.1 % of the CSV findspots (comparable with JOHD 2026),dist/05-ashes/metrics.csv
+05:lod_links,108,"external resources (CSV relatedto, fuzzy-sl 'related to')",dist/05-ashes/metrics.csv
+05:lod_links_incl_fuzzysl,127,links drawn in the flow figure: external resources plus links to fuzzy-sl items,dist/05-ashes/metrics.csv
+05:lod_links_per_findspot,1.37,mean,dist/05-ashes/metrics.csv
+05:lod_openstreetmap_archaeological,11,84.6 % of all archaeological sites,dist/05-ashes/metrics.csv
+05:lod_openstreetmap_archaeological_csv,7,77.8 % of the CSV archaeological sites (comparable with JOHD 2026),dist/05-ashes/metrics.csv
+05:lod_openstreetmap_findspots,36,45.6 % of all findspots,dist/05-ashes/metrics.csv
+05:lod_openstreetmap_findspots_csv,31,41.9 % of the CSV findspots (comparable with JOHD 2026),dist/05-ashes/metrics.csv
+05:lod_wikidata_archaeological,12,92.3 % of all archaeological sites,dist/05-ashes/metrics.csv
+05:lod_wikidata_archaeological_csv,8,88.9 % of the CSV archaeological sites (comparable with JOHD 2026),dist/05-ashes/metrics.csv
+05:lod_wikidata_findspots,48,60.8 % of all findspots,dist/05-ashes/metrics.csv
+05:lod_wikidata_findspots_csv,43,58.1 % of the CSV findspots (comparable with JOHD 2026),dist/05-ashes/metrics.csv
+05:lod_wikipedia_findspots,1,1.3 % of all findspots,dist/05-ashes/metrics.csv
+05:lod_wikipedia_findspots_csv,1,1.4 % of the CSV findspots (comparable with JOHD 2026),dist/05-ashes/metrics.csv
+05:match_closeMatch,51,CSV findspots (one type per row),dist/05-ashes/metrics.csv
+05:match_dubiousMatch,4,CSV findspots (one type per row),dist/05-ashes/metrics.csv
+05:match_not_close,23,31.1 % of the CSV findspots carry a weaker or doubtful match,dist/05-ashes/metrics.csv
+05:match_partlyMatch,5,CSV findspots (one type per row),dist/05-ashes/metrics.csv
+05:match_spatialCloseMatch,14,CSV findspots (one type per row),dist/05-ashes/metrics.csv
+05:projection_components,11,connected components of the publication projection,dist/05-ashes/metrics.csv
+05:projection_edges,32,pairs of publications sharing >= 1 findspot,dist/05-ashes/metrics.csv
+05:projection_isolates,9,publications sharing no findspot,dist/05-ashes/metrics.csv
+05:projection_largest_component,23,publications,dist/05-ashes/metrics.csv
+05:publications,34,distinct after normalising the literature,dist/05-ashes/metrics.csv
+05:suspicious_shared_links,1,one external resource linked from findspots > 100 km apart (suspicious_links.csv),dist/05-ashes/metrics.csv
+06:ci_findspots_agents,34,publications,dist/06-lod-layer/metrics.csv
+06:ci_findspots_agents_with_authority,0,0.0 % (no authority link recorded),dist/06-lod-layer/metrics.csv
+06:ci_findspots_any_external_record,79,100.0 % of 79,dist/06-lod-layer/metrics.csv
+06:ci_findspots_community_knowledge_graph,48,60.8 % of 79,dist/06-lod-layer/metrics.csv
+06:ci_findspots_domain_hub,19,24.1 % of 79,dist/06-lod-layer/metrics.csv
+06:ci_findspots_entities,79,home: CI findspot table + fuzzy-sl Wikibase,dist/06-lod-layer/metrics.csv
+06:ci_findspots_heritage_register,0,0.0 % of 79,dist/06-lod-layer/metrics.csv
+06:ci_findspots_media_and_3d,1,1.3 % of 79,dist/06-lod-layer/metrics.csv
+06:ci_findspots_openstreetmap,36,45.6 % of 79,dist/06-lod-layer/metrics.csv
+06:ci_findspots_place_name_gazetteer,23,29.1 % of 79,dist/06-lod-layer/metrics.csv
+06:ci_findspots_two_or_more_kinds_of_hub,31,39.2 % of 79,dist/06-lod-layer/metrics.csv
+06:ci_findspots_uncertainty,23,match type per link (SKOS and fuzzy-sl); 23 of 74 findspots weaker than closeMatch; certainty level per coordinate,dist/06-lod-layer/metrics.csv
+06:ci_findspots_wikidata_items_per_entity,1,,dist/06-lod-layer/metrics.csv
+06:holy_wells_agents,109,namesakes (P138),dist/06-lod-layer/metrics.csv
+06:holy_wells_agents_with_authority,44,"40.4 % (GND, VIAF or Library of Congress)",dist/06-lod-layer/metrics.csv
+06:holy_wells_any_external_record,932,99.6 % of 936,dist/06-lod-layer/metrics.csv
+06:holy_wells_community_knowledge_graph,936,100.0 % of 936,dist/06-lod-layer/metrics.csv
+06:holy_wells_domain_hub,242,25.9 % of 936,dist/06-lod-layer/metrics.csv
+06:holy_wells_entities,936,home: Wikidata,dist/06-lod-layer/metrics.csv
+06:holy_wells_heritage_register,859,91.8 % of 936,dist/06-lod-layer/metrics.csv
+06:holy_wells_media_and_3d,120,12.8 % of 936,dist/06-lod-layer/metrics.csv
+06:holy_wells_openstreetmap,654,69.9 % of 936,dist/06-lod-layer/metrics.csv
+06:holy_wells_place_name_gazetteer,2,0.2 % of 936,dist/06-lod-layer/metrics.csv
+06:holy_wells_two_or_more_kinds_of_hub,929,99.3 % of 936,dist/06-lod-layer/metrics.csv
+06:holy_wells_uncertainty,0,"none: Wikidata statements carry rank and references, but no weight",dist/06-lod-layer/metrics.csv
+06:holy_wells_wikidata_items_per_entity,1,,dist/06-lod-layer/metrics.csv
+06:hubs_shared_by_all,OpenStreetMap,,dist/06-lod-layer/metrics.csv
+06:hubs_shared_by_two,Logainm; SMR (Ireland); Wikidata,,dist/06-lod-layer/metrics.csv
+06:hubs_total,18,distinct hubs over the three cases,dist/06-lod-layer/metrics.csv
+06:ogham_stones_agents,214,normalised personal names,dist/06-lod-layer/metrics.csv
+06:ogham_stones_agents_with_authority,28,13.1 % (Ogham name index),dist/06-lod-layer/metrics.csv
+06:ogham_stones_any_external_record,473,93.8 % of 504,dist/06-lod-layer/metrics.csv
+06:ogham_stones_community_knowledge_graph,311,61.7 % of 504,dist/06-lod-layer/metrics.csv
+06:ogham_stones_domain_hub,421,83.5 % of 504,dist/06-lod-layer/metrics.csv
+06:ogham_stones_entities,504,home: OG(H)AM EpiDoc corpus (TEI),dist/06-lod-layer/metrics.csv
+06:ogham_stones_heritage_register,324,64.3 % of 504,dist/06-lod-layer/metrics.csv
+06:ogham_stones_media_and_3d,5,1.0 % of 504,dist/06-lod-layer/metrics.csv
+06:ogham_stones_openstreetmap,40,7.9 % of 504,dist/06-lod-layer/metrics.csv
+06:ogham_stones_place_name_gazetteer,255,50.6 % of 504,dist/06-lod-layer/metrics.csv
+06:ogham_stones_two_or_more_kinds_of_hub,354,70.2 % of 504,dist/06-lod-layer/metrics.csv
+06:ogham_stones_uncertainty,20,AMT weight on every reified statement; 20 of 116 kinship statements below 1.0,dist/06-lod-layer/metrics.csv
+06:ogham_stones_wikidata_items_per_entity,3,median,dist/06-lod-layer/metrics.csv
+07:edges_drawn,17,identifier edges in the scheme,dist/07-synthesis/metrics.csv
+07:key_image_px,1600 x 1200,"4:3, GROMA key image (>= 1200 x 900)",dist/07-synthesis/metrics.csv
+07:own_hubs_threshold,10 %,hubs of one case drawn from this share,dist/07-synthesis/metrics.csv
+07:shared_lines,SMR (Ireland); OpenStreetMap; Wikidata,hubs used by more than one case (>= 1 %),dist/07-synthesis/metrics.csv
+08:namesakes_1_well_gnd,17,namesakes with one well that have a GND record,dist/04-saints/saints.csv
+08:namesakes_1_well_gnd_pct,27.0,17 of 63 namesakes with one well,dist/04-saints/saints.csv
+10:ci_distance_median_km_dubious,55.2,"5 findspots with certainty 'dubious', the source excluded",dist/10-statistics/metrics.csv
+10:ci_distance_median_km_high,797.5,"14 findspots with certainty 'high', the source excluded",dist/10-statistics/metrics.csv
+10:ci_distance_median_km_low,908.5,"6 findspots with certainty 'low', the source excluded",dist/10-statistics/metrics.csv
+10:ci_distance_median_km_medium,53.0,"47 findspots with certainty 'medium', the source excluded",dist/10-statistics/metrics.csv
+10:ci_distance_median_km_not_stated,30.6,"4 findspots with certainty 'not stated', the source excluded",dist/10-statistics/metrics.csv
+10:ci_distance_median_km_representative,1721.0,"2 findspots with certainty 'representative', the source excluded",dist/10-statistics/metrics.csv
+10:custody_distance_median_km,110.4,182 stones,dist/10-statistics/metrics.csv
+10:custody_over_100_km,94,stones held more than 100 km from the findspot,dist/10-statistics/metrics.csv
+10:hub_kinds_ci_0,0,entities reaching 0 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_ci_1,48,entities reaching 1 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_ci_2,15,entities reaching 2 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_ci_3,15,entities reaching 3 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_ci_4plus,1,entities reaching 4+ kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_holy_wells_0,0,entities reaching 0 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_holy_wells_1,7,entities reaching 1 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_holy_wells_2,213,entities reaching 2 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_holy_wells_3,546,entities reaching 3 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_holy_wells_4plus,170,entities reaching 4+ kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_ogham_0,31,entities reaching 0 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_ogham_1,119,entities reaching 1 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_ogham_2,49,entities reaching 2 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_ogham_3,121,entities reaching 3 kinds of hub,dist/10-statistics/metrics.csv
+10:hub_kinds_ogham_4plus,184,entities reaching 4+ kinds of hub,dist/10-statistics/metrics.csv
+10:ogham_joined_england,1/17,stones joined to Wikidata / all stones of the region,dist/10-statistics/metrics.csv
+10:ogham_joined_ireland,306/375,stones joined to Wikidata / all stones of the region,dist/10-statistics/metrics.csv
+10:ogham_joined_isle_of_man,2/9,stones joined to Wikidata / all stones of the region,dist/10-statistics/metrics.csv
+10:ogham_joined_scotland,1/56,stones joined to Wikidata / all stones of the region,dist/10-statistics/metrics.csv
+10:ogham_joined_wales,1/47,stones joined to Wikidata / all stones of the region,dist/10-statistics/metrics.csv
+10:uncertainty_amt_weight_0_9,20,statements with weight 0.9: reading uncertain,dist/10-statistics/metrics.csv
+10:uncertainty_amt_weight_1_0,96,statements with weight 1.0,dist/10-statistics/metrics.csv
+10:uncertainty_ashes_match_types,74,"table findspots, one type per row",dist/10-statistics/metrics.csv

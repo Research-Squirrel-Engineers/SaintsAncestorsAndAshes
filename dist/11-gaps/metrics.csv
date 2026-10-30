@@ -1,0 +1,12 @@
+key,value,note
+single_items,53,single items of Wikidata without project and without P1382 link
+single_items_with_coordinate,52,of them with a coordinate (P625)
+single_items_with_candidate,46,of them with at least one corpus stone within 5 km
+single_items_ciic_match,5,of them where the CIIC number in the label is that of a stone within the radius
+single_items_ciic_match_joined,5,"of those, items that the corpus already joins to that stone (the item is in the stone's wikidata_items)"
+single_items_open_candidate,41,single items with a stone within the radius and no joined stone among them
+dead_sources,66,P1343 sources whose label is still the bare QID
+dead_source_edges,159,well-source edges that point at such a source
+dead_source_edges_total,3294,all well-source edges
+dead_source_edges_pct,4.8,"share of the edges, per cent"
+dead_source_wells,95,wells that have at least one such source

@@ -1,0 +1,17 @@
+# Everything the pipeline writes uses LF; keep it LF on every platform so a
+# rebuild on Windows leaves git status clean.
+*.py text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+*.graphml text eol=lf
+*.rq text eol=lf
+*.cff text eol=lf
+*.txt text eol=lf
+*.png binary
+*.ttf binary
+# Snapshots are kept byte for byte as obtained: no line-ending conversion,
+# otherwise their fingerprints in dist/00-inventory/inventory.csv would differ
+# between a Windows and a Linux checkout. Must stay last: later lines win.
+data/raw/** -text

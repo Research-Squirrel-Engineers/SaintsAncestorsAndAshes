@@ -1,0 +1,15 @@
+# Everything the holy wells in Ireland and the United Kingdom are named after
+# (P138) -- saints, but also body parts or cures -- with its type and gender.
+# Labels fall back from English to the language-neutral and the Irish label.
+# The external identifiers are in holywells_namesake_identifiers.rq: together
+# with the label fallback, one query returned more than the endpoint finishes
+# in time (truncated response, 2026-10-20). Feeds layer (a) of S4.
+SELECT DISTINCT ?namesake ?namesakeLabel ?type ?typeLabel ?gender ?genderLabel WHERE {
+  VALUES ?country { wd:Q27 wd:Q145 }
+  ?well wdt:P31 wd:Q1371047 ;
+        wdt:P17 ?country ;
+        wdt:P138 ?namesake .
+  OPTIONAL { ?namesake wdt:P31 ?type . }
+  OPTIONAL { ?namesake wdt:P21 ?gender . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul,ga". }
+}

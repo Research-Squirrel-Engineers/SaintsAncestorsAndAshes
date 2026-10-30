@@ -1,0 +1,4479 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "prop",
+      "propLabel",
+      "value"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106674310"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "35. Tullaherin I (Ogham Stone Concept by the Ogham in 3D Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "8494707479"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106674310"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "35. Tullaherin I (Ogham Stone Concept by the Ogham in 3D Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KK024-006005-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106674357"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Tullaherin II (Ogham Stone Concept by the Ogham in 3D Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "5965037771"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106674357"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Tullaherin II (Ogham Stone Concept by the Ogham in 3D Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KK024-062009-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106680741"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "86 (Ogham Stone Concept by the Research Squirrel Ogham Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10560404607"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106680773"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "115 (Ogham Stone Concept by the Research Squirrel Ogham Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "9990835587"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106680801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "137 (Ogham Stone Concept by the Research Squirrel Ogham Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10040750611"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106680819"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "152 (Ogham Stone Concept by the Research Squirrel Ogham Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11677113764"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106680820"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "153 (Ogham Stone Concept by the Research Squirrel Ogham Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11677109638"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106680850"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "178 (Ogham Stone Concept by the Research Squirrel Ogham Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "5145413640"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106680858"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "185 (Ogham Stone Concept by the Research Squirrel Ogham Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10563395863"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106680877"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "195 (Ogham Stone Concept by the Research Squirrel Ogham Project)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11071324384"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1141102"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Altyre House Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/121bk96h"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1141102"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Altyre House Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4356"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Megalithic Portal ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "7639"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1141102"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Altyre House Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P9284"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "GB1900 ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "584d628f2c66dc0ad402aa70"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116689501"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Drummin Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10601966825"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116689501"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Drummin Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "RO015-051001-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116689501"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Drummin Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "RO015-051004-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116689501"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Drummin Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4059"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish National Monument ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "650"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123001161"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Drumlohan Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2186"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Wiki Loves Monuments ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "IE-WD-0249"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123001161"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Drumlohan Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "WA024-033015-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125855438"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone from Coventry",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11890993295"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126493444"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone #1 UCC Stone Corridor",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670781"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126493444"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone #1 UCC Stone Corridor",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P14097"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Sketchfab model ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "ucc-stone-corridor-1-6476187699de44af8042030e197c1a3f"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126500897"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone 1777.1023 (G1094) Cork Public Museum",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11966430251"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126500897"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone 1777.1023 (G1094) Cork Public Museum",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P14097"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Sketchfab model ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "cork-public-museum-chuis1-07d2bad6bbeb45d99fac246462af6eba"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126500898"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone L.1954.3 Cork Public Museum",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11966441102"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126500898"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone L.1954.3 Cork Public Museum",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P14097"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Sketchfab model ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "cork-public-museum-gaers1-392f5ae0836d4e6f813caf6d7c5bb908"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126500903"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Fragment 1993.16 Cork Public Museum",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11966423819"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126503090"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Coumeenole North / Dunmore Head, Co. Kerry",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "5145413640"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126503090"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Coumeenole North / Dunmore Head, Co. Kerry",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2186"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Wiki Loves Monuments ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "IE-KY-0138"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126503090"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Coumeenole North / Dunmore Head, Co. Kerry",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE052-059002-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130529871"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone UCC Stone Corridor IV",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11071361392"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130529871"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone UCC Stone Corridor IV",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P14097"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Sketchfab model ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "cork-ogham-stone-ciic-81-ucc-4-4cb26986be274ee099515c2baa3b1825"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130529871"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone UCC Stone Corridor IV",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-148----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130529871"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone UCC Stone Corridor IV",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P8168"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "FactGrid item ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Q1000294"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16065801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dunloe Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P10689"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap way ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "768851429"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16065801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dunloe Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2186"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Wiki Loves Monuments ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "IE-KY-0025"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16065801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dunloe Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/1q2xhjqqt"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16065801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dunloe Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE065-041----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16065801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dunloe Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE065-041001-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16065801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dunloe Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE065-041002-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16065801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dunloe Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE065-041003-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16065801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dunloe Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE065-041004-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16065801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dunloe Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE065-041005-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16065801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dunloe Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE065-041006-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16065801"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dunloe Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4059"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish National Monument ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "385"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18629532"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Rathduff ogham stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11b6g4360r"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19297552"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Shantraud Ogham-Runic Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1260"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Swedish Open Cultural Heritage URI",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "uu/srdb/9a7f7482-468c-46a2-a482-d6cd92a7e8df"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19297552"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Shantraud Ogham-Runic Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1261"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Scandinavian Runic-text Database ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "IR 2"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19297552"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Shantraud Ogham-Runic Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11b71tsxrx"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19297554"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ardmore ogham stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11b70_c44j"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2016154"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Silchester Ogham stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P646"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Freebase ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/m/012fzv34"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2016156"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Cnoc na Fola ogham stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "4395991496"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2016156"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Cnoc na Fola ogham stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11r7pngzw"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2016156"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Cnoc na Fola ogham stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE054-033002-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2016156"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Cnoc na Fola ogham stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE054-033004-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21036926"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Templebryan North Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11bwf1fmvq"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21036926"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Templebryan North Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO122-075004-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232123"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Castletimon Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10594973066"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232123"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Castletimon Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11c1c4qksq"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232123"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Castletimon Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11hbpdnp6m"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232281"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballyboodan Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "8308921075"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232281"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballyboodan Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P14097"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Sketchfab model ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "ballyboodan-ogham-stone-6b733b9fd210496bbe555b3c426ff182"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232281"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballyboodan Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P14097"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Sketchfab model ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "ballyboodan-ogham-stone-cf2d10fdb7994ea2998a20ca010a0ece"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232281"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballyboodan Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11cs09cwsp"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232281"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballyboodan Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KK031-058----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232281"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballyboodan Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4059"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish National Monument ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "599"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232526"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Breastagh Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "3220290865"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232526"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Breastagh Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P14097"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Sketchfab model ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "breastagh-ogham-stone-mayo-60185a7bf9e24756a2d0b7bb740bde7a"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232526"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Breastagh Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11c1_vqtmg"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232526"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Breastagh Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MA015-018001-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28232526"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Breastagh Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4059"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish National Monument ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "415"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/1214f_r7"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P402"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap relation ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "16507745"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE053-033005-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE053-033006-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE053-033007-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE053-033008-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE053-033009-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE053-033010-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE053-033011-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE053-033012-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE053-033013-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28434821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballintaggart Ogham Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE053-033014-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28752771"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ratass ogham stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11g6bm2x0h"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28934767"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone of Cloonmorris",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11dxb3p0p3"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30247114"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone, Ratass Church",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "7082293699"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30247114"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone, Ratass Church",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2186"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Wiki Loves Monuments ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "IE-KY-0005"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30247114"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone, Ratass Church",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE029-157002-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30247114"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone, Ratass Church",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4059"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish National Monument ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "57"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30247257"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballinrannig Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "7203972860"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30247257"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballinrannig Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P14097"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Sketchfab model ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "ballinrannig-ogham-stone-2-88f32ed88497483da4d3607b6649d68e"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30247257"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballinrannig Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2186"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Wiki Loves Monuments ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "IE-KY-0126"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30247257"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballinrannig Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE042-057011-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31571610"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone in County Cork",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1566"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "GeoNames ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "3300050"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31571610"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone in County Cork",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2326"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "GNS Unique Feature ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "349989"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31571766"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone in County Waterford",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P1566"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "GeoNames ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "3301605"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31571766"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone in County Waterford",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2326"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "GNS Unique Feature ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "358041"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31841107"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dungummin Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11f03_zpb1"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38251860"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ardcanaght Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "8584276628"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38251860"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ardcanaght Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P14097"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Sketchfab model ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "ardcanaght-rock-art-ke047-026002-3aedc177730b405b97c29d0d9e21f937"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38251860"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ardcanaght Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11g9swd2j1"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38251860"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ardcanaght Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE047-026001-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38251860"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ardcanaght Stones",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KE047-026003-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42377707"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Darrynane Beg Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "8779281624"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42377707"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Darrynane Beg Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11gcgtqjfd"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48797670"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Arraglen Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "1275923177"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48797670"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Arraglen Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11gd700m6f"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51076102"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Kilmurvy ogham stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11fzw9_z47"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56751524"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Vitalianus Stone, Nevern",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11fd6ddfwz"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6485620"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Lang Stane of Auquhollie",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4356"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Megalithic Portal ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10150"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6485620"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Lang Stane of Auquhollie",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P646"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Freebase ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/m/09v0tx0"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6485620"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Lang Stane of Auquhollie",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P718"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Canmore ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "37143"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6704421"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Lunnasting stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P646"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Freebase ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/m/026ld4t"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q67978531"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 203 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "6810674728"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q69377850"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 103 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-145----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q69383434"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 115 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670771"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q69383434"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 115 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-134----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q69385241"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 117 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670773"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q69385241"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 117 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-135----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70382438"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 116 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955662684"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70382438"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 116 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-137----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70382440"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 113 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670798"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70382440"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 113 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-136----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70556588"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Fiddaun Upper",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P14097"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Sketchfab model ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "fiddaun-upper-i-kik-006-12457e8cc0ad4079917cbab426932342"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70556588"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Fiddaun Upper",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11j01wxk60"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70556588"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Fiddaun Upper",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KK029-020----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885690"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 89 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670796"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885690"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 89 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-164----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885692"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 93 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670797"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885692"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 93 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-163----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885695"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 85 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670798"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885697"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 96 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670785"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885698"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 87 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670793"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885698"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 87 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-161----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885701"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 262 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670775"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885701"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 262 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-140----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885703"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 95 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670792"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885703"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 95 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-160----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885704"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 83 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670791"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885704"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 83 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-159----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885706"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 94 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670794"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885706"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 94 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-158----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885712"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 90 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670789"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885712"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 90 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-157----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885713"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 92 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670798"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885713"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 92 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-156----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885716"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 86 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10560404607"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885716"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 86 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-155----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885720"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 88 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670786"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885720"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 88 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-154----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885722"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 127 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670780"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885722"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 127 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-144----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885723"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 63 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670784"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885723"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 63 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-146----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885727"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 107 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670779"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885727"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 107 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-143----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885728"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 105 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-142----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885730"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 61 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670776"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885730"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 61 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-151----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885734"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 128 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670794"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885734"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 128 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-147----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885736"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 114 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-139----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885739"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 112 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955662685"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70885739"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 112 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-138----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70892361"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 32 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P14097"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Sketchfab model ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "gowran-ogham-stone-ffc2e644be634a19990cecb1ca857e42"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70892361"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 32 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "KK020-060007-"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70892563"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 135 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "11955670794"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70892563"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 135 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO074-152----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70892569"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 137 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10040750611"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70892578"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 141 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10041491619"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70892582"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 142 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10041927343"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70892701"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 185 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10563395863"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70892706"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 187 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "9110402648"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70892852"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "CIIC 242 (Ogham Stone Concept by RAS Macalister)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10040757680"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q78062999"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballybowler North Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10639514250"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q78062999"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballybowler North Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11h58fyy1t"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q805400"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballcrovane ogham stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "473149586"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q805400"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballcrovane ogham stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2186"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Wiki Loves Monuments ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "IE-CO-0093"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q805400"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballcrovane ogham stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/1230jlkz"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q805400"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballcrovane ogham stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4057"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish Sites and Monuments Record ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "CO102-013----"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q805400"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ballcrovane ogham stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P4059"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Irish National Monument ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "426"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q891334"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Boleycarrigeen ogham stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/120r4kxd"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96377241"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Emlagh East Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P11693"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "OpenStreetMap node ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "10652214543"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96377241"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Emlagh East Ogham Stone",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2671"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Google Knowledge Graph ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "/g/11j600crx2"
+        }
+      }
+    ]
+  }
+}

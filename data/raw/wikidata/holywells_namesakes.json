@@ -1,0 +1,5414 @@
+{
+  "head": {
+    "vars": [
+      "namesake",
+      "namesakeLabel",
+      "type",
+      "typeLabel",
+      "gender",
+      "genderLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120999994"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Darbiled",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121010274"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Cóelfhind",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1288349"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Íte of Killeedy",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1291152"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Werburgh",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130535426"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Ríoghnach of Kilrainy",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139256990"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Caoimheall",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139285626"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Buonia",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139328382"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Eilibh",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139377606"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Seven Sisters",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139380063"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Aithneann of Killannin",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139384793"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Inghne Bhuidhe",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139489394"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Branait",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139495962"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Coneela",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139497765"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Lasair of Donaghmoyne",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139502948"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Sínech",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139551084"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Coca",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139552386"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Eaumas",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139552530"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Bigseach",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139566550"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Aedhnat",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139567016"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Damhnad of Tedavnet",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139568491"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Crone of Templecrone",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q164294"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Anne",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q170164"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Helena Augusta",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179718"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Catherine of Alexandria",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21070568"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human whose existence is disputed",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179718"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Catherine of Alexandria",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18535665"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Gwenfaen",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q192816"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Barbara",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21070568"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human whose existence is disputed",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q192816"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Barbara",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200895"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Agatha of Sicily",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q210096"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Agnes of Rome",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2575112"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Winifred",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q297742"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Margaret the Virgin",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q345"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Mary",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20643955"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human biblical figure",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4072290"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Athracht",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4096911"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Brónach",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4301754"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Moninne",
+          "xml:lang": "mul"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q466428"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Philomena",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5575577"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Gobnait",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63070"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Mary Magdalene",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20643955"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human biblical figure",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64786428"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Eithne",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7665324"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Sárnait",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581072"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80979"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Brigid of Kildare",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106982086"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Berchert",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1110134"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Colmán of Lindisfarne",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1133742"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Cainnech of Aghaboe",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120132"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Adomnán",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1277655"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Dallán Forgaill",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q128267"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Joseph",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20643955"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human biblical figure",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130531018"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Mochuille of Dresnaidh",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130531057"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Modhomhnóg Oilthir",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130535583"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Cuán of Kilcoan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130535684"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Senán of Laraghbryan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130535806"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Bearchán of Drumlohan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130535826"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Náile of Kinawley",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130549605"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Colmán of Connahy",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133704"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Martin of Tours",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139078212"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Olan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21070568"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human whose existence is disputed",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139257038"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Caomhán Santleathan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139257128"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Cuan of Airbhre",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139265301"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Oncho",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139380386"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Conall of Drumcliff",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139497934"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Bearchán of Castlehaven",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139980476"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Sárán of Tisaran",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q165479"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Patrick",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16933730"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Scuithin",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16976546"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Munn",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q177232"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "son",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q171318"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "kinship",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18530405"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Mo Laga mac Duib Dligid",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18674069"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Lachtín mac Tarbín",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188411"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Bernard of Clairvaux",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19871498"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Brecan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q208961"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Brendan the Navigator",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2280421"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Ciarán of Saigir",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q236326"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Columba",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2419830"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Lorcán Ua Tuathail",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2459547"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Ruadán of Lorrha",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q250370"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Brendan of Birr",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2697141"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Colman",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q302"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Jesus Christ",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20643955"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human biblical figure",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q302"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Jesus Christ",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3053971"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Enda of Aran",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q305843"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Abbán",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3066480"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Molaise of Leighlin",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3072671"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Fintan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3274265"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Manchán of Lemanaghan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q331697"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint David",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q33923"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Peter",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4003116"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Ultan of Ardbraccan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q404099"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Máedóc of Ferns",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40662"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "John the Baptist",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20643955"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human biblical figure",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4085252"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Berchán",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4246968"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Cuimín of Kilcummin",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4300418"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Mo Ling",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43399"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Andrew the Apostle",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20643955"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human biblical figure",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43999"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "St. James the Elder",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20643955"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human biblical figure",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43999"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "St. James the Elder",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44091"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Dominic",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44269"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Nicholas",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4482461"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Felim",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4483352"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Féchín of Fore",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4484931"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Fintán of Taghmon",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4531465"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Ailbe of Emly",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47149"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Sylvester I",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5147732"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Colman mac Duagh",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5202799"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Cúan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q558148"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Leonard of Noblac",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q622095"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Finnian of Clonard",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q622223"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Finan of Lindisfarne",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q676555"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Francis of Assisi",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7386467"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Ríoch",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q738988"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Ciarán of Clonmacnoise",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7401223"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Saint Fachanan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7401926"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Moluag",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8018"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Augustine of Hippo",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q923854"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Declán of Ardmore",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "gender": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "genderLabel": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q953927"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Fiacre",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "human",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101971"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "wart",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112193867"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "type of disease",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101971"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "wart",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112965645"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "symptom or sign",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104260960"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Tullowphelim",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104261211"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Bridetree",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104264421"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Rathlogan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104264753"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Knockroe",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104264862"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Graigue",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104265089"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Grove",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104265131"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Kildalton",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104265456"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Maudlin",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104265623"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Muckalee",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104266259"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Kellymount",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104266369"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Glencoum",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104266380"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Ballyreddy",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104270859"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Calliaghstown",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104304095"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Coole Upper",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104319702"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Kilrossanty",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104338937"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Kilbegly",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104343029"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Keeloges",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104350270"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Doon",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107194475"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "spout",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107257053"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "clootie tree",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10884"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "tree",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104086571"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "first-order class",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10884"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "tree",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2355817"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "plant life-form",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10884"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "tree",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55983715"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "organisms known by a particular common name",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113925598"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "secret",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1146843"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "anchorite",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15931954"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "religious calling",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1146843"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "anchorite",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4504549"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "religious role",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "monarch",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q355567"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "noble title",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q116"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "monarch",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4164871"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "position",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1188398"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "flagstone",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Friday",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41825"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "day of the week",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13147"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "skull",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103843042"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "organism subdivision type",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13147"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "skull",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112826905"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "class of anatomical entity",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Sunday",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41825"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "day of the week",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132241"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "festival",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108586636"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "form of event",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132539"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "rosary",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3406098"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "Prayer in the Catholic Church",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1341387"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "spa",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q139373669"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Creevaghbaun Well",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1371047"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "holy well",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15238543"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Kings River",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4022"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "river",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1543947"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "quern-stone",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15635788"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Lawrence",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12308941"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "male given name",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1581290"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "healing",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10843872"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "process",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1581290"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "healing",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10960555"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "disease stage",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q158200"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Hydrocotyle",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16521"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "taxon",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q161511"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Crataegus monogyna",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16521"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "taxon",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16290387"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Kathleen",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11879590"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "female given name",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16865665"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Cody",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101352"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "family name",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16970"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "church building",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q811102"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "type of building",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q170028"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "deception",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38786485"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "form of communication",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1723890"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "babbling",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1909343"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "dermatophytosis",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112193867"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "type of disease",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191808"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "nun",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138348066"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "female occupation",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191808"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "nun",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4504549"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "religious role",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19830690"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Benjamín",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12308941"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "male given name",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q209542"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "herd",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2102"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "snake",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55983715"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "organisms known by a particular common name",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21196"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Easter",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1825417"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "moveable feast",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21196"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Easter",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60075825"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "Christian holy day",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23640"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "head",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112826905"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "class of anatomical entity",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q250867"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Catholic priest",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138348131"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "male occupation",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q250867"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Catholic priest",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63188808"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "Catholic vocation",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q277760"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "gatehouse",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29182"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "bishop",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21114371"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "episcopal title",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29182"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "bishop",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3139516"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "ecclesiastical occupation",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29182"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "bishop",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4164871"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "position",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q355304"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "watercourse",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12046615"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "feature type",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37090"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Holy Trinity",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29430681"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "triad",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37090"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Holy Trinity",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3045134"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "Christian dogma",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37090"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Holy Trinity",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q39604065"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "monad",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37090"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Holy Trinity",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4818719"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "attributes of God in Christianity",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q380356"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "True Cross",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q39614"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "cemetery",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q618123"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "geographical feature",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40558"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "smithy",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4224065"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Clonenagh",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42603"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "priest",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43229"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "organization",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42603"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "priest",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4504549"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "religious role",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43115"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "saint",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q216353"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "title",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4421"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "forest",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125824188"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "ecosystem type",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4421"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "forest",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137022846"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "type of region",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4421"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "forest",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q151885"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "concept",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4421"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "forest",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2083910"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "vegetational formation",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45581"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Michael",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10822464"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "angels in Christianity",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45581"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Michael",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q178342"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "archangel",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45581"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Michael",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4306757"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "Mukarrabun",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45581"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Michael",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q690175"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "angel in Judaism",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47521"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "stream",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111360549"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "type of physical object",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4927045"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Luke",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12308941"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "male given name",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q548320"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "friar",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63188808"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "Catholic vocation",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q558067"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Ann",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11879590"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "female given name",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6021560"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "nunnery",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8031625"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "women only space",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6021560"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "nunnery",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q811102"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "type of building",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60554685"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Kilcummin",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3910694"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "civil parish",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6686215"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Loughman",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101352"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "family name",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7242"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "beauty",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q129510955"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "type of value",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7242"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "beauty",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2393196"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "personality trait",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7242"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "beauty",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55387456"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "aesthetic concept",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7364"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "eye",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103812529"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "organ type",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7364"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "eye",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112826905"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "class of anatomical entity",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7364"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "eye",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3355930"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "sensory organ",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7852138"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Tullaherin",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2151232"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "townland",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q827311"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Philip",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12308941"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "male given name",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8471184"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "Brendan",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12308941"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "male given name",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "headache",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130753312"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "symptom type",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q86"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "headache",
+          "xml:lang": "en"
+        },
+        "type": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1451794"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "women's disease",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92383"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "ringfort",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "namesake": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q944588"
+        },
+        "namesakeLabel": {
+          "type": "literal",
+          "value": "slope",
+          "xml:lang": "en"
+        }
+      }
+    ]
+  }
+}

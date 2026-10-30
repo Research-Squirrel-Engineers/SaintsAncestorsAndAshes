@@ -1,0 +1,1983 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "prop",
+      "propLabel",
+      "value"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q115"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Toplitsa Cave",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://openstreetmap.org/node/11109379095"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q115"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Toplitsa Cave",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q61788595"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q13"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "San Giorgio Ionico 1949",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://openstreetmap.org/node/68530185"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q13"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "San Giorgio Ionico 1949",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q52035"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q131"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Coumeenole North",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://lod.ogham.link/data/Y50000178"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q131"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Coumeenole North",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q126503090"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q131"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Coumeenole North",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://database.factgrid.de/entity/Q1013415"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q131"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Coumeenole North",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://wikibase.semantic-kompakkt.de/entity/Q1261"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q131"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone Coumeenole North",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P19"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Semantic Kompakkt ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Q1261"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q134"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dead Sea Deep Drilling Project 5017-1A",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q23883"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q134"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dead Sea Deep Drilling Project 5017-1A",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://openstreetmap.org/relation/9351124"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q134"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dead Sea Deep Drilling Project 5017-1A",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P32"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "located in the administrative territorial entity",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219060"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q134"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dead Sea Deep Drilling Project 5017-1A",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P32"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "located in the administrative territorial entity",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q801"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q134"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Dead Sea Deep Drilling Project 5017-1A",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P32"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "located in the administrative territorial entity",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q810"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q136"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Pompeii Casa della Fontana Piccola",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q27686281"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q136"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Pompeii Casa della Fontana Piccola",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://openstreetmap.org/relation/4192269"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q136"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Pompeii Casa della Fontana Piccola",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P32"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "located in the administrative territorial entity",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q38"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q137"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Pompeii Via dell’Abbondanza",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q12778461"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q137"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Pompeii Via dell’Abbondanza",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://openstreetmap.org/way/192397270"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q137"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Pompeii Via dell’Abbondanza",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P32"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "located in the administrative territorial entity",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q38"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q138"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Pompeii Casa della Caccia Antica",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q27686986"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q138"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Pompeii Casa della Caccia Antica",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://openstreetmap.org/node/319406677"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q138"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Pompeii Casa della Caccia Antica",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P32"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "located in the administrative territorial entity",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q38"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q139"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Fumane Cave",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q3936338"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q139"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Fumane Cave",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://openstreetmap.org/node/1894965622"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q140"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ignaz Storek (Brünn)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://www.openstreetmap.org/node/296551085"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q146"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "E53 Place",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P37"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "equivalent class",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.cidoc-crm.org/cidoc-crm/E53_Place"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q147"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "E26 Physical Feature",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P37"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "equivalent class",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.cidoc-crm.org/cidoc-crm/E26_Physical_Feature"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q46"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Crotone, loc. Via Paternostro 1974",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://openopenstreetmap.org/node/1257748539"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q46"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Crotone, loc. Via Paternostro 1974",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q6681"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q49"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Bruttium",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://gazetteer.dainst.org/place/2071876"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q50"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Calabria (Regione)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://gazetteer.dainst.org/place/2180561"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q51"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Leucopetra (cape)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://pleiades.stoa.org/places/452366"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q52"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Shepherd - Bruttium (Calabria) - 1911",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://upload.wikimedia.org/wikipedia/commons/7/75/Shepherd_-_Bruttium_%28Calabria%29_-_1911.png"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q53"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Taranto (Italy)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://sws.geonames.org/3165926"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q54"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Paestum (Italy)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://sws.geonames.org/3171709"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q55"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Strongoli (Italy)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://sws.geonames.org/2522990"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q56"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Calabria (Italy)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://sws.geonames.org/2525468"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q57"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "South Italy",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://sws.geonames.org/12089033"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q58"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Province of Brindisi (Italy)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://sws.geonames.org/3181526"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q59"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Curinga (Italy)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://sws.geonames.org/2524872"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q60"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Taranto, Via Oberdan",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://coinhoards.org/id/igch1902"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q60"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Taranto, Via Oberdan",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://sws.geonames.org/3165926"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q61"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Paestum (anc. Poseidonia), Lucania",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://coinhoards.org/id/igch1925"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q61"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Paestum (anc. Poseidonia), Lucania",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://sws.geonames.org/3171709"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q62"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Strongoli (anc. Petelia), 25 km. N of Croton, Bruttium",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://coinhoards.org/id/igch1885"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q62"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Strongoli (anc. Petelia), 25 km. N of Croton, Bruttium",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://sws.geonames.org/2522990"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q63"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Calabria (anc. Bruttium)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://coinhoards.org/id/igch1873"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q63"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Calabria (anc. Bruttium)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://sws.geonames.org/2525468"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q64"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "South Italy",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://coinhoards.org/id/igch1894"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q64"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "South Italy",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://sws.geonames.org/12089033"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q66"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Curinga, 30 km. WSW of Catanzaro, Bruttium",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://coinhoards.org/id/igch1881"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q66"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Curinga, 30 km. WSW of Catanzaro, Bruttium",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://sws.geonames.org/2524872"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q67"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Fiume Esaro 1967 (gennaio)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://openopenstreetmap.org/way/137318585"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q67"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Fiume Esaro 1967 (gennaio)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q6681"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q68"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Curinga 1916 (IGCH 1881 / Noe 285)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://coinhoards.org/id/igch1881"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q68"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Curinga 1916 (IGCH 1881 / Noe 285)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://openstreetmap.org/relation/39724"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q68"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Curinga 1916 (IGCH 1881 / Noe 285)",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q53514"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q69"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ionian Shore, Bruttium",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://coinhoards.org/id/igch1916"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q69"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ionian Shore, Bruttium",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://sws.geonames.org/3181526"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q70"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Auel Maar AU3",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://kulturdb.de/einobjekt.php?id=23391"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q70"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Auel Maar AU3",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P32"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "located in the administrative territorial entity",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q73"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Urluia Quarry",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://openstreetmap.org/way/84975654"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q73"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Urluia Quarry",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://sws.geonames.org/664132"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q73"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Urluia Quarry",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130547772"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q73"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Urluia Quarry",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P32"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "located in the administrative territorial entity",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q218"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q74"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone UCC Stone Corridor IV",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://lod.ogham.link/data/Y50000081"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q74"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone UCC Stone Corridor IV",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q130529871"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q74"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone UCC Stone Corridor IV",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://database.factgrid.de/entity/Q1000294"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q74"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone UCC Stone Corridor IV",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://wikibase.semantic-kompakkt.de/entity/Q1247"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q74"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone UCC Stone Corridor IV",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P19"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Semantic Kompakkt ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Q1262"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q74"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Ogham Stone UCC Stone Corridor IV",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P34"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "Wikidata ID",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Q130529871"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q84"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Auel Maar AU4",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://kulturdb.de/einobjekt.php?id=23391"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q84"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Auel Maar AU4",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P32"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "located in the administrative territorial entity",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q85"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "DE3 Dehner Maar",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://kulturdb.de/einobjekt.php?id=8502"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q85"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "DE3 Dehner Maar",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P32"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "located in the administrative territorial entity",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q88"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Campi Flegri",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://openstreetmap.org/node/10879170567"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q88"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Campi Flegri",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q755123"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q88"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Campi Flegri",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P32"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "located in the administrative territorial entity",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q95"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "London (Londinium) / No. 1 Poultry",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://data.archaeology.link/data/samian/loc_ds_1000136"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q95"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "London (Londinium) / No. 1 Poultry",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P10"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "related to",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://wikidata.org/entity/Q103177460"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/Q95"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "London (Londinium) / No. 1 Poultry",
+          "xml:lang": "en"
+        },
+        "prop": {
+          "type": "uri",
+          "value": "https://fuzzy-sl.wikibase.cloud/entity/P27"
+        },
+        "propLabel": {
+          "type": "literal",
+          "value": "has match",
+          "xml:lang": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://data.archaeology.link/data/samian/loc_ds_1000136"
+        }
+      }
+    ]
+  }
+}

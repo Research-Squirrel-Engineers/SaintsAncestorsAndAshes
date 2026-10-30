@@ -1,0 +1,15 @@
+findspot,label,fuzzysl_item,fuzzysl_label,matched_by,shared_resources,certainty_csv,certainty_fuzzysl,coordinate_statements,resources_only_in_fuzzysl
+cisite_19,Paglicci Cave,https://fuzzy-sl.wikibase.cloud/entity/Q114,Paglicci Cave,label,0,medium,medium,1,
+cisite_201,Auel Maar AU3,https://fuzzy-sl.wikibase.cloud/entity/Q70,Auel Maar AU3,label,0,high,high,1,
+cisite_202,Auel Maar AU4,https://fuzzy-sl.wikibase.cloud/entity/Q84,Auel Maar AU4,label,0,high,high,1,
+cisite_203,Dehner Maar DE3,https://fuzzy-sl.wikibase.cloud/entity/Q85,DE3 Dehner Maar,label,0,high,high,1,
+cisite_22,Phlegraean Fields,https://fuzzy-sl.wikibase.cloud/entity/Q88,Campi Flegri,identifier,2,medium,medium,1,
+cisite_42,Kozarnika Cave (Bulgaria),https://fuzzy-sl.wikibase.cloud/entity/Q119,Kozarnika Cave,label,0,high,high,1,
+cisite_43,Temnata Cave (Bulgaria),https://fuzzy-sl.wikibase.cloud/entity/Q118,Temnata Cave,label,0,high,high,1,
+cisite_44,Toplitsa Cave (Bulgaria),https://fuzzy-sl.wikibase.cloud/entity/Q115,Toplitsa Cave,identifier,2,high,high,1,
+cisite_45,Franchthi Cave (Greece),https://fuzzy-sl.wikibase.cloud/entity/Q111,Franchthi Cave,label,0,high,high,1,
+cisite_5,Castelcivita Cave,https://fuzzy-sl.wikibase.cloud/entity/Q117,Castelcivita Cave,label,0,high,high,1,
+cisite_50,Golema Pesht Cave near Zdunje (Macedonia),https://fuzzy-sl.wikibase.cloud/entity/Q112,Golema Pesht Cave near Zdunje,label,0,dubious,dubious,1,
+cisite_51,Crvena Stiljena (Montenegro),https://fuzzy-sl.wikibase.cloud/entity/Q89,Crvena Stiljena Cave,label,0,high,high,1,
+cisite_52,Urluia (Romania),https://fuzzy-sl.wikibase.cloud/entity/Q73,Urluia Quarry,identifier,2,medium,medium,1,http://www.wikidata.org/entity/Q130547772
+cisite_65,Haua-Fteah (Libya),https://fuzzy-sl.wikibase.cloud/entity/Q116,Haua-Fteah Cave,label,0,high,high,1,
